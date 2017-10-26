@@ -1,0 +1,3338 @@
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29064808</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0043-5147</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>70</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Wiadomosci lekarskie (Warsaw, Poland : 1960)</Title>
+                <ISOAbbreviation>Wiad. Lek.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The role of the human microbiom in the pathogenesis of rheumatoid arthritis - a literature review].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>798-803</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Rheumatoid arthritis is a chronic, progressive, autoimmune disease with numerous articular, extra-articular and systemic manifestations. The cause of rheumatoid arthritis is multifactorial including genetic and environmental factors. Recent advantages in sequencing techniques have allowed the deep characterization of the human microbiota. Available evidence confirms the existence of an association between dysbiosis and rheumatoid arthritis but it still remains unclear whether alterations in the microbiome are a pathogenic cause or an effect of autoimmune disease. In patients with rheumatoid arthritis the most supported association between disease and microbiota is with the oral dysbiosis usually observed in patients with periodontitis. Given the strong variability and abundance of microbes living in close relation with human host, it becomes a difficult task to define what should be considered the favorable microbiome. There is need for broader studies to establish how the human microbiome contributes to disease susceptibility, and to characterize the role of microbial diversity in the pathogenesis of rheumatoid arthritis, disease manifestation, and progression. The identification of dysbiosis specific for rheumatoid arthritis and the understanding of the dynamic interaction between microbiota and their host may help in establishing an individualized management for each patient with rheumatoid arthritis, and achieve a better efficacy of the therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Krajewska-Włodarczyk</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oddział Reumatologii Miejskiego Szpitala Zespolonego W Olsztynie, Olsztyn, Polska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>pol</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Wiad Lek</MedlineTA>
+            <NlmUniqueID>9705467</NlmUniqueID>
+            <ISSNLinking>0043-5147</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">dysbiosis</Keyword>
+            <Keyword MajorTopicYN="N">microbiome</Keyword>
+            <Keyword MajorTopicYN="N">rheumatoid arthritis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29064808</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063666</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1582-4934</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular and molecular medicine</Title>
+                <ISOAbbreviation>J. Cell. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dimethyl fumarate inhibits osteoclasts via attenuation of reactive oxygen species signalling by augmented antioxidation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jcmm.13367</ELocationID>
+            <Abstract>
+                <AbstractText>Bone destructive diseases are common worldwide and are caused by dysregulation of osteoclast formation and activation. During osteoclastogenesis, reactive oxygen species (ROS) play a role in the intracellular signalling triggered by receptor activator of nuclear factor-κB ligand (RANKL) stimulation. Previously, we demonstrated that induction of antioxidant enzymes by Nrf2 activation using Nrf2-gene transfer, an ETGE-peptide or polyphenols, successfully ameliorated RANKL-dependent osteoclastogenesis. Dimethyl fumarate (DMF) has been shown to activate Nrf2 signalling and has been lately used in clinical trials for neurodegenerative diseases. In this study, we hypothesized that Nrf2 activation by DMF would inhibit osteoclastogenesis and bone destruction via attenuation of intracellular ROS signalling through antioxidant mechanisms. RAW 264.7 cells were used as osteoclast progenitor cells. We found that DMF induced Nrf2 translocation to the nucleus, augmented Nrf2 promoter-luciferase reporter activity and increased antioxidant enzyme expression. Using flow cytometry, we found that DMF attenuated RANKL-mediated intracellular ROS generation, which resulted in the inhibition of RANKL-mediated osteoclastogenesis. Local DMF injection into the calvaria of male BALB/c mice resulted in attenuated bone destruction in lipopolysaccharide-treated mice. In conclusion, we demonstrated in a preclinical setting that DMF inhibited RANKL-mediated osteoclastogenesis and bone destruction via induction of Nrf2-mediated transcription of antioxidant genes and consequent decrease in intracellular ROS levels. Our results suggest that DMF may be a promising inhibitor of bone destruction in diseases like periodontitis, rheumatoid arthritis and osteoporosis.</AbstractText>
+                <CopyrightInformation>© 2017 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &amp; Sons Ltd and Foundation for Cellular and Molecular Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yamaguchi</LastName>
+                    <ForeName>Yuuki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanzaki</LastName>
+                    <ForeName>Hiroyuki</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3473-1218</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katsumata</LastName>
+                    <ForeName>Yuta</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Itohiya</LastName>
+                    <ForeName>Kanako</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukaya</LastName>
+                    <ForeName>Sari</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyamoto</LastName>
+                    <ForeName>Yutaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narimiya</LastName>
+                    <ForeName>Tsuyoshi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wada</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Yoshiki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthodontics, School of Dental Medicine, Tsurumi University, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Cell Mol Med</MedlineTA>
+            <NlmUniqueID>101083777</NlmUniqueID>
+            <ISSNLinking>1582-1838</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HO-1</Keyword>
+            <Keyword MajorTopicYN="N">Nrf2</Keyword>
+            <Keyword MajorTopicYN="N">antioxidant response</Keyword>
+            <Keyword MajorTopicYN="N">dimethyl fumarate</Keyword>
+            <Keyword MajorTopicYN="N">osteoclast</Keyword>
+            <Keyword MajorTopicYN="N">oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">reactive oxygen species</Keyword>
+            <Keyword MajorTopicYN="N">receptor activator of nuclear factor-kB ligand</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063666</ArticleId>
+            <ArticleId IdType="doi">10.1111/jcmm.13367</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063487</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1568-5608</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inflammopharmacology</Title>
+                <ISOAbbreviation>Inflammopharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting of circulating Th17 cells by β-D-mannuronic acid (M2000) as a novel medication in patients with rheumatoid arthritis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10787-017-0410-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study aimed at investigating the inhibitory effect of β-D-mannuronic acid (M2000) on the Th17 circulating levels and IL-17 a related cytokine in rheumatoid arthritis (RA) patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study included 27 patients with RA who had failed response to treatment. All patients were treated orally by M2000 at a dose of 500 mg twice daily for 12 weeks (Clinical trial identifier: IRCT2014011213739N2). The patients based on anti-tumor necrosis factor alpha (TNFα) blocker treatment were classified into two groups (conventional group and etanercept group). They were then allowed to continue their treatment excluding non-steroidal anti-inflammatory drugs (NSAIDs). The frequency of circulating Th17 cells and IL-17 serum level were determined before and 12 weeks after M2000 therapy and were compared to the healthy controls by using flow cytometry analysis and ELISA method, respectively.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At baseline, higher circulating Th17 and IL-17 serum levels were significantly observed in both groups of RA patients than in the healthy controls (all P &lt; 0.001). The frequency of Th17 cells significantly decreased in the conventional group as well as in the etanercept group after M2000 therapy but the level of reduction was higher in the conventional group compared to the etanercept group (P &lt; 0.03 and P &lt; 0.04, respectively). The IL-17 serum level significantly decreased in both groups after M2000 therapy (P &lt; 0.01 and P &lt; 0.02, respectively). Furthermore, the frequency of Th17 cells was positively correlated with Disease Activity Score (DAS28) (r = 0.34, P = 0.02).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">M2000 shows the inhibitory effect on the frequency of circulating Th17 cells as well as in the production of IL-17 in RA patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ahmadi</LastName>
+                    <ForeName>Hossein</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, School of Public Health, Tehran University of Medical Sciences, Box: 14155-6446, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahmoudi</LastName>
+                    <ForeName>Mahdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Research Center, Shariati Hospital, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gharibdoost</LastName>
+                    <ForeName>Farhad</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Research Center, Shariati Hospital, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vojdanian</LastName>
+                    <ForeName>Mahdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Research Center, Shariati Hospital, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jamshidi</LastName>
+                    <ForeName>Ahmad Reza</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Research Center, Shariati Hospital, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fattahi</LastName>
+                    <ForeName>Mohammad Javad</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, School of Public Health, Tehran University of Medical Sciences, Box: 14155-6446, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Shiraz Institute for Cancer Research, School of Medicine, Shiraz University of Medical Sciences, Shiraz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aghazadeh</LastName>
+                    <ForeName>Zahra</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, School of Public Health, Tehran University of Medical Sciences, Box: 14155-6446, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barati</LastName>
+                    <ForeName>Anis</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, School of Public Health, Tehran University of Medical Sciences, Box: 14155-6446, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirshafiey</LastName>
+                    <ForeName>Abbas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, School of Public Health, Tehran University of Medical Sciences, Box: 14155-6446, Tehran, Iran. mirshafiey@tums.ac.ir.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Inflammopharmacology</MedlineTA>
+            <NlmUniqueID>9112626</NlmUniqueID>
+            <ISSNLinking>0925-4692</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DMARD</Keyword>
+            <Keyword MajorTopicYN="N">IL-17</Keyword>
+            <Keyword MajorTopicYN="N">M2000</Keyword>
+            <Keyword MajorTopicYN="N">Mannuronic acid</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Th17 cells</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063487</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10787-017-0410-8</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10787-017-0410-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063464</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1434-9949</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical rheumatology</Title>
+                <ISOAbbreviation>Clin. Rheumatol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diverse patterns of anti-TNF-α-induced lupus: case series and review of the literature.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10067-017-3884-2</ELocationID>
+            <Abstract>
+                <AbstractText>The induction of autoantibodies is common following therapy with anti-TNF-α agents. However, anti-TNF-α-induced lupus (ATIL) is rare. We assessed the clinical characteristics of three patients with inflammatory bowel disease (IBD) who were treated with infliximab and developed distinct subsets of ATIL. Also, we searched for similar cases in the published literature. We describe three patients with ATIL. The first patient had a classical drug-induced lupus (DIL) presented by thrombocytopenia that resolved after infliximab discontinuation. The second case experienced symmetric polyarthritis of 14 joints in rheumatoid arthritis (RA)-like distribution accompanied by lymphopenia. The third one had a severe serositis including ascites and pleural and pericardial effusions along with pancytopenia. In this patient, ATIL coexisted with anti-TNF-α-induced hepatitis. The second and third patients met the American College of Rheumatology classification criteria for SLE. Nevertheless, all three cases exhibited ANA and anti-dsDNA positivity, and only the second patient had anticardiolipin (aCL IgG) and anti-histone antibodies. The coexistence of both lupus-like syndrome and hepatitis following anti-TNF-α therapy in the same patient is very rare, and to the best of our knowledge, only four such case reports are mentioned in literature. Patients with mild ATIL may tolerate another anti-TNF-α agent without recurrence of the disease. Rheumatologists should be aware of the distinct clinical presentations of ATIL and its coexistence with other rare anti-TNF-alpha complications such as hepatitis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shovman</LastName>
+                    <ForeName>Ora</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zabludowicz Center for Autoimmune Diseases, Chaim Sheba Medical Center, 52621, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine 'B', Sheba Medical Center, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamar</LastName>
+                    <ForeName>Shalev</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, The E. Wolfson Medical Center, Holon, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amital</LastName>
+                    <ForeName>Howard</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zabludowicz Center for Autoimmune Diseases, Chaim Sheba Medical Center, 52621, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine 'B', Sheba Medical Center, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watad</LastName>
+                    <ForeName>Abdulla</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1404-8027</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Zabludowicz Center for Autoimmune Diseases, Chaim Sheba Medical Center, 52621, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine 'B', Sheba Medical Center, Tel-Hashomer, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shoenfeld</LastName>
+                    <ForeName>Yehuda</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zabludowicz Center for Autoimmune Diseases, Chaim Sheba Medical Center, 52621, Tel-Hashomer, Israel. shoenfel@post.tau.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. shoenfel@post.tau.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laura Schwarz-Kipp Chair for Research of Autoimmune Diseases, Sackler Faculty of Medicine, Tel-Aviv University, Tel Aviv, Israel. shoenfel@post.tau.ac.il.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Rheumatol</MedlineTA>
+            <NlmUniqueID>8211469</NlmUniqueID>
+            <ISSNLinking>0770-3198</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anti-TNF-induced lupus (ATIL)</Keyword>
+            <Keyword MajorTopicYN="N">Autoantibodies</Keyword>
+            <Keyword MajorTopicYN="N">Hepatitis</Keyword>
+            <Keyword MajorTopicYN="N">Lupus</Keyword>
+            <Keyword MajorTopicYN="N">TNF-α blockers</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063464</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10067-017-3884-2</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10067-017-3884-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063463</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1434-9949</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical rheumatology</Title>
+                <ISOAbbreviation>Clin. Rheumatol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevalence of depression and anxiety in rheumatoid arthritis patients and their associations with serum vitamin D level.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10067-017-3874-4</ELocationID>
+            <Abstract>
+                <AbstractText>Vitamin D deficiency may be associated with depression in the general population. This study aimed to describe the prevalence of depression and anxiety in rheumatoid arthritis (RA) patients from Northwestern China and identify associations of Hamilton Depression Scale (HAMD) and Hamilton Anxiety Scale (HAMA) scores with serum vitamin D level in these patients. We recruited 161 RA patients inform the First Affiliated Hospital of Xi'an Jiaotong University during Nov. 2016 to Feb. 2017. All patients completed a survey including HAMD and HAMA scales. RA activity (DAS28) was scored by a rheumatologist, and serum 25-OH-D3 levels were measured by electrochemiluminescence immunoassay. The data were analyzed using the SPSS16.0 based on &quot;possible and probable&quot; cut points for HAMD and HAMA. About 62 and 60% of patients had some degrees of depression and anxiety, respectively. The mean of serum 25-OH-D3 levels in RA patients with depression was 15.24 ± 8.78 ng/mL, which was significantly lower than those without depression (24.68 ± 10.98 ng/mL, p = 0.009). Despite negative correlations between serum 25-OH-D3 level and the score of HAMD (r = - 0.520, p &lt; 0.001) or HAMA (r = - 0.469, p &lt; 0.001), there was a positive correlations between DAS28and the score of HAMD (r = 0.459, p = 0.001) or HAMA (r = 0.486, p &lt; 0.001). The multivariate logistic regression showed that disease duration, serum 25-OH-D3 level, and treatment of tumor necrosis factor inhibitor were associated with depression/anxiety in RA patients. Our study shows a high prevalence of depression and anxiety in RA patients from Northwestern China. Both disease activity of RA and low serum 25-OH-D3 level are associated with the severity of depression and anxiety. It is imperative for clinicians to screen hypovitaminosis of vitamin D and depression/anxiety in RA patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pu</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China. pudanny1973@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yanhua</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ju</LastName>
+                    <ForeName>Bomiao</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>Xiaohong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Lan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, Shaanxi Province, 710061, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Rheumatol</MedlineTA>
+            <NlmUniqueID>8211469</NlmUniqueID>
+            <ISSNLinking>0770-3198</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Depression and anxiety</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Serum vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063463</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10067-017-3874-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10067-017-3874-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063462</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1434-9949</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical rheumatology</Title>
+                <ISOAbbreviation>Clin. Rheumatol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of microalbuminuria as a predictor of subclinical cardiovascular events in rheumatoid arthritis patients and its relation to disease activity.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10067-017-3849-5</ELocationID>
+            <Abstract>
+                <AbstractText>Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune disease that affects many body tissues and leads to major morbidity and mortality. Renal disease in RA is clinically important because it restricts the management of primary disease and increases mortality. The objectives of this study are to (1) investigate the difference between RA patients with and without microalbuminuria (MAU) and (2) find out the relation between MAU and disease activity as well as subclinical cardiovascular effects. Ninety RA patients were divided into two groups according to the presence of MAU, in addition to 30 healthy volunteers. ESR, hs-CRP, RF, lipid profile, urinary microalbumin, GFR, renal function tests, carotid intima media thickness (cIMT), flow-mediated dilatation of the brachial artery (FMD), ECG, and echocardiographic examination were performed for patients and controls. MAU positive RA patients revealed significantly higher lipid profile, ESR, hs-CRP, DAS 28, cIMT, and lower FMD as well as ECG and echocardiographic abnormalities compared to MAU negative RA patients. Moreover, there was significant positive correlation between MAU and DAS28, hs-CRP, LDL, cIMT as well as negative correlation with FMD%. In our study, all RA patients with MAU had a normal serum creatinine concentration and gave a negative result with Albustix. MAU is significantly correlated with ESR, hs-CRP, lipid profile, cIMT, and FMD% in RA patients; therefore, it can be used as an index to measure disease activity as well as subclinical cardiovascular affection in RA patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nada</LastName>
+                    <ForeName>D W</ForeName>
+                    <Initials>DW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology and Rehabilitation Department, Faculty of Medicine, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Morsy</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology and Rehabilitation Department, Faculty of Medicine, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abu-Zaid</LastName>
+                    <ForeName>M H</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology and Rehabilitation Department, Faculty of Medicine, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aboelhawa</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology and Rehabilitation Department, Faculty of Medicine, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zakaria</LastName>
+                    <ForeName>Mohammad A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology, Physical Medicine and Rehabilitation Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt. dr.m.zakaria@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Sheikh</LastName>
+                    <ForeName>E A</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Department, Faculty of Medicine, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaber</LastName>
+                    <ForeName>R A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry Department, Faculty of Medicine, Tanta University, Tanta, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Rheumatol</MedlineTA>
+            <NlmUniqueID>8211469</NlmUniqueID>
+            <ISSNLinking>0770-3198</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atherosclerosis</Keyword>
+            <Keyword MajorTopicYN="N">Microalbuminuria</Keyword>
+            <Keyword MajorTopicYN="N">RA</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063462</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10067-017-3849-5</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10067-017-3849-5</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29062314</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1664-3224</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in immunology</Title>
+                <ISOAbbreviation>Front Immunol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Harnessing Apoptotic Cell Clearance to Treat Autoimmune Arthritis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1191</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fimmu.2017.01191</ELocationID>
+            <Abstract>
+                <AbstractText>Early-stage apoptotic cells possess immunomodulatory properties. Proper apoptotic cell clearance during homeostasis has been shown to limit subsequent immune responses. Based on these observations, early-stage apoptotic cell infusion has been used to prevent unwanted inflammatory responses in different experimental models of autoimmune diseases or transplantation. Moreover, this approach has been shown to be feasible without any toxicity in patients undergoing allogeneic hematopoietic cell transplantation to prevent graft-versus-host disease. However, whether early-stage apoptotic cell infusion can be used to treat ongoing inflammatory disorders has not been reported extensively. Recently, we have provided evidence that early-stage apoptotic cell infusion is able to control, at least transiently, ongoing collagen-induced arthritis. This beneficial therapeutic effect is associated with the modulation of antigen-presenting cell functions mainly of macrophages and plasmacytoid dendritic cells, as well as the induction of collagen-specific regulatory CD4(+) T cells (Treg). Furthermore, the efficacy of this approach is not altered by the association with two standard treatments of rheumatoid arthritis (RA), methotrexate and tumor necrosis factor (TNF) inhibition. Here, in the light of these observations and recent data of the literature, we discuss the mechanisms of early-stage apoptotic cell infusion and how this therapeutic approach can be transposed to patients with RA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saas</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM, EFS BFC, UMR1098, Interactions Hôte-Greffon-Tumeur/Ingénierie Cellulaire et Génique, Fédération Hospitalo-Universitaire INCREASE, LabEx LipSTIC, Université Bourgogne Franche-Comté, Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM CIC-1431, University Hospital of Besançon, Clinical Investigation Center in Biotherapy, Fédération Hospitalo-Universitaire INCREASE, LabEx LipSTIC, Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonnefoy</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM, EFS BFC, UMR1098, Interactions Hôte-Greffon-Tumeur/Ingénierie Cellulaire et Génique, Fédération Hospitalo-Universitaire INCREASE, LabEx LipSTIC, Université Bourgogne Franche-Comté, Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toussirot</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM CIC-1431, University Hospital of Besançon, Clinical Investigation Center in Biotherapy, Fédération Hospitalo-Universitaire INCREASE, LabEx LipSTIC, Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, University Hospital of Besançon, Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Therapeutics, Université Bourgogne Franche-Comté, UPRES EA 4266, Pathogenic Agents and Inflammation, Besancon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perruche</LastName>
+                    <ForeName>Sylvain</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM, EFS BFC, UMR1098, Interactions Hôte-Greffon-Tumeur/Ingénierie Cellulaire et Génique, Fédération Hospitalo-Universitaire INCREASE, LabEx LipSTIC, Université Bourgogne Franche-Comté, Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Immunol</MedlineTA>
+            <NlmUniqueID>101560960</NlmUniqueID>
+            <ISSNLinking>1664-3224</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">apoptotic cells</Keyword>
+            <Keyword MajorTopicYN="N">biologic DMARD</Keyword>
+            <Keyword MajorTopicYN="N">cell-based therapy</Keyword>
+            <Keyword MajorTopicYN="N">collagen-induced arthritis</Keyword>
+            <Keyword MajorTopicYN="N">efferocytosis</Keyword>
+            <Keyword MajorTopicYN="N">macrophages</Keyword>
+            <Keyword MajorTopicYN="N">regulatory T cells</Keyword>
+            <Keyword MajorTopicYN="N">rheumatoid arthritis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062314</ArticleId>
+            <ArticleId IdType="doi">10.3389/fimmu.2017.01191</ArticleId>
+            <ArticleId IdType="pmc">PMC5640883</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29062305</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1664-302X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in microbiology</Title>
+                <ISOAbbreviation>Front Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Morbid Sequences Suggest Molecular Mimicry between Microbial Peptides and Self-Antigens: A Possibility of Inciting Autoimmunity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1938</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fmicb.2017.01938</ELocationID>
+            <Abstract>
+                <AbstractText>Understanding etiology of autoimmune diseases has been a great challenge for designing drugs and vaccines. The pathophysiology of many autoimmune diseases may be attributed to molecular mimicry provoked by microbes. Molecular mimicry hypothesizes that a sequence homology between foreign and self-peptides leads to cross-activation of autoreactive T cells. Different microbial proteins are implicated in various autoimmune diseases, including multiple sclerosis, human type 1 diabetes, primary biliary cirrhosis and rheumatoid arthritis. It may be imperative to identify the microbial epitopes that initiate the activation of autoreactive T cells. Consequently, in the present study, we employed immunoinformatics tools to delineate homologous antigenic regions between microbes and human proteins at not only the sequence level but at the structural level too. Interestingly, many cross-reactive MHC class II binding epitopes were detected from an array of microbes. Further, these peptides possess a potential to skew immune response toward Th1-like patterns. The present study divulges many microbial target proteins, their putative MHC-binding epitopes, and predicted structures to establish the fact that both sequence and structure are two important aspects for understanding the relationship between molecular mimicry and autoimmune diseases. Such findings may enable us in designing potential immunotherapies to tolerize autoreactive T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pahari</LastName>
+                    <ForeName>Susanta</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Laboratory, CSIR-Institute of Microbial Technology, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, Panjab University, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>Deepyan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Laboratory, CSIR-Institute of Microbial Technology, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Negi</LastName>
+                    <ForeName>Shikha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Laboratory, CSIR-Institute of Microbial Technology, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaur</LastName>
+                    <ForeName>Jagdeep</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, Panjab University, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Balvinder</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Laboratory, CSIR-Institute of Microbial Technology, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agrewala</LastName>
+                    <ForeName>Javed N</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Laboratory, CSIR-Institute of Microbial Technology, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Microbiol</MedlineTA>
+            <NlmUniqueID>101548977</NlmUniqueID>
+            <ISSNLinking>1664-302X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HLA binders</Keyword>
+            <Keyword MajorTopicYN="N">autoantigens</Keyword>
+            <Keyword MajorTopicYN="N">autoimmunity</Keyword>
+            <Keyword MajorTopicYN="N">cytokines</Keyword>
+            <Keyword MajorTopicYN="N">immunoinformatics</Keyword>
+            <Keyword MajorTopicYN="N">microbes</Keyword>
+            <Keyword MajorTopicYN="N">molecular mimicry</Keyword>
+            <Keyword MajorTopicYN="N">sequence and structural mimicry</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062305</ArticleId>
+            <ArticleId IdType="doi">10.3389/fmicb.2017.01938</ArticleId>
+            <ArticleId IdType="pmc">PMC5640720</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29061443</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-866X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Sep</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Seminars in arthritis and rheumatism</Title>
+                <ISOAbbreviation>Semin. Arthritis Rheum.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Outcomes of lupus and rheumatoid arthritis patients with primary dengue infection: A seven-year report from Brazil.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0049-0172(17)30614-5</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.semarthrit.2017.09.001</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We described the clinical profile and outcomes of patients with SLE and RA diseases reported to the Brazilian Health Information System with primary dengue infection.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Databases from the Brazilian Public Health Informatics System (SUS) were linked as the source of information. Three databases comprising different longitudinal information of lupus or rheumatoid arthritis (RA) patients under treatment and care through the Brazilian Health System were linked. Patients who had lupus ICD-9 code or RA ICD-9 code and their treatment approved by SUS were included in the study. In Study 1, we described the clinical characteristics of RA/lupus patients who had dengue infection. In Study 2, we compared RA/lupus patients with or without dengue for hospitalization rates after index dengue diagnosis for dengue-exposed or matching date for dengue-unexposed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We included 69 SLE and 301 RA patients with dengue. In the RA/lupus with dengue case series, hospitalization was found in 24.6% of lupus subjects and of 11.2% of RA subjects. It differed by geographic region (p = 0.03), gender (p = 0.05) and the use of azathioprine (p = 0.02). Dengue was the most frequent reason for hospitalization reported (43.0%). Hospitalization due to dengue was noted in 12 (42.9%) dengue-exposed patients (p = 0.02), while rheumatoid arthritis was reported as the cause of hospitalization in 22.2% of dengue-unexposed (p = 0.005). Five deaths were reported among the dengue-exposed and none among dengue-unexposed. Bacterial infection was the most frequent cause of death. We found that the dengue exposure was associated with an increased risk of hospitalization outcome in RA and lupus patients (RR = 6.2; 95% CI: 2.99-12.94).</AbstractText>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">We found that when comparing RA/lupus patients with or without dengue, dengue-exposed patients had an increased rates of hospitalization and death.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Abreu</LastName>
+                    <ForeName>Mirhelen Mendes</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Federal University of Rio de Janeiro, Rio de Janeiro, Brazil; Division of Rheumatology, Immunology and Allergy, Brigham and Women's Hospital, Boston, MA. Electronic address: mirhelen@hucff.ufrj.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maiorano</LastName>
+                    <ForeName>Alexandre Cristovão</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Statistic, Federal University of Sao Carlos, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tedeschi</LastName>
+                    <ForeName>Sara K</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Immunology and Allergy, Brigham and Women's Hospital, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoshida</LastName>
+                    <ForeName>Kazuki</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Immunology and Allergy, Brigham and Women's Hospital, Boston, MA; Departments of Epidemiology and Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Tzu-Chieh</ForeName>
+                    <Initials>TC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Immunology and Allergy, Brigham and Women's Hospital, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solomon</LastName>
+                    <ForeName>Daniel H</ForeName>
+                    <Initials>DH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Immunology and Allergy, Brigham and Women's Hospital, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Semin Arthritis Rheum</MedlineTA>
+            <NlmUniqueID>1306053</NlmUniqueID>
+            <ISSNLinking>0049-0172</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dengue</Keyword>
+            <Keyword MajorTopicYN="N">Infection</Keyword>
+            <Keyword MajorTopicYN="N">Outcomes research</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Systemic lupus erythematosus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>06</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29061443</ArticleId>
+            <ArticleId IdType="pii">S0049-0172(17)30614-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.semarthrit.2017.09.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29061242</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-3163</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rheumatic diseases clinics of North America</Title>
+                <ISOAbbreviation>Rheum. Dis. Clin. North Am.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Neurologic Manifestations of Rheumatoid Arthritis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>561-571</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0889-857X(17)30049-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.rdc.2017.06.005</ELocationID>
+            <Abstract>
+                <AbstractText>Neurologic manifestations of rheumatoid arthritis (RA) range in severity from mild paresthesias in the hand from carpal tunnel syndrome to sudden death due to impingement of the medulla by an eroded, vertically subluxed dens. Most neurologic complications are a consequence of articular inflammation and damage that leads to compression of adjacent structures of the central or peripheral nervous systems. Rare but serious extra-articular manifestations include inflammation of the meninges and ischemic neuropathies due to necrotizing arteritis of the vasa vasorum. Medical therapy with synthetic disease-modifying antirheumatic drugs and biological agents has diminished the incidence of serious neurologic manifestations in RA.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>DeQuattro</LastName>
+                    <ForeName>Kimberly</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Department of Medicine, University of California, San Francisco, San Francisco, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imboden</LastName>
+                    <ForeName>John B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, Department of Medicine, University of California, San Francisco, San Francisco, CA, USA. Electronic address: john.imboden@ucsf.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Rheum Dis Clin North Am</MedlineTA>
+            <NlmUniqueID>8708093</NlmUniqueID>
+            <ISSNLinking>0889-857X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Atlantoaxial subluxation</Keyword>
+            <Keyword MajorTopicYN="N">Cervical spine subluxation</Keyword>
+            <Keyword MajorTopicYN="N">Compression neuropathy</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid meningitis</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid vasculitis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29061242</ArticleId>
+            <ArticleId IdType="pii">S0889-857X(17)30049-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.rdc.2017.06.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29059655</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0043-5147</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>70</Volume>
+                    <Issue>2 pt 2</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Wiadomosci lekarskie (Warsaw, Poland : 1960)</Title>
+                <ISOAbbreviation>Wiad. Lek.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[analysis of adherence and compliance to methotrexate therapy in rheumatoid arthritis patients].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>340-344</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Rheumatoid arthritis is chronic inflammatory disease leading to disability and increasing the risk of premature death. Early treatment is crucial for remission and maintaining it for a maximal time. Adherence of the patient to the therapeutic recommendations is necessary. Although this issue is important, its role in achieving of therapeutic success is not fully noted by patients as well as medical stuff. Patients with RA are often non-adherent to rheumatologist's recommendations and non-compliance to the therapy regimen. The causes of this phenomenon are numerous and lie in the patient's attitude to therapy or are patient-independent. To effectively increase the level of adherence and compliance, the detailed medical care, including education of the patient, as well as adaptation of the drug form, by concentrating the active compound, is essential.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gawęda</LastName>
+                    <ForeName>Józef</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Świętokrzyskie Centrum Reumatologii, Specjalistyczny Szpital Św. Łukasza, Końskie, Polska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konieczna</LastName>
+                    <ForeName>Iwona</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zakład Mikrobiologii, Uniwersytet Jana Kochanowskiego, Kielce, Polska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>pol</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Wiad Lek</MedlineTA>
+            <NlmUniqueID>9705467</NlmUniqueID>
+            <ISSNLinking>0043-5147</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">multimodal evoked potentials</Keyword>
+            <Keyword MajorTopicYN="N">multiple sclerosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29059655</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29059085</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-7355</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical rheumatology : practical reports on rheumatic &amp; musculoskeletal diseases</Title>
+                <ISOAbbreviation>J Clin Rheumatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multicentric Reticulohistiocytosis: A Multicenter Case Series and Review of Literature.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/RHU.0000000000000594</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Multicentric reticulohistiocytosis is a rare systemic disease characterized by the presence of non-Langerhans cell histiocytic infiltrate in several organ systems. Because its clinical presentation so closely resembles autoimmune conditions such as rheumatoid arthritis, it is often overlooked as a diagnosis and, even when recognized, presents a challenge for treatment because of a lack of consensus regarding guidelines for management. We here review 6 cases of multicentric reticulohistiocytosis (MRH) from 2 institutions to identify clinical features, treatment, and outcomes of MRH.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We identified 6 patients with MRH and reviewed their medical records to assess demographic data, clinical presentations, laboratory findings, comorbid conditions, histopathologic features, and pharmacotherapies.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All 6 patients had definite MRH as established by skin biopsy. All our patients were middle-aged white women in whom skin involvement preceded arthritic symptoms. Hand and knee involvement was most common, seen in 5 and 4 patients, respectively. Erosions of the distal interphalangeal joints were the most common radiographic abnormality, seen in 3 patients. Diagnosis of MRH was usually delayed, and once identified, treatment and the outcomes of these treatments varied considerably. Approximately 50% of our patients had concomitant hypothyroidism and hyperlipidemia. None were subsequently diagnosed with malignancy.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Multicentric reticulohistiocytosis is a rare but often overlooked systemic disease that rheumatologists are liable to encounter in their clinical practice. The presence of cutaneous findings, erosive disease involving the distal interphalangeal joints, and comorbid diseases, such as hyperlipidemia and hypothyroidism, are features that should prompt practitioners to consider pursuing a biopsy of the affected tissue in order to confirm or refute the diagnosis of MRH. Bisphosphonates alone may not be able to control disease activity, and patients are likely to need immunosuppressive agents for better control.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Bharat</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the *Division of Immunology, University of Iowa Hospitals and Clinics, Iowa City, IA; †Department of Dermatology, Indiana University, Indianapolis, IN; ‡Department of Dermatology and Pathology, University of Iowa Hospitals and Clinics, Iowa City, IA; §Griffith University School of Medicine and Gold Coast University Hospital, Southport, Queensland, Australia; ∥Medical Research, Corporal Michael J. Crescenz Veterans Affairs Medical Center (Philadelphia); and ¶Department of Dermatology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahnama-Moghadam</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wanat</LastName>
+                    <ForeName>Karolyn A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ijdo</LastName>
+                    <ForeName>Jacob W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Werth</LastName>
+                    <ForeName>Victoria P</ForeName>
+                    <Initials>VP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Namrata</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Rheumatol</MedlineTA>
+            <NlmUniqueID>9518034</NlmUniqueID>
+            <ISSNLinking>1076-1608</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29059085</ArticleId>
+            <ArticleId IdType="doi">10.1097/RHU.0000000000000594</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29058773</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4652</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular physiology</Title>
+                <ISOAbbreviation>J. Cell. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Role of Innate lymphoid cells in health and disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jcp.26250</ELocationID>
+            <Abstract>
+                <AbstractText>Innate lymphoid cells (ILCs) are kind of innate immune cells which can be divided into three main subsets according to their cytokine release profile, transcription factors, and surface markers. ILCs affect the initial stages of immunity in response to microbes and participate in immunity, inflammation and tissue repair. ILCs modulate immunity through resistance to the pathogens and regulation of autoimmune inflammation and metabolic homeostasis. Therefore dysregulation of ILCs may lead to chronic pathologies such as allergies (i.e. asthma), inflammation (i.e. inflammatory bowel disease) and autoimmunity (i.e. psoriasis, atopic dermatitis, rheumatoid arthritis, multiple sclerosis, and ankylosing spondylitis). Regarding the critical role of ILCs in the regulation of immune system, the elucidation of their function in different conditions makes an interesting target for improvement of novel therapeutic approach to modulate an immune response in different disease context. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mohammadi</LastName>
+                    <ForeName>Hamed</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharafkandi</LastName>
+                    <ForeName>Nadia</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Student Research Committee, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hemmatzadeh</LastName>
+                    <ForeName>Maryam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Azizi</LastName>
+                    <ForeName>Gholamreza</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Non-Communicable Diseases Research Center, Alborz University of Medical Sciences, Karaj, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, Imam Hassan Mojtaba Hospital, Alborz University of Medical Sciences, Karaj, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karimi</LastName>
+                    <ForeName>Mohammad</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jadidi-Niaragh</LastName>
+                    <ForeName>Farhad</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baradaran</LastName>
+                    <ForeName>Behzad</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babaloo</LastName>
+                    <ForeName>Zohreh</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunology Research Center, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology, Faculty of Medicine, Tabriz University of Medical Sciences, Tabriz, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cell Physiol</MedlineTA>
+            <NlmUniqueID>0050222</NlmUniqueID>
+            <ISSNLinking>0021-9541</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Allergy</Keyword>
+            <Keyword MajorTopicYN="N">Autoimmunity</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Innate lymphoid cells</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29058773</ArticleId>
+            <ArticleId IdType="doi">10.1002/jcp.26250</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29058302</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1179-6901</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drugs in R&amp;D</Title>
+                <ISOAbbreviation>Drugs R D</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Switching Between Biological Treatments in Psoriatic Arthritis: A Review of the Evidence.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s40268-017-0215-7</ELocationID>
+            <Abstract>
+                <AbstractText>Psoriatic arthritis (PsA) is a chronic inflammatory arthropathy. Therapy with anti-tumor necrosis factor (TNF)-α agents represents the first therapeutic choice for moderate and severe forms; however, PsA patients can experience anti-TNFα failure, lack of efficacy, or adverse events. Several evidences exist on the effectiveness of switching among different TNFα inhibitors, and we reviewed the published data on the effectiveness of anti-TNFα first-, second- and third-line. Most of the studies report that the main reason for switching to a second anti-TNFα agent is represented by lack of efficacy (primary or secondary) and, more rarely, adverse events. Switchers receiving their second anti-TNFα agent have considerably poorer responses compared with non-switchers. Survival of anti-TNFα treatment appears to be superior in PsA patients when compared with rheumatoid arthritis patients. Switching from anti-TNF agents to ustekinumab or secukinumab or apremilast can represent a valid alternative therapeutic strategy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Costa</LastName>
+                    <ForeName>Luisa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical Medicine and Surgery, University Federico II, via S. Pansini 5, 80131, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perricone</LastName>
+                    <ForeName>Carlo</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology, Department of Internal Medicine, Sapienza University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chimenti</LastName>
+                    <ForeName>Maria Sole</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology, Allergology and Clinical Immunology, Department of &quot;Medicina dei Sistemi&quot;, University of Rome &quot;Tor Vergata&quot;, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Del Puente</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical Medicine and Surgery, University Federico II, via S. Pansini 5, 80131, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caso</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geriatric Unit, Faculty of Medicine and Psychology, S. Andrea Hospital, &quot;Sapienza&quot; University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peluso</LastName>
+                    <ForeName>Rosario</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical Medicine and Surgery, University Federico II, via S. Pansini 5, 80131, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bottiglieri</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical Medicine and Surgery, University Federico II, via S. Pansini 5, 80131, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scarpa</LastName>
+                    <ForeName>Raffaele</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical Medicine and Surgery, University Federico II, via S. Pansini 5, 80131, Naples, Italy. rscarpa@unina.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caso</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology Unit, Department of Clinical Medicine and Surgery, University Federico II, via S. Pansini 5, 80131, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Drugs R D</MedlineTA>
+            <NlmUniqueID>100883647</NlmUniqueID>
+            <ISSNLinking>1174-5886</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29058302</ArticleId>
+            <ArticleId IdType="doi">10.1007/s40268-017-0215-7</ArticleId>
+            <ArticleId IdType="pii">10.1007/s40268-017-0215-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29058227</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1590-9999</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of orthopaedics and traumatology : official journal of the Italian Society of Orthopaedics and Traumatology</Title>
+                <ISOAbbreviation>J Orthop Traumatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Circulating levels of proinflammatory mediators as potential biomarkers of post-traumatic knee osteoarthritis development.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10195-017-0473-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The identification of biomarkers of post-traumatic osteoarthritis (PTOA) progression is of clinical importance. The aims of this study were: (1) to assess the abilities of various soluble proinflammatory mediators in plasma to distinguish patients with knee PTOA from controls; (2) to determine the correlations between the mediators in plasma and those mediators in synovial fluid (SF); and (3) to explore the associations of the mediators with radiographic PTOA severity.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">The concentrations of IL-1β, IL-6, IL-18, TNFα, and leptin were measured using ELISA. Nitric oxide was determined as nitrite/nitrate (NO x ) using the Griess reaction.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We included 171 subjects (134 PTOA patients and 37 controls) and excluded patients with rheumatoid arthritis or gout. The ROC curve of plasma NO x had the highest AUC, a specificity of 100%, and a sensitivity of 84.4%. The combination of IL-6 and leptin proved to be the most discriminatory, with an AUC value of 0.933, a specificity of 96.7%, and a sensitivity of 85.7%. The levels of NO x , IL-6, IL-18, and leptin in plasma were significantly correlated with their levels in SF. Leptin levels in both plasma (p = 0.036) and SF (p = 0.041) and the synovial IL-18 level (p = 0.045) were correlated with the Kellgren-Lawrence (KL) grade. Early-stage PTOA (KL 1-2) was associated with a high concentration of IL-1β in plasma before and after (OR 6.235, 95% CI 1.362 to 28.552, p = 0.018) adjusting for age, gender, and BMI.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Circulating NO x level and a combination of IL-6 and leptin permitted the strongest discrimination of patients with PTOA from controls. PTOA severity was correlated with leptin levels in plasma and SF and with the synovial IL-18 level. Early PTOA was associated with the circulating level of IL-1β.</AbstractText>
+                <AbstractText Label="LEVEL OF EVIDENCE" NlmCategory="METHODS">III (case-control study).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panina</LastName>
+                    <ForeName>Svetlana B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation. tailana703@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krolevets</LastName>
+                    <ForeName>Igor V</ForeName>
+                    <Initials>IV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Traumatology and Orthopaedics, Rehabilitation and Sport Medicine, Rostov State Medical University, 29 Nakhichevanskii St, Rostov-on-Don, 344022, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milyutina</LastName>
+                    <ForeName>Natalia P</ForeName>
+                    <Initials>NP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sagakyants</LastName>
+                    <ForeName>Alexander B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kornienko</LastName>
+                    <ForeName>Igor V</ForeName>
+                    <Initials>IV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ananyan</LastName>
+                    <ForeName>Anzhelika A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zabrodin</LastName>
+                    <ForeName>Mikhail A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Traumatology and Orthopaedics, Rehabilitation and Sport Medicine, Rostov State Medical University, 29 Nakhichevanskii St, Rostov-on-Don, 344022, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Plotnikov</LastName>
+                    <ForeName>Andrey A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vnukov</LastName>
+                    <ForeName>Valeriy V</ForeName>
+                    <Initials>VV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Biology and Biotechnology, Southern Federal University, 194/1 Stachki Street, 344090, Rostov-on-Don, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>J Orthop Traumatol</MedlineTA>
+            <NlmUniqueID>101090931</NlmUniqueID>
+            <ISSNLinking>1590-9921</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Interleukin</Keyword>
+            <Keyword MajorTopicYN="N">Post-traumatic knee osteoarthritis</Keyword>
+            <Keyword MajorTopicYN="N">Proinflammatory mediators</Keyword>
+            <Keyword MajorTopicYN="N">Radiographic severity</Keyword>
+            <Keyword MajorTopicYN="N">Synovial fluid</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29058227</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10195-017-0473-8</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10195-017-0473-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29058033</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1437-160X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rheumatology international</Title>
+                <ISOAbbreviation>Rheumatol. Int.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Greater rheumatoid arthritis joint improvement with more subjects achieving response across improvement categories using novel versus existing ultrasound methods.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00296-017-3857-4</ELocationID>
+            <Abstract>
+                <AbstractText>We compared the change in joint inflammation and the proportion of subjects achieving threshold levels of improvement using the existing methods employing ultrasonography on pre-determined joint sites versus novel methods. These novel methods select the most affected joints based on (i) ultrasonography-the Individualized-Ultrasound (IUS) method, or (ii) ultrasonography and clinical joint assessment-the individualized-Composite-Ultrasound (ICUS) method. Mean 3-month change in total inflammation score (ΔTIS) and 95% CI was computed for each method on 24 RA subjects initiated or escalated on treatment. Individual improvement in TIS per subject, calculated as the 3-month ΔTIS divided by the maximum possible TIS score expressed as a percentage, was used to obtain the proportion of subjects achieving response across improvement categories. Mean 3-month ΔTIS was significantly greater (p values ranging from 0.0003 to 0.0026) for novel versus existing methods using 12- and 7-joint approaches. Using 12-joint approach, percentages of subjects in improvement categories ≥5%, ≥10%, ≥15% and ≥20% were, respectively, 50, 37.5, 12.5 and 8.3% for IUS; 58.3, 37.5, 12.5 and 8.3% for ICUS; and 16.7, 0, 0 and 0% for the existing method. Using 7-joint approach, the respective category percentages were 62.5, 37.5, 25 and 12.5% for IUS; 62.5, 41.7, 16.7 and 8.3% for ICUS; and 12.5, 4.2, 4.2 and 0% for the existing method. Novel ultrasound methods are more likely to detect improvement in joint inflammation, with more subjects achieving response across improvement categories, thereby representing a substantial advantage over the existing methods. However, this requires confirmation in larger RA cohorts.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>York Kiat</ForeName>
+                    <Initials>YK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6944-8220</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Singapore General Hospital, Singapore, Singapore. tan.york.kiat@singhealth.com.sg.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Duke-NUS Medical School, Singapore, Singapore. tan.york.kiat@singhealth.com.sg.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore. tan.york.kiat@singhealth.com.sg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allen</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                    <Suffix>Jr</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Office of Clinical Sciences, Centre for Quantitative Medicine, Duke-NUS Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lye</LastName>
+                    <ForeName>Weng Kit</ForeName>
+                    <Initials>WK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Office of Clinical Sciences, Centre for Quantitative Medicine, Duke-NUS Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chew</LastName>
+                    <ForeName>Li-Ching</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Singapore General Hospital, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Duke-NUS Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thumboo</LastName>
+                    <ForeName>Julian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Immunology, Singapore General Hospital, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Duke-NUS Medical School, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Rheumatol Int</MedlineTA>
+            <NlmUniqueID>8206885</NlmUniqueID>
+            <ISSNLinking>0172-8172</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Joints</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid Arthritis</Keyword>
+            <Keyword MajorTopicYN="N">Synovitis</Keyword>
+            <Keyword MajorTopicYN="N">Ultrasonography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29058033</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00296-017-3857-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00296-017-3857-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29057725</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-6360</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current rheumatology reviews</Title>
+                <ISOAbbreviation>Curr Rheumatol Rev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevalence of nasal colonization with Staphylococcus aureus in patients with rheumatoid arthritis.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2174/1573397113666171020102300</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Patients with rheumatoid arthritis (RA) and nasal carriers of Staphylococcus aureus have an increased risk of developing infections caused by S. aureus. Our objective was to determine the prevalence of S. aureus nasal colonization in patients with RA and its relationship to RA treatments.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Two hundred seven patients with RA and 37 healthy controls were prospectively included in a cross-sectional study. A nasal secretion sample was collected by swab from both anterior nostrils and was referred to the hospital's microbiology department for culturing.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean age of the patients (168 women, 78%) was 61 ± 12 years old. The mean disease duration was 13 ± 10 years. Seventy-six percent of the patients were positive for rheumatoid factor (RF), and 71% were positive for anti-citrullinated peptides antibodies (ACPA). Seventy percent had joint erosions. The mean DAS28 was 3.1 ± 2.2. S. aureus nasal colonization was found in 36% of the RA patients and 35% of the controls. Three patients and no controls were resistant to oxacilin/mupirocin. The patients who were positive for ACPA had a higher prevalence of S. aureus colonization (43% vs 17%; p &lt; 0.05). The colonization prevalence in the patients treated with glucocorticoids was 32% (n: 133); methotrexate and/or leflunomide, 37% (n: 167); anti-TNF agents, 46% (n: 54), p &lt; 0.05 versus patients not treated with anti-TNF agents; rituximab, 22% (n: 18); tocilizumab, 39% (n: 18).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The prevalence of S. aureus nasal colonization in patients with RA does not appear to be greater than that of the general population. Anti-TNF agents might confer a higher prevalence of colonization.</AbstractText>
+                <CopyrightInformation>Copyright© Bentham Science Publishers; For any queries, please email at epub@benthamscience.org.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Albert</LastName>
+                    <ForeName>Gloria</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Rheumatology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ricse</LastName>
+                    <ForeName>Milagros</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Rheumatology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narvaez</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Rheumatology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>Jesus</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Rheumatology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nolla</LastName>
+                    <ForeName>Joan Miquel</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Rheumatology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dominguez-Luzon</LastName>
+                    <ForeName>Mari Angeles</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Microbiology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaquero</LastName>
+                    <ForeName>Carmen Gomez</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario de Bellvitge - Rheumatology Barcelona. Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United Arab Emirates</Country>
+            <MedlineTA>Curr Rheumatol Rev</MedlineTA>
+            <NlmUniqueID>101261938</NlmUniqueID>
+            <ISSNLinking>1573-3971</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Nasal colonization</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">S. aureus</Keyword>
+            <Keyword MajorTopicYN="N">Treatment</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29057725</ArticleId>
+            <ArticleId IdType="pii">CRR-EPUB-86445</ArticleId>
+            <ArticleId IdType="doi">10.2174/1573397113666171020102300</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29057700</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-7609</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Modern rheumatology</Title>
+                <ISOAbbreviation>Mod Rheumatol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Polymorphic lymphoproliferative disorders in patients with rheumatoid arthritis are associated with a better clinical outcome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/14397595.2017.1387223</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The characteristics of lymphoproliferative disorders (LPD) in patients with rheumatoid arthritis (RA) remain unclear. Therefore, we retrospectively analyzed the clinical characteristics of these patients in our department.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Twenty RA patients who developed LPD between April 2003 and August 2016 in our department were analyzed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All of the RA patients who developed LPD had been treated with methotrexate (MTX). The median weekly and total dosages of MTX were 6.8 mg/week and 2530 mg, respectively. The median duration of MTX administration was eight years. Nineteen patients (95%) achieved complete remission (CR) and 15 (75%) achieved CR with MTX cessation alone. Based on the pathological findings, we divided MTX-associated LPD patients into two groups (n = 16); polymorphic LPD (31%) and other groups. CR with MTX cessation alone was achieved in 5 (100%) and 6 (54.5%) patients in the polymorphic LPD and other groups, respectively (p = .12). Moreover, the duration from the cessation of MTX to CR was significantly shorter in the polymorphic LPD group than in the other group (5.3 months vs 12.6 months, p = .01, respectively).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Polymorphic LPD, which was the most frequent pathological diagnosis in this cohort, was associated with a higher incidence of CR and a significantly shorter duration to CR.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tsukui</LastName>
+                    <ForeName>Daisuke</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanda</LastName>
+                    <ForeName>Hiroko</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b Department of Immunotherapy Management, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shinozaki-Ushiku</LastName>
+                    <ForeName>Aya</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Pathology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tateishi</LastName>
+                    <ForeName>Shoko</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>b Department of Immunotherapy Management, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takeshima</LastName>
+                    <ForeName>Yusuke</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagafuchi</LastName>
+                    <ForeName>Yasuo</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sasaki</LastName>
+                    <ForeName>Oh</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwasaki</LastName>
+                    <ForeName>Yukiko</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harada</LastName>
+                    <ForeName>Hiroaki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shibuya</LastName>
+                    <ForeName>Mihoko</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sumitomo</LastName>
+                    <ForeName>Shuji</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shoda</LastName>
+                    <ForeName>Hirofumi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kubo</LastName>
+                    <ForeName>Kanae</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujio</LastName>
+                    <ForeName>Keishi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Fumihiko</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d Department of Hematology and Oncology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurokawa</LastName>
+                    <ForeName>Mineo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d Department of Hematology and Oncology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukayama</LastName>
+                    <ForeName>Masashi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>c Department of Pathology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamamoto</LastName>
+                    <ForeName>Kazuhiko</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Allergy and Rheumatology, Graduate School of Medicine , The University of Tokyo , Tokyo , Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mod Rheumatol</MedlineTA>
+            <NlmUniqueID>100959226</NlmUniqueID>
+            <ISSNLinking>1439-7595</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MTX-associated LPD</Keyword>
+            <Keyword MajorTopicYN="N">Rheumatoid arthritis</Keyword>
+            <Keyword MajorTopicYN="N">lymphoproliferative disorders</Keyword>
+            <Keyword MajorTopicYN="N">methotrexate</Keyword>
+            <Keyword MajorTopicYN="N">polymorphic LPD</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29057700</ArticleId>
+            <ArticleId IdType="doi">10.1080/14397595.2017.1387223</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29057174</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2168-8184</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>9</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Aug</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cureus</Title>
+                <ISOAbbreviation>Cureus</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Concurrent Occurrence of Primary Biliary Cirrhosis and Rheumatoid Arthritis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1562</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.7759/cureus.1562</ELocationID>
+            <Abstract>
+                <AbstractText>Primary biliary cirrhosis (PBC) is an autoimmune cholestatic disorder of the liver. A diagnostic serum marker for PBC is an anti-mitochondrial antibody. Most prominent histologic findings of PBC are portal inflammation and destruction of interlobular bile ducts. The PBC occurs only in 40 to 400 individuals per million in the general population. About 1.8 - 5.6% of individuals with this rare disorder have rheumatoid arthritis (RA). This case report describes a 56-year-old female with concurrent rheumatoid arthritis and primary biliary cirrhosis. The patients with RA are at higher risk of developing PBC compared to the general population. Thus, abnormal liver function test in the patients with RA, especially in the absence of alternative cause, warrants thorough investigation for PBC. Early diagnosis and treatment will improve the outcome of patients who develop PBC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pak</LastName>
+                    <ForeName>Stella</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine, University of Toledo Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Darr</LastName>
+                    <ForeName>Umar</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine, University of Toledo Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Zubair</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine, University of Toledo Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kobalka</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Toledo Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Safadi</LastName>
+                    <ForeName>Zayd</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine and Life Sciences, University of Toledo Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dee</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wright State University Boonshoft School of Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cureus</MedlineTA>
+            <NlmUniqueID>101596737</NlmUniqueID>
+            <ISSNLinking>2168-8184</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis. 2012;2012:391567</RefSource>
+                <PMID Version="1">23150824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 2011 Feb;56(2):295-302</RefSource>
+                <PMID Version="1">21203902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Korean J Hepatol. 2011 Sep;17(3):173-9</RefSource>
+                <PMID Version="1">22102382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Joint Bone Spine. 2007 May;74(3):279-81</RefSource>
+                <PMID Version="1">17369071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Case Rep. 2015 Dec 01;4(1):90-4</RefSource>
+                <PMID Version="1">26783445</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">primary biliary cirrhosis</Keyword>
+            <Keyword MajorTopicYN="N">rheumatoid arthritis</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29057174</ArticleId>
+            <ArticleId IdType="doi">10.7759/cureus.1562</ArticleId>
+            <ArticleId IdType="pmc">PMC5640383</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29057124</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2090-3545</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2017</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sleep disorders</Title>
+                <ISOAbbreviation>Sleep Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Systems Biology Genetic Approach Identifies Serotonin Pathway as a Possible Target for Obstructive Sleep Apnea: Results from a Literature Search Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6768323</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2017/6768323</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Overall validity of existing genetic biomarkers in the diagnosis of obstructive sleep apnea (OSA) remains unclear. The objective of this systematic genetic study is to identify &quot;novel&quot; biomarkers for OSA using systems biology approach.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Candidate genes for OSA were extracted from PubMed, MEDLINE, and Embase search engines and DisGeNET database. The gene ontology (GO) analyses and candidate genes prioritization were performed using Enrichr tool. Genes pertaining to the top 10 pathways were extracted and used for Ingenuity Pathway Analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In total, we have identified 153 genes. The top 10 pathways associated with OSA include (i) serotonin receptor interaction, (ii) pathways in cancer, (iii) AGE-RAGE signaling in diabetes, (iv) infectious diseases, (v) serotonergic synapse, (vi) inflammatory bowel disease, (vii) HIF-1 signaling pathway, (viii) PI3-AKT signaling pathway, (ix) regulation lipolysis in adipocytes, and (x) rheumatoid arthritis. After removing the overlapping genes, we have identified 23 candidate genes, out of which &gt;30% of the genes were related to the genes involved in the serotonin pathway. Among these 4 serotonin receptors SLC6A4, HTR2C, HTR2A, and HTR1B were strongly associated with OSA.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This preliminary report identifies several potential candidate genes associated with OSA and also describes the possible regulatory mechanisms.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jagannathan</LastName>
+                    <ForeName>Ram</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">0000-0002-3994-3474</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Hubert Department of Global Health, Emory Global Diabetes Research Center, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seixas</LastName>
+                    <ForeName>Azizi</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">0000-0003-0843-2679</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NYU School of Medicine, Department of Population Health, Center for Healthful Behavior Change, New York, NY 10016, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>St-Jules</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NYU School of Medicine, Department of Population Health, Center for Healthful Behavior Change, New York, NY 10016, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jagannathan</LastName>
+                    <ForeName>Lakshmanan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vantage Research Center, Chennai 600 006, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>April</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NYU School of Medicine, Department of Population Health, Center for Healthful Behavior Change, New York, NY 10016, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Lu</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NYU School of Medicine, Department of Population Health, Center for Healthful Behavior Change, New York, NY 10016, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jean-Louis</LastName>
+                    <ForeName>Girardin</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NYU School of Medicine, Department of Population Health, Center for Healthful Behavior Change, New York, NY 10016, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sevick</LastName>
+                    <ForeName>Mary Ann</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">0000-0002-5482-7535</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>NYU School of Medicine, Department of Population Health, Center for Healthful Behavior Change, New York, NY 10016, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Sleep Disord</MedlineTA>
+            <NlmUniqueID>101600304</NlmUniqueID>
+            <ISSNLinking>2090-3553</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 2014 Aug 5;161(3):210-20</RefSource>
+                <PMID Version="1">25089864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Oct 22;306(5696):640-3</RefSource>
+                <PMID Version="1">15499008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Database (Oxford). 2015 Apr 15;2015:bav028</RefSource>
+                <PMID Version="1">25877637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thorac Dis. 2014 Jun;6(6):720-5</RefSource>
+                <PMID Version="1">24976995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2010 Oct;151(10):4776-86</RefSource>
+                <PMID Version="1">20685881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Thorac Med. 2010 Jul;5(3):161-5</RefSource>
+                <PMID Version="1">20835311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart. 2015 Aug;101(16):1288-92</RefSource>
+                <PMID Version="1">25897039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Biochem Behav. 2002 Apr;71(4):533-54</RefSource>
+                <PMID Version="1">11888546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep. 1997 Sep;20(9):705-6</RefSource>
+                <PMID Version="1">9406321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Rep. 2016 Feb;4(2):203-208</RefSource>
+                <PMID Version="1">26893839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep. 2012 Nov 01;35(11):1521-7</RefSource>
+                <PMID Version="1">23115401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 1998 Aug 1;44(3):151-62</RefSource>
+                <PMID Version="1">9693387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Respirology. 2013 Jan;18(1):140-6</RefSource>
+                <PMID Version="1">22988888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jul 8;44(W1):W90-7</RefSource>
+                <PMID Version="1">27141961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2004 Jun;5(6):449-61</RefSource>
+                <PMID Version="1">15152195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Am Thorac Soc. 2008 Feb 15;5(2):144-53</RefSource>
+                <PMID Version="1">18250206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 Jul;37(Web Server issue):W305-11</RefSource>
+                <PMID Version="1">19465376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 1999 May;115(5):1397-401</RefSource>
+                <PMID Version="1">10334159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2006 Sep 1;71(4):630-41</RefSource>
+                <PMID Version="1">16828723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep. 2016 Jun 01;39(6):1211-8</RefSource>
+                <PMID Version="1">26951401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep. 2005 Nov;28(11):1405-11</RefSource>
+                <PMID Version="1">16335330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Laryngoscope. 2005 May;115(5):832-6</RefSource>
+                <PMID Version="1">15867649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2012 May 23;307(20):2169-76</RefSource>
+                <PMID Version="1">22618924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2003 Aug;22(2):251-7</RefSource>
+                <PMID Version="1">12952256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISRN Cardiol. 2013;2013:687069</RefSource>
+                <PMID Version="1">23346414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 2011 Dec 1;197:8-16</RefSource>
+                <PMID Version="1">21963350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2013 May 1;177(9):1006-14</RefSource>
+                <PMID Version="1">23589584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Med Chem. 2010;17(11):1059-66</RefSource>
+                <PMID Version="1">20156159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cardiol. 2013 Nov 5;169(3):207-14</RefSource>
+                <PMID Version="1">24161531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 May 7;274(19):13563-8</RefSource>
+                <PMID Version="1">10224126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 2007 Nov;132(5):1672-7</RefSource>
+                <PMID Version="1">17998370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Pulm Med. 2015 Sep 21;15:105</RefSource>
+                <PMID Version="1">26391008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiology. 2009;112(1):62-8</RefSource>
+                <PMID Version="1">18580062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2002 May 28;105(21):2462-4</RefSource>
+                <PMID Version="1">12034649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2013 Apr 15;14:128</RefSource>
+                <PMID Version="1">23586463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep Breath. 2016 May;20(2):627-34</RefSource>
+                <PMID Version="1">26424733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Crit Care Med. 2005 Nov 15;172(10):1338-47</RefSource>
+                <PMID Version="1">16020803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Lipidol. 2011 Jun;22(3):186-91</RefSource>
+                <PMID Version="1">21494145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2003 Mar 4;107(8):1129-34</RefSource>
+                <PMID Version="1">12615790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep. 2008 Aug;31(8):1071-8</RefSource>
+                <PMID Version="1">18714778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Med. 2003;2(1):21-9</RefSource>
+                <PMID Version="1">14720019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Am Thorac Soc. 2008 Feb 15;5(2):185-92</RefSource>
+                <PMID Version="1">18250211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Nov 29;274(5292):1527-31</RefSource>
+                <PMID Version="1">8929413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sleep. 2010 Mar;33(3):319-25</RefSource>
+                <PMID Version="1">20337189</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29057124</ArticleId>
+            <ArticleId IdType="doi">10.1155/2017/6768323</ArticleId>
+            <ArticleId IdType="pmc">PMC5625807</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

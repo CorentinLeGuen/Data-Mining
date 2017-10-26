@@ -1,0 +1,3051 @@
+<?xml ?>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29065268</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-6817</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery</Title>
+                <ISOAbbreviation>Otolaryngol Head Neck Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High-Level Disinfection of Otorhinolaryngology Clinical Instruments: An Evaluation of the Efficacy and Cost-effectiveness of Instrument Storage.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>194599817738977</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/0194599817738977</ELocationID>
+            <Abstract>
+                <AbstractText>Objectives Despite increasing interest in individual instrument storage, risk of bacterial cross-contamination of otorhinolaryngology clinic instruments has not been assessed. This study is the first to determine the clinical efficacy and cost-effectiveness of standard high-level disinfection and clinic instrument storage. Methods To assess for cross-contamination, surveillance cultures of otorhinolaryngology clinic instruments subject to standard high-level disinfection and storage were obtained at the start and end of the outpatient clinical workday. Rate of microorganism recovery was compared with cultures of instruments stored in individual peel packs and control cultures of contaminated instruments. Based on historical clinic data, the direct allocation method of cost accounting was used to determine aggregate raw material cost and additional labor hours required to process and restock peel-packed instruments. Results Among 150 cultures of standard high-level disinfected and co-located clinic instruments, 3 positive bacterial cultures occurred; 100% of control cultures were positive for bacterial species ( P &lt; .001). There was no statistical difference between surveillance cultures obtained before and after the clinic day. While there was also no significant difference in rate of contamination between peel-packed and co-located instruments, peel packing all instruments requires 6250 additional labor hours, and conservative analyses place the cost of individual semicritical instrument storage at $97,852.50 per year. Discussion With in vitro inoculation of &gt;200 otorhinolaryngology clinic instruments, this study demonstrates that standard high-level disinfection and storage are equally efficacious to more time-consuming and expensive individual instrument storage protocols, such as peel packing, with regard to bacterial contamination. Implications for Practice Standard high-level disinfection and storage are equally effective to labor-intensive and costly individual instrument storage protocols.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yalamanchi</LastName>
+                    <ForeName>Pratyusha</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Otorhinolaryngology-Head and Neck Surgery, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jason</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Otorhinolaryngology-Head and Neck Surgery, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chandler</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Department of Clinical Microbiology, Philadelphia VA Medical Center, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirza</LastName>
+                    <ForeName>Natasha</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Otorhinolaryngology-Head and Neck Surgery, Hospital of the University of Pennsylvania, Philadelphia, Pennsylvania, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Otolaryngol Head Neck Surg</MedlineTA>
+            <NlmUniqueID>8508176</NlmUniqueID>
+            <ISSNLinking>0194-5998</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PS/QI</Keyword>
+            <Keyword MajorTopicYN="N">clinic instrument</Keyword>
+            <Keyword MajorTopicYN="N">disinfectants</Keyword>
+            <Keyword MajorTopicYN="N">germicides</Keyword>
+            <Keyword MajorTopicYN="N">health care–associated infections</Keyword>
+            <Keyword MajorTopicYN="N">high-level disinfection</Keyword>
+            <Keyword MajorTopicYN="N">nosocomial</Keyword>
+            <Keyword MajorTopicYN="N">peel pack</Keyword>
+            <Keyword MajorTopicYN="N">sterilants</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29065268</ArticleId>
+            <ArticleId IdType="doi">10.1177/0194599817738977</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29065199</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-994X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Jun</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nicotine &amp; tobacco research : official journal of the Society for Research on Nicotine and Tobacco</Title>
+                <ISOAbbreviation>Nicotine Tob. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prevalence and Correlates of Smoking Among People Living With HIV in South Africa.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ntr/ntx145</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Smoking likely exacerbates comorbidities which people living with HIV (PLWH) are predisposed. We assessed prevalence and correlates of smoking among PLWH in South Africa, which has 7 million PLWH but inadequate reporting of smoking.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A cross-sectional survey was conducted among randomly selected adults with HIV infection in Klerksdorp, South Africa. Current smoking was assessed by questionnaire, exhaled carbon monoxide (eCO), and urine cotinine.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Of 1210 enrolled adults, 753 (62%) were women. In total, 409 (34%) self-reported ever smoking: 301 (74%) were current and 108 (26%) were former smokers. Using eCO and urine cotinine tests, 239 (52%) men and 100 (13%) women were defined as current smokers. Nearly all smokers (99%) were receiving ART, and had a median (IQR) CD4 count of 333 cells/μL (181-534), viral load of 31 IU/mL (25-4750), and BMI of 21 kg/m2 (19-24). Adjusted analysis among men showed higher odds of smoking with marijuana use (OR = 7.5, 95% CI = 4.1 to 14.6). Among women, 304 (43%) reported using snuff, compared to only 11 (3%) of men, and snuff use was inversely associated with smoking (OR = 0.1; 95% CI = 0.05 to 0.2). A subset of participants (n = 336) was asked about alcohol use, which was positively associated with smoking for men (OR = 8.1, 95% CI = 2.8 to 25.9) and women (OR = 8.5, 95% CI = 2.9 to 26.8).</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Smoking prevalence among PLWH in South Africa is alarmingly high. Prevention and cessation strategies that consider marijuana and alcohol use are needed.</AbstractText>
+                <AbstractText Label="Implications" NlmCategory="UNASSIGNED">As long-term HIV care continues to improve, more people living with HIV (PLWH) will die of diseases, including tuberculosis, for which smoking plays an important causal role. The prevalence of smoking is markedly higher among PLWH in high-resource settings, but data for Africa and other low-resource settings that shoulder the brunt of the HIV epidemic has previously not been well documented. We report an alarmingly high prevalence of smoking among PLWH in South Africa, particularly among men, and a strong association between current smoking and use of other substances.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Elf</LastName>
+                    <ForeName>Jessica L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins School of Medicine, Center for TB Research, 1550 Orleans Street, Room 103, Baltimore, Maryland 21231, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Schroeder Institute for Tobacco Research and Polity Studies at Truth Initiative, 900 G Street NW, Fourth Floor, Washington, D.C. 20001, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Variava</LastName>
+                    <ForeName>Ebrahim</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Perinatal HIV Research Unit (PHRU), SAMRC Soweto Matlosana Collaborating Centre for HIV/AIDS and TB, University of the Witwatersrand, P.O. Box 114, Diepkloof, 1864, Soweto, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Klerksdorp Tshepong Hospital Complex, Department of Health North West Province, Matlosana, 2574, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chon</LastName>
+                    <ForeName>Sandy</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins School of Medicine, Center for TB Research, 1550 Orleans Street, Room 103, Baltimore, Maryland 21231, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lebina</LastName>
+                    <ForeName>Limakatso</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Perinatal HIV Research Unit (PHRU), SAMRC Soweto Matlosana Collaborating Centre for HIV/AIDS and TB, University of the Witwatersrand, P.O. Box 114, Diepkloof, 1864, Soweto, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Motlhaoleng</LastName>
+                    <ForeName>Katlego</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Perinatal HIV Research Unit (PHRU), SAMRC Soweto Matlosana Collaborating Centre for HIV/AIDS and TB, University of the Witwatersrand, P.O. Box 114, Diepkloof, 1864, Soweto, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Klerksdorp Tshepong Hospital Complex, Department of Health North West Province, Matlosana, 2574, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupte</LastName>
+                    <ForeName>Nikhil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins School of Medicine, Center for TB Research, 1550 Orleans Street, Room 103, Baltimore, Maryland 21231, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niaura</LastName>
+                    <ForeName>Raymond</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Schroeder Institute for Tobacco Research and Polity Studies at Truth Initiative, 900 G Street NW, Fourth Floor, Washington, D.C. 20001, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>. Johns Hopkins School of Public Health, Department of Health, Behavior and Society, 624 N Broadway Street, Balitimore, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abrams</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Schroeder Institute for Tobacco Research and Polity Studies at Truth Initiative, 900 G Street NW, Fourth Floor, Washington, D.C. 20001, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>. Johns Hopkins School of Public Health, Department of Health, Behavior and Society, 624 N Broadway Street, Balitimore, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Golub</LastName>
+                    <ForeName>Jonathan E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Johns Hopkins School of Medicine, Center for TB Research, 1550 Orleans Street, Room 103, Baltimore, Maryland 21231, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinson</LastName>
+                    <ForeName>Neil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Perinatal HIV Research Unit (PHRU), SAMRC Soweto Matlosana Collaborating Centre for HIV/AIDS and TB, University of the Witwatersrand, P.O. Box 114, Diepkloof, 1864, Soweto, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nicotine Tob Res</MedlineTA>
+            <NlmUniqueID>9815751</NlmUniqueID>
+            <ISSNLinking>1462-2203</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29065199</ArticleId>
+            <ArticleId IdType="pii">3883619</ArticleId>
+            <ArticleId IdType="doi">10.1093/ntr/ntx145</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29065182</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clinical characterization of acute and convalescent illness of confirmed chikungunya cases from Chiapas, S. Mexico: A cross sectional study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0186923</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0186923</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The emerging chikungunya virus (CHIKV), is an arbovirus causing intense outbreaks in North America. The situation in Mexico is alarming, and CHIKV threatens to spread further throughout North America. Clinical and biological features of CHIKF outbreaks in Mexico have not been well described; thus, we conducted a cross sectional study of a CHIKV outbreak in Chiapas, Southern Mexico to further characterize these features.</AbstractText>
+                <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">We collected blood samples from patients suspected of having chikungunya fever (CHIKF) who presented to Clinical Hospital ISSSTE Dr. Roberto Nettel in Tapachula, Chiapas, Mexico. In addition to the clinical examination, real-time polymerase chain reaction (PCR) standardized for the Asian Chikungunya lineage and/or enzyme-linked immunosorbent assay for immunoglobulin M (IgM) were used to confirm CHIKV diagnosis. Of a total of 850 patients who presented with probably CHIKV at Hospital &quot;Dr. Roberto Nettel&quot;, 112 probable CHIKF cases were enrolled in this study from November 2014- June 2015, of which 95 patients (84.8%) were CHIKV positive and 17 were negative (15.2%). Of these 95 CHIKV positive patients, 62 were positive by real-time reverse transcriptase PCR (+qRT-PCR); and 33 were seropositive to +IgM with a negative qRT-PCR. The most frequent symptoms reported were fever (100%), headache (82.3%), polyarthralgia (72.1%), and exanthem (82.3%). Biological abnormalities observed during CHIKV infection were lymphopenia (41.1%), leukopenia (51.6%), elevated transaminases (30.5%-46.3%) and high LDH (46.3%) and CRP (60.0%).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Clinical and biological data obtained from this study is providing more useful information for benchmarking purposes with outbreaks from different parts of the world and would be helpful for better patient care and treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Danis-Lozano</LastName>
+                    <ForeName>Rogelio</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro Regional de Investigación en Salud Pública, Instituto Nacional de Salud Pública, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Díaz-González</LastName>
+                    <ForeName>Esteban Eduardo</ForeName>
+                    <Initials>EE</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6124-3282</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León, San Nicolás de los Garza, Nuevo León, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación y Desarrollo en Ciencias de la Salud, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trujillo-Murillo</LastName>
+                    <ForeName>Karina Del Carmen</ForeName>
+                    <Initials>KDC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Regional de Alta Especialidad &quot;Ciudad Salud&quot;, Secretaría de Salud, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias Químicas, Universidad Autónoma de Chiapas, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Caballero-Sosa</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clínica Hospital &quot;Dr. Roberto Nettel&quot;, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sepúlveda-Delgado</LastName>
+                    <ForeName>Jesús</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Regional de Alta Especialidad &quot;Ciudad Salud&quot;, Secretaría de Salud, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malo-García</LastName>
+                    <ForeName>Iliana Rosalía</ForeName>
+                    <Initials>IR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro Regional de Investigación en Salud Pública, Instituto Nacional de Salud Pública, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canseco-Ávila</LastName>
+                    <ForeName>Luis Miguel</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Regional de Alta Especialidad &quot;Ciudad Salud&quot;, Secretaría de Salud, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias Químicas, Universidad Autónoma de Chiapas, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salgado-Corsantes</LastName>
+                    <ForeName>Luis Manuel</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clínica Hospital &quot;Dr. Roberto Nettel&quot;, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Domínguez-Arrevillaga</LastName>
+                    <ForeName>Sergio</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Regional de Alta Especialidad &quot;Ciudad Salud&quot;, Secretaría de Salud, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias Químicas, Universidad Autónoma de Chiapas, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torres-Zapata</LastName>
+                    <ForeName>Raúl</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León, San Nicolás de los Garza, Nuevo León, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gómez-Cruz</LastName>
+                    <ForeName>Omar</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Regional de Alta Especialidad &quot;Ciudad Salud&quot;, Secretaría de Salud, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernández-Salas</LastName>
+                    <ForeName>Ildefonso</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro Regional de Investigación en Salud Pública, Instituto Nacional de Salud Pública, Tapachula, Chiapas, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León, San Nicolás de los Garza, Nuevo León, México.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Investigación y Desarrollo en Ciencias de la Salud, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29065182</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0186923</ArticleId>
+            <ArticleId IdType="pii">PONE-D-17-15896</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29064333</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-7759</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vector borne and zoonotic diseases (Larchmont, N.Y.)</Title>
+                <ISOAbbreviation>Vector Borne Zoonotic Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular Detection and Serological Evidence of Tick-Borne Encephalitis Virus in Serbia.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/vbz.2017.2167</ELocationID>
+            <Abstract>
+                <AbstractText>Tick-borne encephalitis (TBE) is a zoonotic flaviviral infection that is a growing public health concern in European countries. The aims of this research were to detect and characterize tick-borne encephalitis virus (TBEV) in Ixodes ricinus ticks at presumed natural foci in Serbia, and to determine seroprevalence of TBEV IgG antibodies in humans and animals. A total of 500 I. ricinus ticks were examined for the presence of TBEV by real-time RT-PCR, and conventional nested PCR and sequencing. To determine TBEV seroprevalence, 267 human sera samples were collected, as were 200 sera samples from different animal species. All sera samples were examined by ELISA for the presence of anti-TBEV antibodies. To exclude cross-reactivity, all sera samples were tested for anti-West Nile virus (WNV) antibodies and all human sera samples were also tested for anti-Usutu virus antibodies by ELISA. Results of this preliminary study indicated TBEV activity in Serbia at two microfoci. Several decades after the previous documentation of TBEV in Serbia, we have demonstrated the presence of TBEV in I. ricinus questing nymphs (prevalence 2% and 6.6% at the two different localities) and anti-TBEV antibodies in humans (seroprevalence 0.37%). Moreover, we show for the first time TBEV seroprevalence in several animal species in Serbia, including dogs (seroprevalence 17.5%), horses (5%), wild boars (12.5%), cattle (2.5%), and roe deer (2.5%). None of the goats tested was positive for anti-TBEV IgG antibodies. TBEV isolate from I. ricinus tick in this study belonged to the Western European subtype. To understand the true public health concern in Serbia, detailed epidemiological, clinical, virological, and acarological research are required. This is important for implementation of effective control measures to reduce the incidence of TBE in Serbia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Potkonjak</LastName>
+                    <ForeName>Aleksandar</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Veterinary Medicine, Faculty of Agriculture, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrović</LastName>
+                    <ForeName>Tamaš</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Scientific Veterinary Institute &quot;Novi Sad&quot; , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ristanović</LastName>
+                    <ForeName>Elizabeta</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3 Institute of Microbiology , Military Medical Academy, Belgrade, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lalić</LastName>
+                    <ForeName>Ivica</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>4 Orthopedics and Traumatology Clinic, Clinical Centre of Vojvodina , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>5 Faculty of Medicine, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vračar</LastName>
+                    <ForeName>Vuk</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Veterinary Medicine, Faculty of Agriculture, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savić</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 Scientific Veterinary Institute &quot;Novi Sad&quot; , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turkulov</LastName>
+                    <ForeName>Vesna</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5 Faculty of Medicine, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>6 lnfectious Diseases Clinic, Clinical Centre of Vojvodina , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Čanak</LastName>
+                    <ForeName>Grozdana</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5 Faculty of Medicine, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>6 lnfectious Diseases Clinic, Clinical Centre of Vojvodina , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milošević</LastName>
+                    <ForeName>Vesna</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5 Faculty of Medicine, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>7 Institute of Public Health of Vojvodina , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vidanović</LastName>
+                    <ForeName>Dejan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>8 Veterinary Specialist Institute Kraljevo , Kraljevo, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jurišić</LastName>
+                    <ForeName>Aleksandar</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>9 Department of Environmental and Plant Protection, Faculty of Agriculture, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrović</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>9 Department of Environmental and Plant Protection, Faculty of Agriculture, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petrović</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>5 Faculty of Medicine, University of Novi Sad , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>7 Institute of Public Health of Vojvodina , Novi Sad, Serbia .</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Vector Borne Zoonotic Dis</MedlineTA>
+            <NlmUniqueID>100965525</NlmUniqueID>
+            <ISSNLinking>1530-3667</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Serbia</Keyword>
+            <Keyword MajorTopicYN="N">TBEV</Keyword>
+            <Keyword MajorTopicYN="N">animals</Keyword>
+            <Keyword MajorTopicYN="N">humans</Keyword>
+            <Keyword MajorTopicYN="N">ticks</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29064333</ArticleId>
+            <ArticleId IdType="doi">10.1089/vbz.2017.2167</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29064130</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-0507</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mycoses</Title>
+                <ISOAbbreviation>Mycoses</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of CSP typing for genotyping of azole-resistant and -susceptible Aspergillus fumigatus isolates in Iran.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/myc.12717</ELocationID>
+            <Abstract>
+                <AbstractText>Aspergillus fumigatus is the leading cause of mortality in severely immunocompromised individuals. Understanding pathogen dispersion and relatedness is essential for determining the epidemiology of nosocomial infections. Therefore, the aim of this study was to investigate the diversity and putative origins of clinical and environmental azole-susceptible and -resistant A. fumigatus isolates from Iran. Seventy-nine isolates, including 64 azole-susceptible and 15 azole-resistant isolates, were genotyped using the cell surface protein (CSP) gene. Seven distinct repeat types (r01, r02, r03, r04, r05, r06 and r07) and 11 different CSP variants (t01, t02, t03, t04A, t06A, t06B, t08, t10, t18A, t18B and t22) were observed. Interestingly t06B, t18A and t18B were exclusively present in azole-resistant isolates. The Simpson's index of diversity (D) was calculated at 0.78. Resistant isolates were genetically less diverse than azole-susceptible isolates. However, azole-resistant A. fumigatus without TR34 /L98H were more diverse than with TR34 /L98H. The limited CSP type diversity of the TR34 /L98H isolates versus azole- susceptible isolates suggests that repeated independent emergence of the TR34 /L98H mechanism is unlikely. It has been suggested that CSP types might have a common ancestor that developed locally and subsequently migrated worldwide. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Falahatinejad</LastName>
+                    <ForeName>Mahsa</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Student Research Committee, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vaezi</LastName>
+                    <ForeName>Afsane</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Student Research Committee, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Mycology and Parasitology/Invasive Fungi Research Center (IFRC), School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fakhim</LastName>
+                    <ForeName>Hamed</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Mycology and Parasitology/Cellular and Molecular Research Center, Faculty of Medicine, Urmia University of Medical Sciences, Urmia, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abastabar</LastName>
+                    <ForeName>Mahdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Mycology and Parasitology/Invasive Fungi Research Center (IFRC), School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shokohi</LastName>
+                    <ForeName>Tahereh</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Mycology and Parasitology/Invasive Fungi Research Center (IFRC), School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zahedi</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Student Research Committee, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ansari</LastName>
+                    <ForeName>Saham</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Parasitology and Mycology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meis</LastName>
+                    <ForeName>Jacques F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Microbiology and Infectious Diseases, Canisius-Wilhelmina Hospital (CWZ), Nijmegen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre of Expertise, in Mycology Radboudumc/CWZ, Nijmegen, the Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Badali</LastName>
+                    <ForeName>Hamid</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Mycology and Parasitology/Invasive Fungi Research Center (IFRC), School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Mycoses</MedlineTA>
+            <NlmUniqueID>8805008</NlmUniqueID>
+            <ISSNLinking>0933-7407</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Aspergillus fumigatus</Keyword>
+            <Keyword MajorTopicYN="N">CSP typing</Keyword>
+            <Keyword MajorTopicYN="N">Iran</Keyword>
+            <Keyword MajorTopicYN="N">azole-resistant</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29064130</ArticleId>
+            <ArticleId IdType="doi">10.1111/myc.12717</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29064083</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-4951</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of computer-aided molecular design</Title>
+                <ISOAbbreviation>J. Comput. Aided Mol. Des.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>New insights into flavivirus biology: the influence of pH over interactions between prM and E proteins.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10822-017-0076-8</ELocationID>
+            <Abstract>
+                <AbstractText>Diseases caused by flaviviruses, such as dengue and zika, are globally recognized as major threats. During infection, a critical point in their replicative cycle is the maturation step, which occurs throughout the cellular exocytic pathway. This step is a pH-dependent process that involves the modification of the viral envelope by converting prM (pre-membrane) into M (membrane) proteins with the release of a &quot;pr peptide&quot;. After this reaction, the pr peptides remain bound to the viral envelope while the virions cross the acidic trans-Golgi network, and are released only at neutral pH after secretion of the virus particles. Despite this current knowledge, the molecular basis of the flavivirus maturation step is largely unknown. Here, based on the crystal structure of the dengue pr-E complex (&quot;pr peptide&quot; bound to virus envelope protein) and using molecular dynamics simulations, we found that the pH shift from acidic to neutral yields considerable structural changes in the system. Dynamic cross correlation maps and root mean square deviation analyses revealed that the pr-E junction is clearly unstable under neutral pH. Secondary structure analysis also revealed that the fusion loop region, present in the E protein, is sensitive to pH and tends to unstructure at a neutral environment. Moreover, we found that five residues present in the E protein, Gly(102), His(244), Thr(70), Thr(68) and Asn(67) are critical to confer stability to the pr-E complex while inside the Golgi apparatus. This work brings details about the dynamical behavior of the pr-E system, helps to better understand the flavivirus biology and may also be of use in the development of novel antiviral strategies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Oliveira</LastName>
+                    <ForeName>Edson R A</ForeName>
+                    <Initials>ERA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química - Universidade Federal do Rio de Janeiro, Av. Athos da Silveira Ramos, 149 Centro de Tecnologia, Bloco A, Sala 609, Cidade Universitária, Rio de Janeiro, RJ, CEP: 21941-909, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Alencastro</LastName>
+                    <ForeName>Ricardo B</ForeName>
+                    <Initials>RB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química - Universidade Federal do Rio de Janeiro, Av. Athos da Silveira Ramos, 149 Centro de Tecnologia, Bloco A, Sala 609, Cidade Universitária, Rio de Janeiro, RJ, CEP: 21941-909, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horta</LastName>
+                    <ForeName>Bruno A C</ForeName>
+                    <Initials>BAC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3952-1474</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto de Química - Universidade Federal do Rio de Janeiro, Av. Athos da Silveira Ramos, 149 Centro de Tecnologia, Bloco A, Sala 609, Cidade Universitária, Rio de Janeiro, RJ, CEP: 21941-909, Brazil. bruno@iq.ufrj.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Comput Aided Mol Des</MedlineTA>
+            <NlmUniqueID>8710425</NlmUniqueID>
+            <ISSNLinking>0920-654X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Envelope</Keyword>
+            <Keyword MajorTopicYN="N">Flavivirus</Keyword>
+            <Keyword MajorTopicYN="N">Maturation</Keyword>
+            <Keyword MajorTopicYN="N">Molecular dynamics</Keyword>
+            <Keyword MajorTopicYN="N">Molecular modeling</Keyword>
+            <Keyword MajorTopicYN="N">Pre-membrane</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29064083</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10822-017-0076-8</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10822-017-0076-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29063886</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1998-3646</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2017 Jul-Sep</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Indian journal of medical microbiology</Title>
+                <ISOAbbreviation>Indian J Med Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of concurrent malaria and dengue infections among febrile patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>402-405</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijmm.IJMM_15_455</ELocationID>
+            <Abstract>
+                <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Despite a wide overlap between endemic areas for two important vector-borne infections, malaria and dengue, published reports of co-infections are scarce till date.</AbstractText>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">To find the incidence of dengue and malaria co-infection as well as to ascertain the severity of such dengue and malaria co-infection based on clinical and haematological parameters.</AbstractText>
+                <AbstractText Label="SETTING AND DESIGN" NlmCategory="METHODS">Observational, retrospective cross-sectional study was designed including patients who consulted the tertiary care hospital of Ahmedabad seeking treatment for fever compatible with malaria and/or dengue.</AbstractText>
+                <AbstractText Label="SUBJECTS AND METHODS" NlmCategory="METHODS">A total of 8364 serum samples from clinically suspected cases of fever compatible with malaria and/or dengue were collected. All samples were tested for dengue NS-1 antigen before 5 days of onset of illness and for dengue IgM after 5 days of onset of illness. In all samples, malaria diagnosis was based on the identification of Plasmodium parasites on a thin and thick blood films microscopy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Only 10.27% (859) patients with fever were tested positive for dengue and 5.1% (434) were tested positive for malaria. 3.14% (27) dengue cases show concurrent infection with malarial parasites. Hepatomegaly and jaundice 37.03% (10), haemorrhagic manifestations 18.51% (5) and kidney failure 3.7% (1), haemoglobin &lt;12 g/dl 100% (27) and thrombocytopenia (platelet count &lt;150,000/cmm) 96.29% (26) were common in malaria and dengue co-infections and were much more common in Plasmodium falciparum infections.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">All febrile patients must be tested for malaria and dengue, both otherwise one of them will be missed in case of concurrent infections which could lead to severe diseases with complications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Parul D</ForeName>
+                    <Initials>PD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Smt. N.H.L. Municipal Medical College, Ahmedabad, Gujarat, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehta</LastName>
+                    <ForeName>Tanmay K</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Smt. N.H.L. Municipal Medical College, Ahmedabad, Gujarat, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Indian J Med Microbiol</MedlineTA>
+            <NlmUniqueID>8700903</NlmUniqueID>
+            <ISSNLinking>0255-0857</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063886</ArticleId>
+            <ArticleId IdType="pii">IndianJMedMicrobiol_2017_35_3_402_216611</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijmm.IJMM_15_455</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29063882</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1998-3646</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2017 Jul-Sep</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Indian journal of medical microbiology</Title>
+                <ISOAbbreviation>Indian J Med Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnostic efficacy of microscopy, rapid diagnostic test and polymerase chain reaction for malaria using bayesian latent class analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>376-380</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijmm.IJMM_17_199</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The diagnostic techniques for malaria are undergoing a change depending on the availability of newer diagnostics and annual parasite index of infection in a particular area. At the country level, guidelines are available for selection of diagnostic tests; however, at the local level, this decision is made based on malaria situation in the area. The tests are evaluated against the gold standard, and if that standard has limitations, it becomes difficult to compare other available tests. Bayesian latent class analysis computes its internal standard rather than using the conventional gold standard and helps comparison of various tests including the conventional gold standard.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">In a cross-sectional study conducted in a tertiary care hospital setting, we have evaluated smear microscopy, rapid diagnostic test (RDT), and polymerase chain reaction (PCR) for diagnosis of malaria using Bayesian latent class analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found the magnitude of malaria to be 17.7% (95% confidence interval: 12.5%-23.9%) among the study subjects. In the present study, the sensitivity of microscopy was 63%, but it had very high specificity (99.4%). Sensitivity and specificity of RDT and PCR were high with RDT having a marginally higher sensitivity (94% vs. 90%) and specificity (99% vs. 95%). On comparison of likelihood ratios (LRs), RDT had the highest LR for positive test result (175) and the lowest LR for negative test result (0.058) among the three tests.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In settings like ours conventional smear microscopy may be replaced with RDT and as we move toward elimination and facilities become available PCR may be roped into detect cases with lower parasitaemia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saha</LastName>
+                    <ForeName>Sreemanti</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Mahatma Gandhi Institute of Medical Sciences, Wardha, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narang</LastName>
+                    <ForeName>Rahul</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Mahatma Gandhi Institute of Medical Sciences, Wardha, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deshmukh</LastName>
+                    <ForeName>Pradeep</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Medicine, Mahatma Gandhi Institute of Medical Sciences, Wardha, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pote</LastName>
+                    <ForeName>Kiran</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Mahatma Gandhi Institute of Medical Sciences, Wardha, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anvikar</LastName>
+                    <ForeName>Anup</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute for Malaria Research, New Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narang</LastName>
+                    <ForeName>Pratibha</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Mahatma Gandhi Institute of Medical Sciences, Wardha, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Indian J Med Microbiol</MedlineTA>
+            <NlmUniqueID>8700903</NlmUniqueID>
+            <ISSNLinking>0255-0857</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063882</ArticleId>
+            <ArticleId IdType="pii">IndianJMedMicrobiol_2017_35_3_376_216625</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijmm.IJMM_17_199</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29063880</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1998-3646</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <MedlineDate>2017 Jul-Sep</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Indian journal of medical microbiology</Title>
+                <ISOAbbreviation>Indian J Med Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Discriminatory power of three typing techniques in determining relatedness of nosocomial Klebsiella pneumoniae isolates from a tertiary hospital in India.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>361-368</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/ijmm.IJMM_16_308</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The purpose of this study was to evaluate the discriminatory power of two DNA-based technique and a protein-based technique for the typing of nosocomial isolates of Klebsiella pneumoniae. A second objective was to determine the antimicrobial susceptibility pattern and characterise the presence of genes encoding extended-spectrum beta-lactamases (ESBLs) and carbapenemases.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Forty-six K. pneumoniae isolates from patients with bloodstream infections at a tertiary care hospital in India between December 2014 and December 2015 were studied. All isolates were typed using enterobacterial repetitive intergenic consensus sequence-polymerase chain reaction (ERIC-PCR), randomly amplified polymorphic DNA (RAPD) analysis and matrix-assisted laser desorption ionisation time-of-flight (MALDI-TOF) mass spectrometry. Antimicrobial susceptibility profiles and ESBLs were detected using the BD Phoenix system. The types of ESBL and carbapenemase genes present were detected using PCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Isolates were subtyped into 31, 30 and 33 distinct genotypes by ERIC-PCR, RAPD and MALDI-TOF, respectively. Several isolates displaying identical DNA fingerprints were binned into different branches based on their proteomic fingerprint. Antimicrobial susceptibility tests revealed that 33/46 strains were multidrug resistant (MDR); a majority of the strains (83%) were sensitive to colistin. PCR-based analysis demonstrated 19 strains to harbour two or more ESBL and carbapenemase genes.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">ERIC-PCR was the most reproducible method for typing K. pneumoniae isolates and could not be substituted by MALDI-TOF for clonality analysis. A high degree of genetic diversity and the presence of MDR genes highlight the challenges in treating K. pneumoniae-associated infections.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Purighalla</LastName>
+                    <ForeName>Swathi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hospital Infection Control, Narayana Health City, Bengaluru, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esakimuthu</LastName>
+                    <ForeName>Sarita</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Narayana Health City, Bengaluru, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reddy</LastName>
+                    <ForeName>Mallika</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Narayana Health City, Bengaluru, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Varghese</LastName>
+                    <ForeName>George K</ForeName>
+                    <Initials>GK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hospital Infection Control, Narayana Health City, Bengaluru, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richard</LastName>
+                    <ForeName>Vijay S</ForeName>
+                    <Initials>VS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hospital Infection Control, Narayana Health City, Bengaluru, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sambandamurthy</LastName>
+                    <ForeName>Vasan K</ForeName>
+                    <Initials>VK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mazumdar Shaw Centre for Translational Research, Narayana Health City, Bengaluru, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Indian J Med Microbiol</MedlineTA>
+            <NlmUniqueID>8700903</NlmUniqueID>
+            <ISSNLinking>0255-0857</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063880</ArticleId>
+            <ArticleId IdType="pii">IndianJMedMicrobiol_2017_35_3_361_216618</ArticleId>
+            <ArticleId IdType="doi">10.4103/ijmm.IJMM_16_308</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063819</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1973-9478</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chemotherapy (Florence, Italy)</Title>
+                <ISOAbbreviation>J Chemother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Investigation of the effects of various antibiotics against Klebsiella pneumoniae biofilms on in vitro catheter model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/1120009X.2017.1390633</ELocationID>
+            <Abstract>
+                <AbstractText>Klebsiella pneumoniae continues to be an important cause of community-acquired and nosocomial infection. This bacterium can cause catheter related infections by forming biofilm on the surface of catheter. The aim of our study is to determine the in vitro stability and efficacy of colistin, ciprofloxacin, tobramycin, doripenem and tigecycline alone, or in combination with clarithromycin or esomeprazole, as 24-h lock solutions against biofilm-embedded K. pneumoniae strains. The efficacy of antibiotic lock solutions was tested in an in vitro catheter biofilm model against K. pneumoniae. In our study, we observed that the use of doripenem and tobramycin as a lock solution had potent bactericidal effects. When colistin was used in combination with clarithromycin or esomeprazole, the combinations had a synergistic effect. No antagonistic effect was observed. The findings of our study have important information for effectiveness of tested antibiotic lock solution in the catheter-related infections with K. pneumoniae.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mataraci Kara</LastName>
+                    <ForeName>Emel</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4428-5066</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Pharmaceutical Microbiology Faculty of Pharmacy , Istanbul University , Istanbul , Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozbek Celik</LastName>
+                    <ForeName>Berna</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Department of Pharmaceutical Microbiology Faculty of Pharmacy , Istanbul University , Istanbul , Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Chemother</MedlineTA>
+            <NlmUniqueID>8907348</NlmUniqueID>
+            <ISSNLinking>1120-009X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antimicrobial lock therapy</Keyword>
+            <Keyword MajorTopicYN="N">Biofilm</Keyword>
+            <Keyword MajorTopicYN="N">Catheter infections</Keyword>
+            <Keyword MajorTopicYN="N">Combination</Keyword>
+            <Keyword MajorTopicYN="N">Gram negatives</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063819</ArticleId>
+            <ArticleId IdType="doi">10.1080/1120009X.2017.1390633</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29063630</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1472-765X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Letters in applied microbiology</Title>
+                <ISOAbbreviation>Lett. Appl. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Isolation and Characterization of multi-drug resistant Leclercia species from Animal clinical case.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/lam.12811</ELocationID>
+            <Abstract>
+                <AbstractText>Leclercia adecarboxylata, a Gram-negative bacillus of family Enterobacteriaceae, is an uncommonly identified pathogen isolated from environmental and clinical specimens. Most of the human infections are polymicrobial and commonly occur in immunocompromised hosts, although nosocomial infections in immunocompetent hosts have been documented. Here, we describe the case of isolation of Leclercia species as polymicrobial infection from bovine suffering from respiratory distress in Chhattisgarh state of India. The isolates were identified by their phenotypes, 16S rDNA sequencing and by MALDI TOF-MS. The isolate was found to be resistant to aminonoglycosides and fluroquinolone antibiotics and intermediate resistant to cephalosporins and evidenced for uncertain clinical relevance and could act as hidden source of public health hazard. This article is protected by copyright. All rights reserved.</AbstractText>
+                <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Choudhary</LastName>
+                    <ForeName>Mamta</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ICAR-National Institute of Biotic Stress Management, Raipur, 493225, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhary</LastName>
+                    <ForeName>Binod Kumar</ForeName>
+                    <Initials>BK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ICAR-National Institute of Biotic Stress Management, Raipur, 493225, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhoyar</LastName>
+                    <ForeName>Smita</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Zoonoses Department of Veterinary Public Health, Nagpur Veterinary College Maharashtra Animal and Fishery Sciences University, Nagpur, 440006, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kale</LastName>
+                    <ForeName>Satyajit B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Zoonoses Department of Veterinary Public Health, Nagpur Veterinary College Maharashtra Animal and Fishery Sciences University, Nagpur, 440006, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chaudhari</LastName>
+                    <ForeName>S P</ForeName>
+                    <Initials>SP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Zoonoses Department of Veterinary Public Health, Nagpur Veterinary College Maharashtra Animal and Fishery Sciences University, Nagpur, 440006, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bera</LastName>
+                    <ForeName>B C</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ICAR- National Centre for Veterinary Type Cultures National Research Centre on Equines, Hisar, 125001, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Ashok</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Livestock Development Department, Mohala, Rajnandgaon, 491 666, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbuddhe</LastName>
+                    <ForeName>S B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>ICAR-National Institute of Biotic Stress Management, Raipur, 493225, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lett Appl Microbiol</MedlineTA>
+            <NlmUniqueID>8510094</NlmUniqueID>
+            <ISSNLinking>0266-8254</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Enterobacteriaceae</Keyword>
+            <Keyword MajorTopicYN="N">Leclercia adecarboxylata</Keyword>
+            <Keyword MajorTopicYN="N">Antimicrobial resistance</Keyword>
+            <Keyword MajorTopicYN="N">Emerging pathogen</Keyword>
+            <Keyword MajorTopicYN="N">Respiratory distress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29063630</ArticleId>
+            <ArticleId IdType="doi">10.1111/lam.12811</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29062857</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2322-1984</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of arthropod-borne diseases</Title>
+                <ISOAbbreviation>J Arthropod Borne Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Seroprevalence of Visceral Leishmaniasis in Children up to 12 Years old Among Nomadic Tribes from Rural Areas of Pars Abad, Northwestern Iran: an Observational Study in 2015.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>331-337</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Since Pars Abad district had been known as a focus of visceral leishmaniasis (VL) in Ardabil Province but the prevalence of the disease in nomadic tribes has not been determined, thus, this study was conducted.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This descriptive cross-sectional study was conducted on children up to 12yr old of nomadic tribes from Pars Abad County, Ardabil Province, Iran in 2015. For each individual, a questionnaire including age, sex, clinical manifestations, history of disease, and contact with reservoir hosts of VL were completed, separately. To determine VL seroprevalence, blood samples were collected from the children and after centrifugation, the plasma samples were tested using Direct Agglutination Test (DAT) for detection of anti-Leishmania infantum antibodies. Statistical analyses were performed using SPSS16.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">From 776 children up to 12yr old, 2 (0.25%) showed anti-L. infantum antibodies at titers 1:1600 and only one case (0.13%) showed anti-Leishmania antibodies at titers 1:3200. The child with anti-L. infantum antibodies titers of 1:3200 showed mild fever for more than 2 months period, paleness, weakness and mild splenomegaly. After physical examination and confirmation of VL (kala-azar), the patient was treated with antileishmanial drugs.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The findings indicated that L. infantum infection is being circulated with low prevalence in nomadic tribes of Pars Abad but it is necessary that the surveillance system is regularly monitored among physicians and public health managers in the studied areas.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ebrahimzade-Parikhani</LastName>
+                    <ForeName>Hassan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Parasitology and Mycology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohebali</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Parasitology and Mycology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Research of Endemic Parasites of Iran, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zarei</LastName>
+                    <ForeName>Zabiholah</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Parasitology and Mycology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akhoundi</LastName>
+                    <ForeName>Behnaz</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Parasitology and Mycology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kakoei</LastName>
+                    <ForeName>Zahra</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Parasitology and Mycology, School of Public Health, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>J Arthropod Borne Dis</MedlineTA>
+            <NlmUniqueID>101593448</NlmUniqueID>
+            <ISSNLinking>2322-1984</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Children</Keyword>
+            <Keyword MajorTopicYN="N">Iran</Keyword>
+            <Keyword MajorTopicYN="N">Nomadic tribes</Keyword>
+            <Keyword MajorTopicYN="N">Sero-prevalence</Keyword>
+            <Keyword MajorTopicYN="N">Visceral leishmaniasis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062857</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29062487</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2052-2975</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>New microbes and new infections</Title>
+                <ISOAbbreviation>New Microbes New Infect</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Challenges in the identification of Chryseobacterium indologenes and Elizabethkingia meningoseptica in cases of nosocomial infections and patients with cystic fibrosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>27-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nmni.2017.09.002</ELocationID>
+            <Abstract>
+                <AbstractText>Rare nonfermenting Gram-negative bacilli, such as Chryseobacterium indologenes and Elizabethkingia meningoseptica, have clinical importance in nosocomial infections and cystic fibrosis (CF), and their identification is a challenge to microbiology laboratories. Thus, the objective of this study was to verify the performance of phenotypic and mass spectrometry (matrix-assisted desorption ionization-time of flight mass spectrometry, MALDI-TOF MS) methods to identify C. indologenes and E. meningoseptica. In this context, the results obtained with phenotypic methods-namely manual biochemical and automated VITEK 2 (bioMérieux, Marcy l'Etoile, France) and Phoenix tests (Becton Dickinson (BD), San Diego, CA, USA)-and by MALDI-TOF MS-namely MALDI-TOF VITEK MS (MALDI-MS; bioMérieux) and MALDI-TOF BioTyper (MALDI-BD; BD)-of 22 isolates (blood cultures of patients with nosocomial infection (n = 15) and from patients with CF (n = 7)), initially identified as C. indologenes and E. meningoseptica, were compared. As result, using the manual phenotypic method, it was possible to identify the species level in 18/22; no identification was found in 4/22. There was a low agreement level between manual and VITEK 2 automated phenotypic methods when considering the genus level. The greatest agreement for genus-level identification occurred in MALDI-TOF MS equipment (15/22). When comparing all methods to identify the 22 isolates, there was agreement of 4/22 at the genus level and of 4/22 at the species level. In conclusion, there is low agreement level among identification methods of C. indologenes and E. meningoseptica. Although MALDI-TOF MS equipment shows a higher agreement level among them, results present low levels of confidence.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Carvalho Filho</LastName>
+                    <ForeName>É B</ForeName>
+                    <Initials>ÉB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, School of Medical Sciences, University of Campinas, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marson</LastName>
+                    <ForeName>F A L</ForeName>
+                    <Initials>FAL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, School of Medical Sciences, University of Campinas, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, School of Medical Sciences, University of Campinas, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levy</LastName>
+                    <ForeName>C E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Pathology, School of Medical Sciences, University of Campinas, São Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>New Microbes New Infect</MedlineTA>
+            <NlmUniqueID>101624750</NlmUniqueID>
+            <ISSNLinking>2052-2975</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bacterial identification</Keyword>
+            <Keyword MajorTopicYN="N">MALDI-TOF MS</Keyword>
+            <Keyword MajorTopicYN="N">Phoenix</Keyword>
+            <Keyword MajorTopicYN="N">VITEK 2</Keyword>
+            <Keyword MajorTopicYN="N">phenotypic methods</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062487</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nmni.2017.09.002</ArticleId>
+            <ArticleId IdType="pii">S2052-2975(17)30073-2</ArticleId>
+            <ArticleId IdType="pmc">PMC5643076</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29062486</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2052-0573</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2017</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrinology, diabetes &amp; metabolism case reports</Title>
+                <ISOAbbreviation>Endocrinol Diabetes Metab Case Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cardiac tamponade in a patient with autoimmune polyglandular syndrome type 2.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">17-0097</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1530/EDM-17-0097</ELocationID>
+            <Abstract>
+                <AbstractText>We describe a case of a 40-year-old woman who was admitted to the intensive care unit with a rapid onset of dyspnea and orthopnea. She presented progressive weakness, weight loss and secondary amenorrhea during last year, while intermittent fever was present for the last two months. Initial biochemical evaluation showed anemia, hyponatremia and increased C-reactive protein levels. Clinical and echocardiographic evaluation revealed cardiac tamponade, which was treated with pericardiocentesis. Pleural fluid samples were negative for malignancy, tuberculosis or bacterial infection. Hormonal and serologic evaluation led to the diagnosis of autoimmune polyglandular syndrome (APS) type 2 (including primary adrenal insufficiency and autoimmune thyroiditis), possibly coexisting with systemic lupus erythematosus. After symptomatic rheumatologic treatment followed by replacement therapy with hydrocortisone and fludrocortisone, the patient fully recovered. In patients with the combination of polyserositis, cardiac tamponade and persistent hyponatremia, possible coexistence of rheumatologic and autoimmune endocrine disease, mainly adrenal insufficiency, should be considered. Early diagnosis and non-invasive treatment can be life-saving.</AbstractText>
+                <AbstractText Label="LEARNING POINTS" NlmCategory="UNASSIGNED">In patients with the combination of polyserositis, cardiac tamponade and persistent hyponatremia, possible coexistence of rheumatologic and autoimmune endocrine disease, mainly adrenal insufficiency, should be considered.Early diagnosis and non-invasive treatment can be life-saving for these patients.Primary adrenal insufficiency requires lifelong replacement therapy with oral administration of 15-25 mg hydrocortisone in split doses and 50-200 µg fludrocortisone once daily.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vryonidou</LastName>
+                    <ForeName>Andromachi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, Hellenic Red Cross Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paschou</LastName>
+                    <ForeName>Stavroula A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, Hellenic Red Cross Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dimitropoulou</LastName>
+                    <ForeName>Fotini</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, Hellenic Red Cross Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anagnostis</LastName>
+                    <ForeName>Panagiotis</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit of Reproductive Endocrinology, First Department of Obstetrics and Gynecology, Medical School, Aristotle University of Thessaloniki, Thessaloniki, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tzavara</LastName>
+                    <ForeName>Vasiliki</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>3rd Department of Internal Medicine, Hellenic Red Cross Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katsivas</LastName>
+                    <ForeName>Apostolos</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1st Department of Cardiology, Hellenic Red Cross Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Endocrinol Diabetes Metab Case Rep</MedlineTA>
+            <NlmUniqueID>101618943</NlmUniqueID>
+            <ISSNLinking>2052-0573</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">2017</Keyword>
+            <Keyword MajorTopicYN="N">ACTH</Keyword>
+            <Keyword MajorTopicYN="N">Addison's disease</Keyword>
+            <Keyword MajorTopicYN="N">Adrenal</Keyword>
+            <Keyword MajorTopicYN="N">Adrenal antibodies</Keyword>
+            <Keyword MajorTopicYN="N">Adrenal insufficiency</Keyword>
+            <Keyword MajorTopicYN="N">Adult</Keyword>
+            <Keyword MajorTopicYN="N">Amenorrhoea</Keyword>
+            <Keyword MajorTopicYN="N">Anaemia</Keyword>
+            <Keyword MajorTopicYN="N">Arthralgia</Keyword>
+            <Keyword MajorTopicYN="N">Autoimmune polyendocrine syndrome 2</Keyword>
+            <Keyword MajorTopicYN="N">Autoimmune polyglandular syndrome</Keyword>
+            <Keyword MajorTopicYN="N">C-reactive protein</Keyword>
+            <Keyword MajorTopicYN="N">Cardiac tamponade</Keyword>
+            <Keyword MajorTopicYN="N">Cardiology</Keyword>
+            <Keyword MajorTopicYN="N">Cortisol</Keyword>
+            <Keyword MajorTopicYN="N">Dyspnoea</Keyword>
+            <Keyword MajorTopicYN="N">Echocardiogram</Keyword>
+            <Keyword MajorTopicYN="N">Female</Keyword>
+            <Keyword MajorTopicYN="N">Fludrocortisone</Keyword>
+            <Keyword MajorTopicYN="N">Glucocorticoids</Keyword>
+            <Keyword MajorTopicYN="N">Greece</Keyword>
+            <Keyword MajorTopicYN="N">Hashimoto's disease</Keyword>
+            <Keyword MajorTopicYN="N">Hydrocortisone</Keyword>
+            <Keyword MajorTopicYN="N">Hyperpigmentation</Keyword>
+            <Keyword MajorTopicYN="N">Hyponatraemia</Keyword>
+            <Keyword MajorTopicYN="N">Hypotension</Keyword>
+            <Keyword MajorTopicYN="N">Levothyroxine</Keyword>
+            <Keyword MajorTopicYN="N">Methylprednisolone</Keyword>
+            <Keyword MajorTopicYN="N">Mineralocorticoids</Keyword>
+            <Keyword MajorTopicYN="N">Myasthaenia</Keyword>
+            <Keyword MajorTopicYN="N">October</Keyword>
+            <Keyword MajorTopicYN="N">Pericardial effusion</Keyword>
+            <Keyword MajorTopicYN="N">Pericardiocentesis</Keyword>
+            <Keyword MajorTopicYN="N">Pyrexia</Keyword>
+            <Keyword MajorTopicYN="N">Rash</Keyword>
+            <Keyword MajorTopicYN="N">Systemic lupus erythematosus</Keyword>
+            <Keyword MajorTopicYN="N">Tachycardia</Keyword>
+            <Keyword MajorTopicYN="N">Thyroiditis</Keyword>
+            <Keyword MajorTopicYN="N">Unique/unexpected symptoms or presentations of a disease</Keyword>
+            <Keyword MajorTopicYN="N">Weight loss</Keyword>
+            <Keyword MajorTopicYN="N">White</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062486</ArticleId>
+            <ArticleId IdType="doi">10.1530/EDM-17-0097</ArticleId>
+            <ArticleId IdType="pii">EDM170097</ArticleId>
+            <ArticleId IdType="pmc">PMC5640567</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29062329</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1729-0503</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>African health sciences</Title>
+                <ISOAbbreviation>Afr Health Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dissemination and genetic support of broad-spectrum beta-lactam-resistant Escherichia coli strain isolated from two Tunisian hospitals during 2004-2012.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>346-355</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4314/ahs.v17i2.8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The dissemination of extended-spectrum β-lactamase (ESBL)-producing bacteria presented a great concern worldwide. Gram-negative organisms such as Escherichia coli and Klebsiella pneumoniae are the most frequently isolated pathogens responsible for nosocomial infections.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The aim of this study was to investigate and to follow the emergence of resistance and the characterization of Extended-Spectrum Beta-Lactamases (ESBL) among broad-spectrum beta-lactam-Escherichia coli clinical isolates recovered from the military hospital and Habib Thameur hospital in Tunisia.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 113 E.coli isolates obtained during the period 2004 through 2012 showed a significant degree of multi-resistance. Among these strains, the double-disk synergy test confirmed the ESBL phenotype in 46 isolates. These included 32(70%) strains from Hospital A and 14(30%) from Hospital B.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The ESBL was identified as CTX-M-15. The ESBL resistance was transferred by a 60 kb plasmid CTXM-15-producing isolates were unrelated according to the PFGE analysis and characterization of the regions surrounding the blaCTX-M-15 showed the ISEcp1 elements located in the upstream region of the bla gene and 20 of them truncated by IS26.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">ESBL producing E. coli strains are a serious threat in the community in Tunisia and we should take into consideration any possible spread of such epidemiological resistance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ayari</LastName>
+                    <ForeName>Khaoula</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biochemistry and technobiology, Faculty of Sciences of Tunis, University Tunis El Manar, 2092 El Manar II, Tunisia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bourouis</LastName>
+                    <ForeName>Amel</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biochemistry and technobiology, Faculty of Sciences of Tunis, University Tunis El Manar, 2092 El Manar II, Tunisia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chihi</LastName>
+                    <ForeName>Hela</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biochemistry and technobiology, Faculty of Sciences of Tunis, University Tunis El Manar, 2092 El Manar II, Tunisia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahrouki</LastName>
+                    <ForeName>Sihem</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biochemistry and technobiology, Faculty of Sciences of Tunis, University Tunis El Manar, 2092 El Manar II, Tunisia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naas</LastName>
+                    <ForeName>Thierry</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bacteriology-Virology service. CHU Bicetre 78 rue du Général Leclerc, 94275 Le Kremlin-Bicetre.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Belhadj</LastName>
+                    <ForeName>Omrane</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biochemistry and technobiology, Faculty of Sciences of Tunis, University Tunis El Manar, 2092 El Manar II, Tunisia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Uganda</Country>
+            <MedlineTA>Afr Health Sci</MedlineTA>
+            <NlmUniqueID>101149451</NlmUniqueID>
+            <ISSNLinking>1680-6905</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CTX-M-15</Keyword>
+            <Keyword MajorTopicYN="N">ESBLs</Keyword>
+            <Keyword MajorTopicYN="N">Escherichia coli</Keyword>
+            <Keyword MajorTopicYN="N">diverse clones</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062329</ArticleId>
+            <ArticleId IdType="doi">10.4314/ahs.v17i2.8</ArticleId>
+            <ArticleId IdType="pii">jAFHS.v17.i2.pg346</ArticleId>
+            <ArticleId IdType="pmc">PMC5637019</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">29062323</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1729-0503</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>African health sciences</Title>
+                <ISOAbbreviation>Afr Health Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The burden, pattern and factors that contribute to periportal fibrosis in HIV-infected patients in an S. mansoni endemic rural Uganda.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>301-307</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4314/ahs.v17i2.2</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Both Human Immunodeficiency Virus (HIV) and S.mansoni infections are common in Uganda and can cause liver disease. No study has determined co-infection significance in Uganda. We carried out a study on the burden, pattern and factors that contribute to peri-portal fibrosis (PPF) in HIV infected patients attending a Primary healthcare setting at Pakwach.</AbstractText>
+                <AbstractText Label="METHODOLOGY" NlmCategory="METHODS">We conducted a cross-sectional study in the HIV clinic at Pakwach health centre IV. Data on demographics, contact with the Nile, CD4(+) cell count, ART and alcohol use were collected. Urinary Circulating Cathodic Antigen (CCA), was done for S. Mansoni detection. Liver scan was done for presence and pattern of PPF. HBsAg testing was performed on all participants. Data was analyzed using Stata Version 10.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We enrolled 299 patients, median age 39 years (IQR 16), most were female, 210 (73%). Overall, 206 (68.9%) had PPF, majority 191 (92.7%) had pattern c, either alone (63 participants) or in combination with pattern d (128 participants). Age of 30-50 years was significantly associated with PPF (OR 2.28 p-value-0.003).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We found high prevalence of S. mansoni and PPF in the HIV infected population and age was a significant factor for PPF. We recommend all HIV infected patients be examined routinely for S. mansoni infection for early anti-schistosomal treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ocama</LastName>
+                    <ForeName>Ponsiano</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Makerere University College of Health Sciences, Kampala, Uganda.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Opio</LastName>
+                    <ForeName>Kenneth Christopher</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Makerere University College of Health Sciences, Kampala, Uganda.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seremba</LastName>
+                    <ForeName>Emmanuel</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Makerere University College of Health Sciences, Kampala, Uganda.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ajal</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pakwach Health Centre IV, Pakwach, Nebbi District, Uganda.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Apica</LastName>
+                    <ForeName>Betty Stephanie</ForeName>
+                    <Initials>BS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Makerere University College of Health Sciences, Kampala, Uganda.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aginya</LastName>
+                    <ForeName>Emmanuel Odongo</ForeName>
+                    <Initials>EO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gulu University Medical School.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Uganda</Country>
+            <MedlineTA>Afr Health Sci</MedlineTA>
+            <NlmUniqueID>101149451</NlmUniqueID>
+            <ISSNLinking>1680-6905</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HIV</Keyword>
+            <Keyword MajorTopicYN="N">S.Mansoni</Keyword>
+            <Keyword MajorTopicYN="N">peri-portal fibrosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062323</ArticleId>
+            <ArticleId IdType="doi">10.4314/ahs.v17i2.2</ArticleId>
+            <ArticleId IdType="pii">jAFHS.v17.i2.pg301</ArticleId>
+            <ArticleId IdType="pmc">PMC5637013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29062249</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1306-0015</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>52</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Turk pediatri arsivi</Title>
+                <ISOAbbreviation>Turk Pediatri Ars</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A retrospective evaluation of blood cultures in a pediatric intensive care unit: a three year evaluation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>154-161</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5152/TurkPediatriArs.2017.5451</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">In this study, it was aimed to retrospectively assess the frequency and antibiotic resistance of microorganisms isolated from blood cultures of patients in a pediatric intensive care unit.</AbstractText>
+                <AbstractText Label="MATERIAL AND METHODS" NlmCategory="METHODS">The study was conducted on blood culture tests obtained from patients in a pediatric intensive care unit and sent to a microbiology laboratory between 2013 and 2016. The species and antibiotic susceptibilities were assessed in microorganisms isolated from the blood cultures.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 4239 blood cultures were obtained. Growth was detected in 324 blood cultures (7.6%). Of the microorganisms isolated, 195 (60.2%) were Gram-positive bacteria, and 107 (33.0%) were Gram-negative bacteria; 22 (6.8%) were fungi. The most commonly isolated microorganisms were Coagulase-negative staphylococci (45.1%), followed by Klebsiella pneumonia (14.5%), and Enterococcus faecalis (6.5%). Among the fungi, the most common was Candida albicans (59.1%), followed by Candida parapsilosis. The resistance rate against methicillin was 89.9% in coagulase-negative staphylococci, and 66% in S. aureus strains. The resistance rate against vancomycin was 3.6% in Enterococci spp. There was no resistance against linezolid in Gram-positive microorganisms. The rate of extended-spectrum beta lactamase positivity was found as 34% in Klebsiella spp. and 100% in Escherichia coli. The resistance rate against carbapenem was 44.9% in Gram-negative bacteriae. The resistance rate against carbapenem was 100% in Acinetobacter baumanii. In Candida albicans, resistance to amphotericine B was 61.5%, and resistance to voriconazole was 7.7%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">To plan effective empiric antibiotic therapy against nosocomial infections in intensive care units, all units should have information about the characteristics of their own flora.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ergül</LastName>
+                    <ForeName>Ayşe Betül</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Pediatrics, Kayseri Education and Research Hospital, University of Health Sciences, Kayseri, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Işık</LastName>
+                    <ForeName>Halit</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Pediatrics, Kayseri Education and Research Hospital, University of Health Sciences, Kayseri, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altıntop</LastName>
+                    <ForeName>Yasemin Ay</ForeName>
+                    <Initials>YA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Microbiology, Kayseri Education and Research Hospital, University of Health Sciences, Kayseri, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torun</LastName>
+                    <ForeName>Yasemin Altuner</ForeName>
+                    <Initials>YA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Pediatrics, Kayseri Education and Research Hospital, University of Health Sciences, Kayseri, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Turkey</Country>
+            <MedlineTA>Turk Pediatri Ars</MedlineTA>
+            <NlmUniqueID>9803140</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antibiotic</Keyword>
+            <Keyword MajorTopicYN="N">blood culture</Keyword>
+            <Keyword MajorTopicYN="N">microorganism</Keyword>
+            <Keyword MajorTopicYN="N">pediatric critical care</Keyword>
+        </KeywordList>
+        <CoiStatement>Conflict of Interest: No conflict of interest was declared by the authors.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29062249</ArticleId>
+            <ArticleId IdType="doi">10.5152/TurkPediatriArs.2017.5451</ArticleId>
+            <ArticleId IdType="pii">tpa-52-3-154</ArticleId>
+            <ArticleId IdType="pmc">PMC5644582</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29061740</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-6596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antimicrobial agents and chemotherapy</Title>
+                <ISOAbbreviation>Antimicrob. Agents Chemother.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interplay between antibiotic efficacy and drug-induced lysis underlies enhanced biofilm formation at subinhibitory drug concentrations.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">AAC.01603-17</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/AAC.01603-17</ELocationID>
+            <Abstract>
+                <AbstractText>Subinhibitory concentrations of antibiotics have been shown to enhance biofilm formation in multiple bacterial species. While antibiotic exposure has been associated with modulated expression in many biofilm-related genes, the mechanisms of drug-induced biofilm formation remain a focus of ongoing research efforts and may vary significantly across species. In this work, we investigate antibiotic-induced biofilm formation in E. faecalis, a leading cause of nosocomial infections. We show that biofilm formation is enhanced by subinhibitory concentrations of cell wall synthesis inhibitors, but not by inhibitors of protein, DNA, folic acid, or RNA synthesis. Furthermore, enhanced biofilm is associated with increased cell lysis, an increase in extracellular DNA (eDNA), and an increase in the density of living cells in the biofilm. In addition, we observe similar enhancement of biofilm formation when cells are treated with non-antibiotic surfactants that induce cell lysis. These findings suggest that antibiotic-induced biofilm formation is governed by a trade-off between drug toxicity and the beneficial effects of cell lysis. To understand this trade-off, we developed a simple mathematical model that predicts changes to antibiotic-induced biofilm formation due to external perturbations, and we verify these predictions experimentally. Specifically, we demonstrate that perturbations that reduce eDNA (DNase treatment) or decrease the number of living cells in the planktonic phase (a second antibiotic) decrease biofilm induction, while chemical inhibitors of cell lysis increase relative biofilm induction and shift the peak to higher antibiotic concentrations. Overall, our results offer experimental evidence linking cell wall synthesis inhibitors, cell lysis, increased eDNA, and biofilm formation in E. faecalis while also providing a predictive, quantitative model that sheds light on the interplay between cell lysis and antibiotic efficacy in developing biofilms.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Yu et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Wen</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hallinen</LastName>
+                    <ForeName>Kelsey</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biophysics, University of Michigan, Ann Arbor, Michigan 48109, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wood</LastName>
+                    <ForeName>Kevin B</ForeName>
+                    <Initials>KB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, University of Michigan, Ann Arbor, Michigan 48109, USA kbwood@umich.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biophysics, University of Michigan, Ann Arbor, Michigan 48109, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Antimicrob Agents Chemother</MedlineTA>
+            <NlmUniqueID>0315061</NlmUniqueID>
+            <ISSNLinking>0066-4804</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29061740</ArticleId>
+            <ArticleId IdType="pii">AAC.01603-17</ArticleId>
+            <ArticleId IdType="doi">10.1128/AAC.01603-17</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29061690</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1468-201X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Heart (British Cardiac Society)</Title>
+                <ISOAbbreviation>Heart</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular imaging of atherosclerosis: spotlight on Raman spectroscopy and surface-enhanced Raman scattering.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">heartjnl-2017-311447</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1136/heartjnl-2017-311447</ELocationID>
+            <Abstract>
+                <AbstractText>To accurately predict atherosclerotic plaque progression, a detailed phenotype of the lesion at the molecular level is required. Here, we assess the respective merits and limitations of molecular imaging tools. Clinical imaging includes contrast-enhanced ultrasound, an inexpensive and non-toxic technique but with poor sensitivity. CT benefits from high spatial resolution but poor sensitivity coupled with an increasing radiation burden that limits multiplexing. Despite high sensitivity, positron emission tomography and single-photon emission tomography have disadvantages when applied to multiplex molecular imaging due to poor spatial resolution, signal cross talk and increasing radiation dose. In contrast, MRI is non-toxic, displays good spatial resolution but poor sensitivity. Preclinical techniques include near-infrared fluorescence (NIRF), which provides good spatial resolution and sensitivity; however, multiplexing with NIRF is limited, due to photobleaching and spectral overlap. Fourier transform infrared spectroscopy and Raman spectroscopy are label-free techniques that detect molecules based on the vibrations of chemical bonds. Both techniques offer fast acquisition times with Raman showing superior spatial resolution. Raman signals are inherently weak; however, leading to the development of surface-enhanced Raman spectroscopy (SERS) that offers greatly increased sensitivity due to using metallic nanoparticles that can be functionalised with biomolecules targeted against plaque ligands while offering high multiplexing potential. This asset combined with high spatial resolution makes SERS an exciting prospect as a diagnostic tool. The ongoing refinements of SERS technologies such as deep tissue imaging and portable systems making SERS a realistic prospect for translation to the clinic.</AbstractText>
+                <CopyrightInformation>© Article author(s) (or their employer(s) unless otherwise stated in the text of the article) 2017. All rights reserved. No commercial use is permitted unless otherwise expressly granted.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>MacRitchie</LastName>
+                    <ForeName>Neil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>British Society for Cardiovascular Research, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grassia</LastName>
+                    <ForeName>Gianluca</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noonan</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>British Society for Cardiovascular Research, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garside</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graham</LastName>
+                    <ForeName>Duncan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Molecular Nanometrology, Department of Pure and Applied Chemistry, University of Strathclyde, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maffia</LastName>
+                    <ForeName>Pasquale</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>British Society for Cardiovascular Research, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Cardiovascular and Medical Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, University of Naples Federico II, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Heart</MedlineTA>
+            <NlmUniqueID>9602087</NlmUniqueID>
+            <ISSNLinking>1355-6037</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">aortic and arterial disease</Keyword>
+            <Keyword MajorTopicYN="N">cardiac imaging and diagnostics</Keyword>
+            <Keyword MajorTopicYN="N">carotid disease</Keyword>
+            <Keyword MajorTopicYN="N">inflammatory markers</Keyword>
+            <Keyword MajorTopicYN="N">peripheral vascular disease</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interests: None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29061690</ArticleId>
+            <ArticleId IdType="pii">heartjnl-2017-311447</ArticleId>
+            <ArticleId IdType="doi">10.1136/heartjnl-2017-311447</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">29061442</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-9096</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antiviral research</Title>
+                <ISOAbbreviation>Antiviral Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel glycoprotein D-specific monoclonal antibody neutralizes herpes simplex virus.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0166-3542(17)30471-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.antiviral.2017.10.013</ELocationID>
+            <Abstract>
+                <AbstractText>The worldwide prevalence of herpes simplex virus (HSV) and the shortage of efficient vaccines and novel therapeutic strategies against HSV are widely global concerns. The abundance on the virion and the major stimulus for the virus-neutralizing antibodies makes gD a predominant candidate for cure of HSV infection. In this study, we generated a monoclonal antibody (mAb), termed m27f, targeting to glycoprotein D (gD) of HSV-2, which also has cross-reactivity against HSV-1 gD. It has a high level of neutralizing activity against both HSV-1 and HSV-2, and binds to a highly conserved region (residues 292-297) within the pro-fusion domain of gD. It can effectively block HSV cell-to-cell spread in vitro. The pre- or post-attachment neutralization assay and syncytium formation inhibition assay revealed that m27f neutralizes HSV at the post-binding stage. Moreover, therapeutic administration of m27f completely prevented infection-related mortality of mice challenged with a lethal dose of HSV-2. Our newly identified epitope for the neutralizing antibody would facilitate studies of gD-based HSV entry or vaccine design, and m27f itself demonstrated a high potential for adaptation as a protective or therapeutic drug against HSV.</AbstractText>
+                <CopyrightInformation>Copyright © 2017. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Ruikun</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Lili</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhiying</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Manli</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ning</LastName>
+                    <ForeName>Yunjia</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Fei</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Zhihong</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hualin</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071, PR China. Electronic address: liyi@wh.iov.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Antiviral Res</MedlineTA>
+            <NlmUniqueID>8109699</NlmUniqueID>
+            <ISSNLinking>0166-3542</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Glycoprotein D</Keyword>
+            <Keyword MajorTopicYN="N">Herpes simplex virus</Keyword>
+            <Keyword MajorTopicYN="N">Monoclonal antibody</Keyword>
+            <Keyword MajorTopicYN="N">Neutralization</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>06</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29061442</ArticleId>
+            <ArticleId IdType="pii">S0166-3542(17)30471-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.antiviral.2017.10.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
