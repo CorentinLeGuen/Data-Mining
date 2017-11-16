@@ -17,7 +17,7 @@ public class Convert {
         XQConnection con = ds.getConnection();
         String query = "let $fdd := doc(\"" + pathName + "/" + fileName + "." + extensionName + "\")/PubmedArticles/PubmedArticle\n" +
                 "for $article in $fdd\n" +
-                "return ('\nT.',$article//ArticleTitle/text(), '\nA.',$article//Abstract/AbstractText/text())";
+                "return ('\nT. ',$article//ArticleTitle/text(), '\nA. ',$article//Abstract/AbstractText/text())";
         XQPreparedExpression expr = con.prepareExpression(query);
         XQSequence result = expr.executeQuery();
 
@@ -49,7 +49,10 @@ public class Convert {
         try {
             ProcessBuilder processBuilder = new ProcessBuilder();
             processBuilder.redirectErrorStream(true);
-            processBuilder.command(command, "files/english-utf8.par", "files/" + fileName + ".txt", "files/" + fileName + "Result.txt");
+            processBuilder.command(command, "files/english-utf8.par",
+                    "files/" + fileName + ".txt",
+                    "files/" + fileName + "Result.txt",
+                    "-token", "-lemma", "-tokenization", "built-in");
 
             Process p = processBuilder.start();
 
