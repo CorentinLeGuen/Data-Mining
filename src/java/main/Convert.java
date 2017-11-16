@@ -1,4 +1,4 @@
-package main;
+package java.main;
 
 
 import com.saxonica.xqj.SaxonXQConnection;
@@ -13,7 +13,7 @@ public class Convert {
     public static void main(String[] args) throws Exception {
         SaxonXQDataSource ds = new SaxonXQDataSource();
         XQConnection con = ds.getConnection();
-        String query = "let $fdd := doc(\"inflammation.xml\")/PubmedArticles/PubmedArticle\n" +
+        String query = "let $fdd := doc(\"xml/inflammation.xml\")/PubmedArticles/PubmedArticle\n" +
                 "for $article in $fdd\n" +
                 "return ($article//ArticleTitle/text(), $article//Abstract/AbstractText/text())";
         XQPreparedExpression expr = con.prepareExpression(query);
