@@ -1,4 +1,4 @@
-package java.main;
+package main.java;
 
 
 import com.saxonica.xqj.SaxonXQConnection;
