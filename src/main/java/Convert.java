@@ -26,7 +26,7 @@ public class Convert {
         if (f.createNewFile()){
             System.out.println("File " + f.getName() + " is created!");
         } else {
-            System.out.println("File " + f.getName() + "already exists.");
+            System.out.println("File " + f.getName() + " already exists.");
         }
 
         try {
