@@ -1,0 +1,900 @@
+# Inflected form	Frequency	DDW
+depressive symptoms	11	0
+systemic inflammation	7	0
+mast cell	7	0
+brachial artery	6	0
+strabismus surgery	5	0
+leukocyte count	5	0
+% CI	5	0
+cryopreserved rabbit	5	0
+type IC	4	0
+ALS patients	4	0
+lymphoplasmacytic cell	4	0
+choroidal excavation	4	0
+focal choroidal excavation	4	0
+back pain patients	4	0
+significant decrease	4	0
+choroidal neovascularization	4	0
+dialysis patients	4	0
+DNA repair	4	0
+pain patients	4	0
+extent of fibrosis	4	0
+intake of pioglitazone	3	0
+M. tuberculosis	3	0
+standard therapy	3	0
+NHEJ-mediated DNA repair	3	0
+SR resection	3	0
+current study	3	0
+lymphoplasmacytic cell densities	3	0
+normal leukocyte	3	0
+chronic back pain patients	3	0
+non-white patients	3	0
+cryopreserved rabbit AM	3	0
+mast cell infiltration	3	0
+heart failure	3	0
+significant increase	3	0
+coherence tomography angiography	3	0
+optical coherence tomography angiography	3	0
+non-white dialysis patients	3	0
+coronary heart	3	0
+tomography angiography	3	0
+inflammatory markers	3	0
+different biochemical parameters	2	0
+healthy controls	2	0
+amniotic membrane	2	0
+gut microbiota	2	0
+experimental strabismus surgery	2	0
+SR muscle	2	0
+Mast cell	2	0
+immune response	2	0
+degree of postoperative inflammatory infiltration	2	0
+Achilles tendon	2	0
+interstitial cystitis	2	0
+coronary heart disease	2	0
+cord stimulation	2	0
+neutrophil influx	2	0
+white patients	2	0
+biochemical parameters	2	0
+non-Hunner type IC	2	0
+blood pressure	2	0
+neutrophil recruitment	2	0
+plaque composition	2	0
+anti-inflammatory cytokines	2	0
+study group	2	0
+clinical trials	2	0
+postoperative inflammatory infiltration	2	0
+disease progression	2	0
+fusion protein	2	0
+early stages	2	0
+micronome of FSK-MSCs	2	0
+Hunner type IC	2	0
+Ku80/DNA-PKcs interaction	2	0
+immunomodulatory properties	2	0
+severe burn	2	0
+age-related conditions	2	0
+CLEC9A-Fc fusion protein	2	0
+cardiovascular disease	2	0
+adenosine A2A receptor	2	0
+total cholesterol	2	0
+inflammatory diseases	2	0
+left eye	2	0
+A2A receptor	2	0
+control group	2	0
+postoperative inflammation	2	0
+fecal microbiota	2	0
+spinal cord stimulation	2	0
+inflammatory response	2	0
+vitamin D	2	0
+endothelial dysfunction	2	0
+smooth muscle cells	2	0
+biopsy specimens	2	0
+Gene expression	2	0
+Ku80 cleavage	2	0
+frequency stimulation	2	0
+BA concurrent	2	0
+normal bladder	2	0
+Ku80 ΔC6	2	0
+coronary plaque composition	2	0
+endothelium-dependent vasodilation	2	0
+metabolic disorders	2	0
+normal leukocyte counts	2	0
+lamina propria	2	0
+inflammatory infiltration	2	0
+outcome parameters	2	0
+older adults	2	0
+bronchial asthma	2	0
+neutrophil functions	2	0
+diameter of brachial artery	2	0
+serum levels	2	0
+serum concentration	2	0
+chronic systemic inflammation	2	0
+long-term survival	2	0
+muscle cells	2	0
+non-IC cystitis	2	0
+ability of cryopreserved rabbit amniotic membrane	1	0
+groups of population	1	0
+CRPS patients.The	1	0
+non-white dialysis patients different biochemical parameters	1	0
+myosine expression	1	0
+odds ratio	1	0
+oral mucosa	1	0
+elderly people	1	0
+superior rectus	1	0
+small intestine	1	0
+therapy targets	1	0
+fluid of artificial skin blisters	1	0
+rat tendon	1	0
+vivo mouse model	1	0
+provoking cardiac events	1	0
+burst spinal cord stimulation	1	0
+appropriate therapeutic effect	1	0
+background of standard therapy	1	0
+considerable promise	1	0
+cardiotropic potential	1	0
+various diseases	1	0
+levels of cytokines	1	0
+growth factors	1	0
+useful predictors of long-term survival	1	0
+A.Severe burn	1	0
+acute inflammatory response	1	0
+important findings	1	0
+SCS treatment	1	0
+relevant subtypes	1	0
+steroids.Multimodal imaging	1	0
+airflow obstruction	1	0
+expression of inflammatory mediators	1	0
+Anti-Inflammatory Therapeutics	1	0
+cardiovascular system	1	0
+gender-matched healthy persons	1	0
+noncardiovascular mortality	1	0
+system activation	1	0
+call to action	1	0
+host receptors	1	0
+part of the small intestine	1	0
+A2AR-knockout mice	1	0
+coronary intervention	1	0
+substantial alteration of the gut microbiota composition	1	0
+association of inflammation	1	0
+Creative Commons Attribution-Non Commercial-No Derivatives License 4.0	1	0
+INFLAMMATORY CHOROIDAL NEOVASCULARIZATION ASSOCIATED WITH FOCAL CHOROIDAL	1	0
+non-white chronic dialysis patients	1	0
+inflammatory consequences of biota depletion	1	0
+young WT mice	1	0
+long-term pioglitazone intake	1	0
+T.Digital quantitative analysis of mast cell infiltration	1	0
+% total body surface area scald burn	1	0
+biota depletion	1	0
+diastolic blood pressure	1	0
+macrophage-mediated neutrophil recruitment	1	0
+months of burst SCS treatment	1	0
+unpredictable course of disease	1	0
+special immunological profile	1	0
+markers of innate immunity	1	0
+AM allograft	1	0
+antiarrhytmic properties	1	0
+non-/pre-obese chronic back pain patients	1	0
+clinical scientists	1	0
+dorsal air pouches	1	0
+alteration of the gut microbiota composition	1	0
+neutrophil viability	1	0
+adoption of the new definition	1	0
+heart disease	1	0
+novel mechanisms	1	0
+basic therapeutic capabilities	1	0
+Vitamin D	1	0
+modern therapy	1	0
+course of standard therapies	1	0
+Attribution-Non Commercial-No Derivatives License 4.0	1	0
+positive indicators of RI	1	0
+therapeutic use	1	0
+clinical features	1	0
+AKI provoking cardiac events	1	0
+neuron disease	1	0
+histology-intravascular ultrasound	1	0
+healthy persons	1	0
+regard to the overall number of microbial species	1	0
+predictors of long-term survival	1	0
+T.Severe Burn-Induced	1	0
+choroidal inflammation.Case report.A	1	0
+greater risk of cancer	1	0
+cardiovascular mortality	1	0
+Forty male Sprague-Dawley rats	1	0
+myocardial contractility	1	0
+% confidence interval	1	0
+ASSOCIATED WITH	1	0
+acute kidney injury	1	0
+scientists of a helminth	1	0
+noninvasive ventilation	1	0
+Multivariate analysis	1	0
+entire lamina propria	1	0
+biological processes	1	0
+genuine markers of systemic inflammation	1	0
+non-IC control specimens	1	0
+subclinical disease	1	0
+gastrointestinal tract	1	0
+past CRPS studies	1	0
+issue of modern therapy	1	0
+possible immunomodulatory effects of SCS	1	0
+chronic heart-kidney cross talk	1	0
+routine medical check-ups	1	0
+T.Digital quantitative analysis	1	0
+T.CLINICAL COURSE	1	0
+C-type lectin receptors	1	0
+exposure to a cocktail of proinflammatory cytokines	1	0
+fatal human infectious disease	1	0
+stability maintenance	1	0
+culprit lesion	1	0
+musculoskeletal system	1	0
+hypothesis of a link	1	0
+beginning of the large intestine	1	0
+MicroRNA target prediction	1	0
+CXCL1-3 levels	1	0
+combination of vascular damage inflammation	1	0
+image analysis software	1	0
+coronary angiography	1	0
+HF patients	1	0
+heat-killed M. tuberculosis H37Ra	1	0
+monocyte counts	1	0
+FEV1 performance	1	0
+target prediction	1	0
+non-obese chronic back pain patients	1	0
+therapeutic effect	1	0
+WT mice	1	0
+muscle loss	1	0
+mast cell count	1	0
+vitamin d	1	0
+transient etoposide treatment	1	0
+growth factor-beta-1(TGFβ-1	1	0
+Ku70/Ku80/DNA-PKcs complex	1	0
+chronic systemic conditions	1	0
+much attention	1	0
+weakened Ku80/DNA-PKcs interaction	1	0
+new diagnostic methods	1	0
+baseline demographics	1	0
+metabolic state	1	0
+phosphorus homeostasis	1	0
+systolic blood pressure	1	0
+large part	1	0
+Associated Peripheral	1	0
+Significant differences	1	0
+chronic cystitis	1	0
+anti-inflammatory IL-10	1	0
+diameter increase	1	0
+MSC-based therapy	1	0
+blood flow velocity	1	0
+Picrosirius red	1	0
+pathway delays	1	0
+episodes of remission	1	0
+local levels of cytokines	1	0
+differential diagnosis	1	0
+large intestine	1	0
+normal range	1	0
+pain syndrome	1	0
+clinical course of focal choroidal excavation	1	0
+variety of biological processes	1	0
+kidney function	1	0
+comparable cytokine pattern	1	0
+C-reactive protein	1	0
+response to infection	1	0
+SSc diagnosis	1	0
+levels of high-sensitivity C-reactive protein	1	0
+endothelium protective effects of pioglitazone	1	0
+complex therapy	1	0
+angular cheilitis	1	0
+production of CXCL8	1	0
+necrotic core volume	1	0
+functional changes	1	0
+markers of systemic inflammation	1	0
+Mast cell density	1	0
+IL-1α decreasing.ConclusionAging	1	0
+multisystem disorder of the connective tissue	1	0
+Hz standard frequency stimulation	1	0
+indicators of RI	1	0
+mast cell densities	1	0
+FC II	1	0
+infections of cardiotropic potential	1	0
+operational taxonomic units	1	0
+rabbit model of strabismus surgery	1	0
+16S rRNA gene	1	0
+vascular damage inflammation	1	0
+frequency of angina FC I	1	0
+Gene expression of IL-6	1	0
+inflammatory changes	1	0
+sudomotor disturbances	1	0
+normal bladder specimens	1	0
+function of caspase-2	1	0
+area scald burn	1	0
+pathogenesis of disorder	1	0
+kynurenine pathway	1	0
+immunomodulatory effects of SCS	1	0
+lymphoplasmacytic cells	1	0
+HC).Mean BMI	1	0
+diameter of the brachial artery	1	0
+setting of choroidal inflammation	1	0
+cellular Therapy	1	0
+European League	1	0
+Optimal vitamin D serum concentration	1	0
+different ages.Several readouts	1	0
+involvement of the immune system	1	0
+manifestation of this disease	1	0
+heat-killed M. tuberculosis H37Ra treatment	1	0
+debate.The adenosine A2A receptor	1	0
+major determinant of these organisms' pathogenicity	1	0
+viral infections of cardiotropic potential	1	0
+use of HDCs	1	0
+A.Non-homologous end-joining	1	0
+metabolic-associated adipokine/cytokine serum assessment	1	0
+inhibition of caspase-2	1	0
+new cells	1	0
+load power	1	0
+cryopreserved rabbit amniotic membrane	1	0
+tissue oxygenation	1	0
+endothelium-dependent vasodilation of the brachial artery	1	0
+CRPS affected extremity	1	0
+light of the literature	1	0
+INFLAMMATORY CHOROIDAL NEOVASCULARIZATION	1	0
+threshold load power	1	0
+cardiorenal syndrome	1	0
+T.Cryopreserved rabbit	1	0
+scald burn	1	0
+high-sensitivity C-reactive	1	0
+defective migration	1	0
+significant associations	1	0
+protective role	1	0
+resolution of inflammation	1	0
+potential pathogenetic factors	1	0
+cardiorenal medicine	1	0
+lectin binding assay	1	0
+clinical scenarios	1	0
+License 4.0	1	0
+design.After SCS	1	0
+T.The fecal microbiome of ALS patients	1	0
+Oral manifestation of this disease	1	0
+respiratory function	1	0
+D726A mutation	1	0
+digestive system	1	0
+joining-mediated DNA repair	1	0
+repair of DNA double-strand breaks	1	0
+key regulators	1	0
+groups.Depressive symptoms	1	0
+cross talk	1	0
+hormonal milieu	1	0
+disorder of the connective tissue	1	0
+progression of chronic kidney disease	1	0
+formation of a Ku70/Ku80/DNA-PKcs complex	1	0
+wall thickening	1	0
+functional properties	1	0
+factor- alpha	1	0
+force of tendons	1	0
+development of disease	1	0
+T.[Dental perspective	1	0
+severity of cardiovascular disease	1	0
+cell wall	1	0
+influence of inflammation	1	0
+myocardial fibrosis	1	0
+anti-angiogenetic activity	1	0
+secondary disease effects	1	0
+% of adult patients	1	0
+fatal neurodegenerative motor neuron disease	1	0
+comparable detail	1	0
+different taxonomic levels	1	0
+reservoir of MSCs	1	0
+selection of patients	1	0
+effects of aging	1	0
+A2AR-KO mice	1	0
+clinical manifestation	1	0
+burst SCS treatment	1	0
+body mass index	1	0
+adaptive immunity	1	0
+pain-associated mood	1	0
+current knowledge	1	0
+organ complications	1	0
+etoposide treatment	1	0
+higher restenosis rates.The study population	1	0
+standard therapies	1	0
+valuable reservoir of MSCs	1	0
+patients.The presence of depressive symptoms	1	0
+blood parameters	1	0
+quantification technique.Bladder biopsy specimens	1	0
+percutaneous coronary intervention	1	0
+great deal of heterogeneity	1	0
+virtual histology-intravascular ultrasound	1	0
+kidney interactions	1	0
+model of strabismus surgery	1	0
+aim of the article	1	0
+ALS pathogenesis	1	0
+inflammatory alternations	1	0
+complicated development of disease	1	0
+restoration of the biota of the human body	1	0
+burn site	1	0
+course of focal choroidal excavation	1	0
+specialized receptor	1	0
+necrosis factor- alpha	1	0
+9-month follow-up coronary angiography	1	0
+Tryptophan levels	1	0
+pioglitazone intake	1	0
+detrusor areas	1	0
+Cord Stimulation	1	0
+parameters.Mast cell density	1	0
+clear need	1	0
+total protein	1	0
+PICRUSt-predicted metagenomes	1	0
+risk of cancer	1	0
+improvement of respiratory function	1	0
+group.Our results	1	0
+levels of systolic blood pressure	1	0
+circulatory system	1	0
+deleterious effects	1	0
+baseline coronary plaque composition	1	0
+inflammatory marker	1	0
+terminal part of the small intestine	1	0
+development of therapeutic approaches	1	0
+chronic heart failure	1	0
+course of disorder	1	0
+contralateral extremity	1	0
+case of choroidal inflammation.Case report.A 41-year-old man	1	0
+mass index	1	0
+start of treatment	1	0
+mechanisms of heart	1	0
+choroidal inflammation	1	0
+ages.Several readouts	1	0
+presentation pathway	1	0
+terms of diagnosis	1	0
+Oral lesions	1	0
+A.Total leukocyte count	1	0
+choroidal inflammation.Case	1	0
+open-access article	1	0
+pain intensity	1	0
+Mycobacterium tuberculosis	1	0
+lymphoplasmacytic cell density	1	0
+development of depressive symptoms	1	0
+double-strand breaks	1	0
+serum assessment	1	0
+immunotherapeutic cells	1	0
+T-cell activation	1	0
+tendon remodeling	1	0
+angina pectoris FC II	1	0
+levels of IP-10	1	0
+measures design.After SCS	1	0
+remarkable interest	1	0
+sensory signs	1	0
+C-type lectin	1	0
+comprehensive therapy	1	0
+terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0	1	0
+relative expression of inflammatory mediators	1	0
+Recent findings	1	0
+Tryptophan degradation	1	0
+atherosclerotic process	1	0
+basic FGF	1	0
+negative impact	1	0
+Bladder biopsy specimens	1	0
+pharmaceutical intervention	1	0
+T1-40 Hz standard frequency stimulation	1	0
+M. tuberculosis H37Ra	1	0
+systemic inflammation hs-CRP	1	0
+vitro lectin binding assay	1	0
+protective impact	1	0
+chronic HF patients	1	0
+T.Cryopreserved rabbit amniotic membrane	1	0
+day of the study	1	0
+antiproliferative agent vitamin D	1	0
+damage to multiple organs	1	0
+intense research	1	0
+site of inflammation	1	0
+caspase-2 knockdown	1	0
+pathogenetic factors	1	0
+Intake of pioglitazone	1	0
+wide variety of biological processes	1	0
+development conditions	1	0
+expression of the inflammatory marker of hs-CRP	1	0
+bilateral superior rectus	1	0
+arterial pressure	1	0
+process of the gastrointestinal tract	1	0
+clinical efficacy	1	0
+therapeutic capabilities	1	0
+diagnostic methods	1	0
+Ku80 interaction	1	0
+Multimodal imaging	1	0
+PTH serum concentration	1	0
+peripheral tissue oxygenation	1	0
+neurohormonal signals	1	0
+Pattern alteration	1	0
+collagen fibers	1	0
+metabolic-associated adipokine/cytokine	1	0
+higher age	1	0
+neuroinflammation assessment	1	0
+LP levels	1	0
+CD138-immunoreactive cells	1	0
+Cardiorenal Medicine	1	0
+core volume	1	0
+presentation of the disease	1	0
+inflammatory cytokines	1	0
+A.The mechanism of in-stent restenosis	1	0
+organisms' pathogenicity	1	0
+systemic sclerosis	1	0
+medical center	1	0
+binding assay	1	0
+fatal syndromes	1	0
+biomechanical changes	1	0
+lack of availability to clinician scientists of a helminth	1	0
+trophic changes	1	0
+internal organ complications	1	0
+T.Severe Burn-Induced Inflammation	1	0
+functional A2AR	1	0
+percent necrotic core volume	1	0
+healthy adults	1	0
+Metabolic Disorders Associated Peripheral Cytokine/Adipokine Traffic	1	0
+T.Elevated leukocyte count	1	0
+significant differences	1	0
+activation of SYK	1	0
+presence of depressive symptoms	1	0
+adult patients	1	0
+respiratory rate	1	0
+index of systemic inflammation hs-CRP	1	0
+Mast cell	1	0
+choroidal neovascularization involution	1	0
+ISR.This study	1	0
+Bone mass	1	0
+central role	1	0
+focal choroidal excavation transformation	1	0
+stress level	1	0
+potential protective impact	1	0
+new definition	1	0
+model of tendinopathy	1	0
+abundance of uncultured Ruminococcaceae	1	0
+clinician scientists of a helminth	1	0
+clinical manifestations	1	0
+old age	1	0
+tumor necrosis factor- alpha	1	0
+socio-medical studies	1	0
+leukocyte counts	1	0
+neutrophil counts	1	0
+changes of GH	1	0
+stronger prognostic ability	1	0
+ongoing research	1	0
+altered composition of the fecal microbiota	1	0
+blood samples	1	0
+human infectious disease	1	0
+surface cobblestoning	1	0
+technical factors	1	0
+T2-preferred frequency stimulation	1	0
+inflammatory mediators	1	0
+specific surface glycans	1	0
+restenosis rates.The study population	1	0
+A.Systemic sclerosis	1	0
+intracellular calcium overload	1	0
+significance of mast cell infiltration	1	0
+postoperative adhesions	1	0
+agent vitamin D	1	0
+Vascular complications	1	0
+clinical examinations	1	0
+significant changes	1	0
+deal of heterogeneity	1	0
+smooth muscle cells receptors	1	0
+Western society	1	0
+expression of anti-inflammatory cytokines	1	0
+22 ± 0.81 kg/m(2	1	0
+course of disease	1	0
+protective effects of pioglitazone	1	0
+rat tapeworm	1	0
+presence of choroidal neovascularization	1	0
+degree of background inflammation	1	0
+Common clinical scenarios	1	0
+disease effects	1	0
+collagens I/III	1	0
+aim of the research	1	0
+clinical presentation of the disease	1	0
+chronotropic activation	1	0
+products kynurenine	1	0
+A.Total leukocyte	1	0
+full list	1	0
+surface of macrophages	1	0
+non-white patients.The presence of depressive symptoms	1	0
+right eye	1	0
+in-stent restenosis	1	0
+chronic kidney disease	1	0
+therapeutic possibilities	1	0
+skin blisters	1	0
+relevant functional properties	1	0
+control specimens	1	0
+immunological profile	1	0
+innate immune response	1	0
+flow velocity	1	0
+endothelium protective effect of long-term pioglitazone intake	1	0
+endothelium-dependent vasodilation of brachial artery	1	0
+enrichment analysis	1	0
+inclusion of pioglitazone	1	0
+CRPS studies	1	0
+cell infiltration	1	0
+SCS therapy	1	0
+Inflammatory involvement	1	0
+body surface area scald burn	1	0
+specific immune response	1	0
+inflammatory reaction	1	0
+further classification criteria	1	0
+male Sprague-Dawley rats	1	0
+relevant issue of modern therapy	1	0
+T.Elevated leukocyte	1	0
+neurodegenerative motor neuron disease	1	0
+Attribution-Non Commercial-No	1	0
+nonconforming focal choroidal excavation	1	0
+choroidal inflammation.Case report.A 41-year-old man	1	0
+A.Mesenchymal stromal cells	1	0
+complexity of SSc	1	0
+number of years	1	0
+profile of the relative expression of inflammatory mediators	1	0
+INFLAMMATORY CHOROIDAL NEOVASCULARIZATION ASSOCIATED WITH FOCAL CHOROIDAL EXCAVATION	1	0
+infectious disease	1	0
+surface area scald burn	1	0
+idiophatic inflammatory process of the gastrointestinal tract	1	0
+determinant of these organisms' pathogenicity	1	0
+standard frequency stimulation	1	0
+degradation products kynurenine	1	0
+DNA double-strand breaks	1	0
+anti-inflammatory IL-10 serum levels	1	0
+meaningful differences	1	0
+impact of long-term intake of pioglitazone	1	0
+oxidative stress	1	0
+cocktail of proinflammatory cytokines	1	0
+Achilles tendons	1	0
+T.Spinal Cord Stimulation	1	0
+mode of action	1	0
+choroidal neovascularization reduction	1	0
+A.Complex regional pain syndrome	1	0
+pectoris FC II	1	0
+baseline.This study	1	0
+prognostic ability	1	0
+psychological stress	1	0
+certain groups of population	1	0
+oral steroids	1	0
+rate of threshold load power	1	0
+Sprague-Dawley rats	1	0
+background inflammation	1	0
+particular C-type lectin receptors	1	0
+natriuretic peptides	1	0
+cardiovascular diseases.At baseline	1	0
+air pouches	1	0
+potential use	1	0
+Rat Model	1	0
+poor prognosis	1	0
+surface glycans	1	0
+microbiome alterations	1	0
+non-specific chronic cystitis	1	0
+sensory abnormalities	1	0
+environmental factors	1	0
+Histological analysis	1	0
+quantitative analysis	1	0
+damage inflammation	1	0
+kidney disease	1	0
+cryopreserved AM allograft	1	0
+lung inflammation	1	0
+helminthic therapy	1	0
+course of standard therapy	1	0
+cytokine accumulation	1	0
+stromal cells	1	0
+new therapeutic possibilities	1	0
+expression of IL-6	1	0
+Metabolic Disorders Associated Peripheral Cytokine/Adipokine	1	0
+overall number of microbial species	1	0
+motor neuron disease	1	0
+metabolic-associated cytokines/adipokines	1	0
+fate of FSK-MSCs	1	0
+bacterial taxa	1	0
+pathophysiological pathways	1	0
+low-density lipoproteins	1	0
+target pathways	1	0
+T.[Modern perspective	1	0
+kynurenine pathway	1	0
+CRPS signs	1	0
+CHD.The clinical study	1	0
+long-term intake of pioglitazone	1	0
+analysis software	1	0
+artificial skin blisters	1	0
+real-time polymerase chain reaction	1	0
+important atherosclerotic process	1	0
+GH serum levels	1	0
+Mast cell tryptase-	1	0
+INFLAMMATORY CHOROIDAL NEOVASCULARIZATION ASSOCIATED WITH	1	0
+regional pain syndrome	1	0
+Attribution-Non Commercial-No Derivatives	1	0
+immune system	1	0
+connective tissue	1	0
+cardiac events	1	0
+inflammatory cytokines activity	1	0
+effects of pioglitazone	1	0
+IC specimens	1	0
+Caspase-2-mediated Ku80 cleavage	1	0
+immune system activation	1	0
+end joining-mediated DNA repair	1	0
+future clinical trials	1	0
+certain diseases	1	0
+multiple organs	1	0
+diminished endothelial dysfunction	1	0
+serum changes of metabolic-associated cytokines/adipokines	1	0
+further research	1	0
+important factor	1	0
+cytokine analysis	1	0
+Sham-treated animals	1	0
+tobacco-induced inflammatory changes	1	0
+health outcomes	1	0
+clinical study	1	0
+expression of inflammatory cytokines	1	0
+induction of inflammation	1	0
+prognostic markers	1	0
+Ku80 ΔC6 overexpression	1	0
+NHEJ)-mediated repair of DNA double-strand breaks	1	0
+setting of CRS	1	0
+kidney injury	1	0
+efficient scheme	1	0
+autoimmune/ inflammatory alternations	1	0
+diagnosis of systemic sclerosis	1	0
+affected extremity	1	0
+frequency of angina pectoris FC II	1	0
+activity assessment	1	0
+protective effect of long-term pioglitazone intake	1	0
+disease development	1	0
+area of intense research	1	0
+uncultured Ruminococcaceae	1	0
+medical check-ups	1	0
+Metabolic Disorders	1	0
+novel CLR	1	0
+oral steroids.Multimodal imaging	1	0
+reliable inflammatory markers	1	0
+chain reaction	1	0
+consequences of biota depletion	1	0
+certain prognostic markers	1	0
+human body	1	0
+calcium overload	1	0
+T.The fecal microbiome	1	0
+organized collagen fibers	1	0
+A.Vitamin D	1	0
+inflammatory marker of hs-CRP	1	0
+heart-kidney cross talk	1	0
+Metabolic Disorders Associated Peripheral	1	0
+A.Treatment of co-morbidities	1	0
+primary outcome parameters	1	0
+energy metabolism	1	0
+non-specific clinical manifestation	1	0
+interaction of M. tuberculosis	1	0
+mycobacterial infection	1	0
+nervous system-specific inflammation	1	0
+individual variability	1	0
+burn rats.We	1	0
+potential therapy targets	1	0
+diseases.At baseline	1	0
+innate immunity	1	0
+mouse model	1	0
+mechanisms of action	1	0
+chronic dialysis patients	1	0
+INFLAMMATORY CHOROIDAL NEOVASCULARIZATION ASSOCIATED WITH FOCAL	1	0
+41-year-old man	1	0
+attention to hemodynamics	1	0
+number of microbial species	1	0
+CRPS patients.The primary outcome parameters	1	0
+bronchial asthma concurrent	1	0
+immunological fate of FSK-MSCs	1	0
+aim of this study	1	0
+interstitial fluid of artificial skin blisters	1	0
+vasomotor disturbances	1	0
+genomic stability maintenance	1	0
+air pouch	1	0
+composition of the fecal microbiota	1	0
+novel mechanism	1	0
+central nervous system-specific inflammation	1	0
+parameters.Mast cell	1	0
+non-homologous end joining-mediated DNA repair	1	0
+continued pain	1	0
+T.Changes of Metabolic Disorders Associated Peripheral Cytokine/Adipokine Traffic	1	0
+core curriculum	1	0
+elevated leukocyte count	1	0
+confidence interval	1	0
+gut microbiota composition	1	0
+acute heart failure	1	0
+result of a combination of vascular damage inflammation	1	0
+Caspase-2-mediated Ku80	1	0
+% diameter of brachial artery	1	0
+vitamin D serum concentration	1	0
+classification criteria	1	0
+proper diagnosis	1	0
+physicians of the future	1	0
+16S rRNA	1	0
+numerous studies	1	0
+border of the excavation	1	0
+digital quantification technique.Bladder biopsy specimens	1	0
+antigen processing	1	0
+developed countries	1	0
+limited SSc	1	0
+Commons Attribution-Non Commercial-No Derivatives License 4.0	1	0
+negative influence	1	0
+CRPS patients	1	0
+mechanism of in-stent restenosis	1	0
+development of inflammation	1	0
+protein ratio	1	0
+Inclusion of pioglitazone	1	0
+patients of the study group	1	0
+proinflammatory cytokines	1	0
+non-inflamed bladder	1	0
+atherosclerosis progression	1	0
+maximum blood flow velocity	1	0
+age-/gender-matched healthy controls	1	0
+Biomechanical analysis	1	0
+Collagens I	1	0
+taxonomic levels	1	0
+restenosis rates.The study	1	0
+medical schools	1	0
+pattern recognition receptors	1	0
+digital image analysis software	1	0
+protective effect	1	0
+reliable morphological indicators of chronic systemic inflammation	1	0
+FC I	1	0
+all-cause mortality	1	0
+muscle resection	1	0
+restenosis rates.The	1	0
+Tiffeneau index	1	0
+Δ % diameter increase	1	0
+white rabbits	1	0
+post-SCS LP levels	1	0
+system-specific inflammation	1	0
+treatment of these diseases	1	0
+p &lt	1	0
+systemic conditions	1	0
+VH-IVUS examination	1	0
+technique.Bladder biopsy specimens	1	0
+surgical specialists	1	0
+part of the digestive system	1	0
+resected SR muscle	1	0
+microbial species	1	0
+inflammatory process of the gastrointestinal tract	1	0
+tryptophan degradation	1	0
+clinical parameters.Mast cell density	1	0
+International Society	1	0
+morphological indicators of chronic systemic inflammation	1	0
+cytokines activity	1	0
+Secondary outcome parameters	1	0
+DSB sites	1	0
+classification of cardiorenal syndrome	1	0
+ultimate force of tendons	1	0
+chronic psychological stress	1	0
+indicators of chronic systemic inflammation	1	0
+compliant criteria	1	0
+follow-up coronary angiography	1	0
+abundance of the bacterial taxa	1	0
+cytokine pattern	1	0
+angina FC I	1	0
+similar degree of background inflammation	1	0
+recognition receptors	1	0
+lateral sclerosis	1	0
+neutrophil-related activities	1	0
+high-sensitivity C-reactive protein	1	0
+effects of SCS	1	0
+taxonomic units	1	0
+adhesion marker sVCAM-1	1	0
+post-SCS changes of GH	1	0
+changes of metabolic-associated cytokines/adipokines	1	0
+A.Helminthic therapy	1	0
+disease course	1	0
+population-wide restoration of the biota of the human body	1	0
+harbinger of systemic inflammation	1	0
+availability to clinician scientists of a helminth	1	0
+reninangiotensin-aldosterone system	1	0
+anti-scarring properties	1	0
+marker sVCAM-1	1	0
+intensity of mast cell infiltration	1	0
+A.Amyotrophic lateral sclerosis	1	0
+CLEC9A-knocked down cells	1	0
+down cells	1	0
+pattern focal choroidal excavation transformation	1	0
+polymerase chain reaction	1	0
+% diameter increase	1	0
+total body surface area scald burn	1	0
+genetic inheritance	1	0
+higher levels of high-sensitivity C-reactive protein	1	0
+ischemic heart disease	1	0
+great interest	1	0
+Pathway enrichment analysis	1	0
+response to heat-killed M. tuberculosis H37Ra treatment	1	0
+histological analysis	1	0
+therapeutic approaches	1	0
+biota of the human body	1	0
+INFLAMMATORY CHOROIDAL	1	0
+fecal microbiome	1	0

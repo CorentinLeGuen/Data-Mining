@@ -1,0 +1,8444 @@
+if: data
+pos: NN
+lf: data
+is a term candidate: 0
+
+-----------------
+
+if: total cholesterol
+pos: JJ NN
+lf: total cholesterol
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( total<=M> cholesterol<=H> )
+islands: 0
+
+-----------------
+
+if: healthy controls
+pos: JJ NNS
+lf: healthy control
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( healthy<=M> controls<=H> )
+islands: 0
+
+-----------------
+
+if: IP-10
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: A.Mesenchymal stromal cells
+pos: JJ JJ NNS
+lf: INFunknownSUP INFunknownSUP cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Mesenchymal<=M> ( stromal<=M> cells<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: diminished endothelial dysfunction
+pos: JJ JJ NN
+lf: diminished endothelial dysfunction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( diminished<=M> ( endothelial<=M> dysfunction<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: basic therapeutic capabilities
+pos: JJ JJ NNS
+lf: basic therapeutic capability
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( basic<=M> ( therapeutic<=M> capabilities<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: clinical scientists
+pos: JJ NNS
+lf: clinical scientist
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clinical<=M> scientists<=H> )
+islands: 0
+
+-----------------
+
+if: kynurenine pathway
+pos: JJ NN
+lf: INFunknownSUP pathway
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kynurenine<=M> pathway<=H> )
+islands: 0
+
+-----------------
+
+if: A.Complex regional pain syndrome
+pos: NP JJ NN NN
+lf: INFunknownSUP regional pain syndrome
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: epidemiology
+pos: NN
+lf: epidemiology
+is a term candidate: 0
+
+-----------------
+
+if: Oral lesions
+pos: JJ NNS
+lf: oral lesion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Oral<=M> lesions<=H> )
+islands: 0
+
+-----------------
+
+if: complexity of SSc
+pos: NN of NP
+lf: complexity of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( complexity<=H> of<=P> SSc<=M> )
+islands: 0
+
+-----------------
+
+if: CRS
+pos: NP
+lf: CRS
+is a term candidate: 0
+
+-----------------
+
+if: Tryptophan levels
+pos: NN NNS
+lf: tryptophan level
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Tryptophan<=M> levels<=H> )
+islands: 0
+
+-----------------
+
+if: disease progression
+pos: NN NN
+lf: disease progression
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( disease<=M> progression<=H> )
+islands: 0
+
+-----------------
+
+if: CI
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: weeks
+pos: NNS
+lf: week
+is a term candidate: 0
+
+-----------------
+
+if: reninangiotensin-aldosterone system
+pos: NN NN
+lf: INFunknownSUP system
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( reninangiotensin-aldosterone<=M> system<=H> )
+islands: 0
+
+-----------------
+
+if: CCL4
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: significant changes
+pos: JJ NNS
+lf: significant change
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( significant<=M> changes<=H> )
+islands: 0
+
+-----------------
+
+if: adoption of the new definition
+pos: NN of DT JJ NN
+lf: adoption of the new definition
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: A.Aging
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: considerable promise
+pos: JJ NN
+lf: considerable promise
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( considerable<=M> promise<=H> )
+islands: 0
+
+-----------------
+
+if: all-cause mortality
+pos: JJ NN
+lf: INFunknownSUP mortality
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( all-cause<=M> mortality<=H> )
+islands: 0
+
+-----------------
+
+if: call to action
+pos: NN to NN
+lf: call to action
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( call<=H> to<=P> action<=M> )
+islands: 0
+
+-----------------
+
+if: remarkable interest
+pos: JJ NN
+lf: remarkable interest
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( remarkable<=M> interest<=H> )
+islands: 0
+
+-----------------
+
+if: burn.This
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: PICRUSt-predicted metagenomes
+pos: JJ NNS
+lf: INFunknownSUP INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( PICRUSt-predicted<=M> metagenomes<=H> )
+islands: 0
+
+-----------------
+
+if: genuine markers of systemic inflammation
+pos: JJ NNS of JJ NN
+lf: genuine marker of systemic inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: metabolic disorders
+pos: JJ NNS
+lf: metabolic disorder
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( metabolic<=M> disorders<=H> )
+islands: 0
+
+-----------------
+
+if: index of systemic inflammation hs-CRP
+pos: NN of JJ NN NP
+lf: index of systemic inflammation INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: macrophages
+pos: NNS
+lf: macrophage
+is a term candidate: 0
+
+-----------------
+
+if: important findings
+pos: JJ NNS
+lf: important finding
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( important<=M> findings<=H> )
+islands: 0
+
+-----------------
+
+if: editorial
+pos: NN
+lf: editorial
+is a term candidate: 0
+
+-----------------
+
+if: cardiovascular mortality
+pos: JJ NN
+lf: cardiovascular mortality
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cardiovascular<=M> mortality<=H> )
+islands: 0
+
+-----------------
+
+if: work
+pos: NN
+lf: work
+is a term candidate: 0
+
+-----------------
+
+if: Remodeling of Achilles Tendon
+pos: NP of NP NP
+lf: INFunknownSUP of Achilles INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: pathomechanism
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: immunomodulatory properties
+pos: JJ NNS
+lf: INFunknownSUP property
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( immunomodulatory<=M> properties<=H> )
+islands: 0
+
+-----------------
+
+if: β=0.6
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: endothelium protective effects of pioglitazone
+pos: NN JJ NNS of NN
+lf: endothelium protective effect of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: gut microbiota
+pos: NN NN
+lf: gut INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gut<=M> microbiota<=H> )
+islands: 0
+
+-----------------
+
+if: white rabbits
+pos: JJ NNS
+lf: white rabbit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( white<=M> rabbits<=H> )
+islands: 0
+
+-----------------
+
+if: baseline
+pos: NN
+lf: baseline
+is a term candidate: 0
+
+-----------------
+
+if: novel mechanism
+pos: JJ NN
+lf: novel mechanism
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( novel<=M> mechanism<=H> )
+islands: 0
+
+-----------------
+
+if: pathway delays
+pos: NN NNS
+lf: pathway delay
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pathway<=M> delays<=H> )
+islands: 0
+
+-----------------
+
+if: strabismus surgery
+pos: NN NN
+lf: strabismus surgery
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( strabismus<=M> surgery<=H> )
+islands: 0
+
+-----------------
+
+if: CHD.The clinical study
+pos: JJ JJ NN
+lf: INFunknownSUP clinical study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( CHD.The<=M> ( clinical<=M> study<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: wide variety of biological processes
+pos: JJ NN of JJ NNS
+lf: wide variety of biological process
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: rate of threshold load power
+pos: NN of NN NN NN
+lf: rate of threshold load power
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: inflammatory consequences of biota depletion
+pos: JJ NNS of NN NN
+lf: inflammatory consequence of biota depletion
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: systemic inflammation
+pos: JJ NN
+lf: systemic inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( systemic<=M> inflammation<=H> )
+islands: 0
+
+-----------------
+
+if: cytokine analysis
+pos: JJ NN
+lf: INFunknownSUP analysis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cytokine<=M> analysis<=H> )
+islands: 0
+
+-----------------
+
+if: Multimodal imaging
+pos: JJ NN
+lf: multimodal imaging
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Multimodal<=M> imaging<=H> )
+islands: 0
+
+-----------------
+
+if: T.Cryopreserved rabbit amniotic membrane
+pos: JJ NN JJ NN
+lf: INFunknownSUP rabbit amniotic membrane
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: viral infections of cardiotropic potential
+pos: JJ NNS of JJ NN
+lf: viral infection of INFunknownSUP potential
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: current knowledge
+pos: JJ NN
+lf: current knowledge
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( current<=M> knowledge<=H> )
+islands: 0
+
+-----------------
+
+if: low-density lipoproteins
+pos: NN NNS
+lf: low-density lipoprotein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( low-density<=M> lipoproteins<=H> )
+islands: 0
+
+-----------------
+
+if: immunological fate of FSK-MSCs
+pos: JJ NN of NP
+lf: immunological fate of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: CD
+pos: NN
+lf: CD
+is a term candidate: 0
+
+-----------------
+
+if: phenotype
+pos: NN
+lf: phenotype
+is a term candidate: 0
+
+-----------------
+
+if: harbinger
+pos: NN
+lf: harbinger
+is a term candidate: 0
+
+-----------------
+
+if: natriuretic peptides
+pos: NN NNS
+lf: INFunknownSUP peptide
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( natriuretic<=M> peptides<=H> )
+islands: 0
+
+-----------------
+
+if: Î % diameter increase
+pos: JJ NN NN NN
+lf: INFunknownSUP % diameter increase
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: average
+pos: NN
+lf: average
+is a term candidate: 0
+
+-----------------
+
+if: leptin
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: electrolytes
+pos: NNS
+lf: electrolyte
+is a term candidate: 0
+
+-----------------
+
+if: stone
+pos: NN
+lf: stone
+is a term candidate: 0
+
+-----------------
+
+if: vivo mouse model
+pos: JJ NN NN
+lf: vivo mouse model
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: phosphorus homeostasis
+pos: NN NN
+lf: phosphorus homeostasis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( phosphorus<=M> homeostasis<=H> )
+islands: 0
+
+-----------------
+
+if: effects of aging
+pos: NNS of NN
+lf: effect of aging
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( effects<=H> of<=P> aging<=M> )
+islands: 0
+
+-----------------
+
+if: T.Digital quantitative analysis of mast cell infiltration
+pos: JJ JJ NN of NN NN NN
+lf: INFunknownSUP quantitative analysis of mast cell infiltration
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: mortality
+pos: NN
+lf: mortality
+is a term candidate: 0
+
+-----------------
+
+if: normal range
+pos: JJ NN
+lf: normal range
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( normal<=M> range<=H> )
+islands: 0
+
+-----------------
+
+if: cognition
+pos: NN
+lf: cognition
+is a term candidate: 0
+
+-----------------
+
+if: T.[Modern perspective
+pos: JJ NN
+lf: INFunknownSUP perspective
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( T.[Modern<=M> perspective<=H> )
+islands: 0
+
+-----------------
+
+if: cytokines
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: terminal part of the small intestine
+pos: JJ NN of DT JJ NN
+lf: terminal part of the small intestine
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: digital image analysis software
+pos: JJ NN NN NN
+lf: digital image analysis software
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cell infiltration
+pos: NN NN
+lf: cell infiltration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cell<=M> infiltration<=H> )
+islands: 0
+
+-----------------
+
+if: diet
+pos: NN
+lf: diet
+is a term candidate: 0
+
+-----------------
+
+if: baseline demographics
+pos: JJ NNS
+lf: baseline demographic
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( baseline<=M> demographics<=H> )
+islands: 0
+
+-----------------
+
+if: leukocyte counts
+pos: NN NNS
+lf: INFunknownSUP count
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( leukocyte<=M> counts<=H> )
+islands: 0
+
+-----------------
+
+if: GH serum levels
+pos: NP NN NNS
+lf: GH serum level
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: regard to the overall number of microbial species
+pos: NN to DT JJ NN of JJ NNS
+lf: regard to the overall number of microbial specie
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: TGFβ1
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: efficient scheme
+pos: JJ NN
+lf: efficient scheme
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( efficient<=M> scheme<=H> )
+islands: 0
+
+-----------------
+
+if: expression of IL-6
+pos: NN of NP
+lf: expression of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( expression<=H> of<=P> IL-6<=M> )
+islands: 0
+
+-----------------
+
+if: different biochemical parameters
+pos: JJ JJ NNS
+lf: different biochemical parameter
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( different<=M> ( biochemical<=M> parameters<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: severity of cardiovascular disease
+pos: NN of JJ NN
+lf: severity of cardiovascular disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: neutrophil-related activities
+pos: JJ NNS
+lf: INFunknownSUP activity
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neutrophil-related<=M> activities<=H> )
+islands: 0
+
+-----------------
+
+if: Collagens I
+pos: NP NP
+lf: INFunknownSUP I
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Collagens<=M> I<=H> )
+islands: 0
+
+-----------------
+
+if: tendon
+pos: NN
+lf: tendon
+is a term candidate: 0
+
+-----------------
+
+if: non-white patients.The presence of depressive symptoms
+pos: JJ NN NN of JJ NNS
+lf: non-white INFunknownSUP presence of depressive symptom
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: old age
+pos: JJ NN
+lf: old age
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( old<=M> age<=H> )
+islands: 0
+
+-----------------
+
+if: MAPK
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: border of the excavation
+pos: NN of DT NN
+lf: border of the excavation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( border<=H> of<=P> the<=D> excavation<=M> )
+islands: 0
+
+-----------------
+
+if: functional A2AR
+pos: JJ NP
+lf: functional INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( functional<=M> A2AR<=H> )
+islands: 0
+
+-----------------
+
+if: sensory abnormalities
+pos: JJ NNS
+lf: sensory abnormality
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sensory<=M> abnormalities<=H> )
+islands: 0
+
+-----------------
+
+if: harbinger of systemic inflammation
+pos: NN of JJ NN
+lf: harbinger of systemic inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: damage to multiple organs
+pos: NN to JJ NNS
+lf: damage to multiple organ
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: impact of long-term intake of pioglitazone
+pos: NN of JJ NN of NN
+lf: impact of long-term intake of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: protein ratio
+pos: NN NN
+lf: protein ratio
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( protein<=M> ratio<=H> )
+islands: 0
+
+-----------------
+
+if: T.Production
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: FSK
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: pâ=â0.029 ; post-SCS
+pos: NN COLUMN NP
+lf: INFunknownSUP ; INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: white patients
+pos: JJ NNS
+lf: white patient
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( white<=M> patients<=H> )
+islands: 0
+
+-----------------
+
+if: adiponectin
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: residues
+pos: NNS
+lf: residue
+is a term candidate: 0
+
+-----------------
+
+if: VH-IVUS examination
+pos: NP NN
+lf: INFunknownSUP examination
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( VH-IVUS<=M> examination<=H> )
+islands: 0
+
+-----------------
+
+if: puzzle
+pos: NN
+lf: puzzle
+is a term candidate: 0
+
+-----------------
+
+if: serum changes of metabolic-associated cytokines/adipokines
+pos: NN NNS of JJ NNS
+lf: serum change of INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: eyes
+pos: NNS
+lf: eye
+is a term candidate: 0
+
+-----------------
+
+if: A.Non-homologous end-joining
+pos: JJ NN
+lf: INFunknownSUP INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Non-homologous<=M> end-joining<=H> )
+islands: 0
+
+-----------------
+
+if: vitro lectin binding assay
+pos: NP NP JJ NN
+lf: Vitro INFunknownSUP binding assay
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: dorsal air pouches
+pos: JJ NN NNS
+lf: dorsal air pouch
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Spearman râ=â0.5 ; pâ=â0.012
+pos: NP NN COLUMN NN
+lf: Spearman INFunknownSUP ; INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: receptors
+pos: NNS
+lf: receptor
+is a term candidate: 0
+
+-----------------
+
+if: therapeutic use
+pos: JJ NN
+lf: therapeutic use
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( therapeutic<=M> use<=H> )
+islands: 0
+
+-----------------
+
+if: technical factors
+pos: JJ NNS
+lf: technical factor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( technical<=M> factors<=H> )
+islands: 0
+
+-----------------
+
+if: model of tendinopathy
+pos: NN of NN
+lf: model of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( model<=H> of<=P> tendinopathy<=M> )
+islands: 0
+
+-----------------
+
+if: new cells
+pos: JJ NNS
+lf: new cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( new<=M> cells<=H> )
+islands: 0
+
+-----------------
+
+if: T.Spinal Cord Stimulation
+pos: NP NP NP
+lf: INFunknownSUP Cord INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Pattern alteration
+pos: NN NN
+lf: pattern alteration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Pattern<=M> alteration<=H> )
+islands: 0
+
+-----------------
+
+if: deficiency
+pos: NN
+lf: deficiency
+is a term candidate: 0
+
+-----------------
+
+if: MicroRNA target prediction
+pos: NP NN NN
+lf: INFunknownSUP target prediction
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: differential diagnosis
+pos: JJ NN
+lf: differential diagnosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( differential<=M> diagnosis<=H> )
+islands: 0
+
+-----------------
+
+if: A.Severe burn
+pos: NP NN
+lf: INFunknownSUP burn
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Severe<=M> burn<=H> )
+islands: 0
+
+-----------------
+
+if: bronchial asthma
+pos: JJ NN
+lf: bronchial asthma
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bronchial<=M> asthma<=H> )
+islands: 0
+
+-----------------
+
+if: RAAS
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: activity
+pos: NN
+lf: activity
+is a term candidate: 0
+
+-----------------
+
+if: T0-baseline
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: T.CLEC9A
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Inflammation
+pos: NN
+lf: inflammation
+is a term candidate: 0
+
+-----------------
+
+if: specific immune response
+pos: JJ JJ NN
+lf: specific immune response
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( specific<=M> ( immune<=M> response<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: % of adult patients
+pos: NN of JJ NNS
+lf: % of adult patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: CKD ; type
+pos: NP COLUMN NN
+lf: CKD ; type
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: non-obese chronic back pain patients
+pos: JJ JJ JJ NN NNS
+lf: INFunknownSUP chronic back pain patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: CI
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CD138-immunoreactive cells
+pos: JJ NNS
+lf: INFunknownSUP cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( CD138-immunoreactive<=M> cells<=H> )
+islands: 0
+
+-----------------
+
+if: greater risk of cancer
+pos: JJR NN of NN
+lf: great risk of cancer
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: expression
+pos: NN
+lf: expression
+is a term candidate: 0
+
+-----------------
+
+if: certain prognostic markers
+pos: JJ JJ NNS
+lf: certain prognostic marker
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( certain<=M> ( prognostic<=M> markers<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: event
+pos: NN
+lf: event
+is a term candidate: 0
+
+-----------------
+
+if: current study
+pos: JJ NN
+lf: current study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( current<=M> study<=H> )
+islands: 0
+
+-----------------
+
+if: IL-1β
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: PTH
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: effects
+pos: NNS
+lf: effect
+is a term candidate: 0
+
+-----------------
+
+if: http://creativecommons.org/licenses/by-nc-nd/4.0
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: central role
+pos: JJ NN
+lf: central role
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( central<=M> role<=H> )
+islands: 0
+
+-----------------
+
+if: influence of inflammation
+pos: NN of NN
+lf: influence of inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( influence<=H> of<=P> inflammation<=M> )
+islands: 0
+
+-----------------
+
+if: clinical manifestations
+pos: JJ NNS
+lf: clinical manifestation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clinical<=M> manifestations<=H> )
+islands: 0
+
+-----------------
+
+if: noncardiovascular mortality
+pos: JJ NN
+lf: INFunknownSUP mortality
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( noncardiovascular<=M> mortality<=H> )
+islands: 0
+
+-----------------
+
+if: participants
+pos: NNS
+lf: participant
+is a term candidate: 0
+
+-----------------
+
+if: number of years
+pos: NN of NNS
+lf: number of year
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( number<=H> of<=P> years<=M> )
+islands: 0
+
+-----------------
+
+if: micronome of FSK-MSCs
+pos: NN of NP
+lf: INFunknownSUP of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( micronome<=H> of<=P> FSK-MSCs<=M> )
+islands: 0
+
+-----------------
+
+if: resected SR muscle
+pos: JJ NN NN
+lf: INFunknownSUP SR muscle
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: brachial artery
+pos: JJ NN
+lf: brachial artery
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( brachial<=M> artery<=H> )
+islands: 0
+
+-----------------
+
+if: studies
+pos: NNS
+lf: study
+is a term candidate: 0
+
+-----------------
+
+if: asthma
+pos: NN
+lf: asthma
+is a term candidate: 0
+
+-----------------
+
+if: review
+pos: NN
+lf: review
+is a term candidate: 0
+
+-----------------
+
+if: normal leukocyte
+pos: JJ NN
+lf: normal INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( normal<=M> leukocyte<=H> )
+islands: 0
+
+-----------------
+
+if: muscle resection
+pos: NN NN
+lf: muscle resection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( muscle<=M> resection<=H> )
+islands: 0
+
+-----------------
+
+if: Ku80 cleavage
+pos: NP NN
+lf: INFunknownSUP cleavage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Ku80<=M> cleavage<=H> )
+islands: 0
+
+-----------------
+
+if: neutrophil influx
+pos: JJ NN
+lf: neutrophil influx
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neutrophil<=M> influx<=H> )
+islands: 0
+
+-----------------
+
+if: nonconforming
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: organism
+pos: NN
+lf: organism
+is a term candidate: 0
+
+-----------------
+
+if: developed countries
+pos: JJ NNS
+lf: developed country
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( developed<=M> countries<=H> )
+islands: 0
+
+-----------------
+
+if: age-
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: dysphagia
+pos: NN
+lf: dysphagia
+is a term candidate: 0
+
+-----------------
+
+if: pioglitazone
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Hunner type IC
+pos: NP NN NP
+lf: INFunknownSUP type IC
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: stress level
+pos: NN NN
+lf: stress level
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( stress<=M> level<=H> )
+islands: 0
+
+-----------------
+
+if: trophic changes
+pos: JJ NNS
+lf: trophic change
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( trophic<=M> changes<=H> )
+islands: 0
+
+-----------------
+
+if: ability of cryopreserved rabbit amniotic membrane
+pos: NN of JJ NN JJ NN
+lf: ability of INFunknownSUP rabbit amniotic membrane
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: degree of postoperative inflammatory infiltration
+pos: NN of JJ JJ NN
+lf: degree of postoperative inflammatory infiltration
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: p
+pos: NN
+lf: p
+is a term candidate: 0
+
+-----------------
+
+if: disease : literature review
+pos: NN COLUMN NN NN
+lf: disease : literature review
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: hypertension
+pos: NN
+lf: hypertension
+is a term candidate: 0
+
+-----------------
+
+if: surface of macrophages
+pos: NN of NNS
+lf: surface of macrophage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( surface<=H> of<=P> macrophages<=M> )
+islands: 0
+
+-----------------
+
+if: SR muscle
+pos: NN NN
+lf: SR muscle
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( SR<=M> muscle<=H> )
+islands: 0
+
+-----------------
+
+if: IL-17f
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: p = 0.8
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: higher levels of high-sensitivity C-reactive protein
+pos: JJR NNS of NN JJ NN
+lf: high level of INFunknownSUP INFunknownSUP protein
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: mediators
+pos: NNS
+lf: mediator
+is a term candidate: 0
+
+-----------------
+
+if: wild-type
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: long-term survival
+pos: JJ NN
+lf: long-term survival
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( long-term<=M> survival<=H> )
+islands: 0
+
+-----------------
+
+if: specialized receptor
+pos: JJ NN
+lf: specialized receptor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( specialized<=M> receptor<=H> )
+islands: 0
+
+-----------------
+
+if: T.The fecal microbiome of ALS patients
+pos: JJ JJ NN of JJ NNS
+lf: INFunknownSUP fecal INFunknownSUP of INFunknownSUP patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: IL-6
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: TNF
+pos: NP
+lf: TNF
+is a term candidate: 0
+
+-----------------
+
+if: setting of choroidal inflammation
+pos: NN of JJ NN
+lf: setting of INFunknownSUP inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Cardiorenal Medicine
+pos: NP NP
+lf: INFunknownSUP Medicine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Cardiorenal<=M> Medicine<=H> )
+islands: 0
+
+-----------------
+
+if: Ku80 interaction
+pos: NP NN
+lf: INFunknownSUP interaction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Ku80<=M> interaction<=H> )
+islands: 0
+
+-----------------
+
+if: markers of innate immunity
+pos: NNS of JJ NN
+lf: marker of innate immunity
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: large part
+pos: JJ NN
+lf: large part
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( large<=M> part<=H> )
+islands: 0
+
+-----------------
+
+if: agents
+pos: NNS
+lf: agent
+is a term candidate: 0
+
+-----------------
+
+if: apoptosis
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: significant increase
+pos: JJ NN
+lf: significant increase
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( significant<=M> increase<=H> )
+islands: 0
+
+-----------------
+
+if: diagnosis
+pos: NN
+lf: diagnosis
+is a term candidate: 0
+
+-----------------
+
+if: miR-296-3p
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Vitamin D
+pos: NN NP
+lf: vitamin D
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Vitamin<=M> D<=H> )
+islands: 0
+
+-----------------
+
+if: permission
+pos: NN
+lf: permission
+is a term candidate: 0
+
+-----------------
+
+if: interaction of M. tuberculosis
+pos: NN of NP NN
+lf: interaction of M. tuberculosis
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: significant decrease
+pos: JJ NN
+lf: significant decrease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( significant<=M> decrease<=H> )
+islands: 0
+
+-----------------
+
+if: T.Changes of Metabolic Disorders Associated Peripheral Cytokine/Adipokine Traffic
+pos: NNS of NP NP NP NP NP NP
+lf: INFunknownSUP of INFunknownSUP INFunknownSUP Associated INFunknownSUP INFunknownSUP Traffic
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Mast cell
+pos: NN NN
+lf: mast cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Mast<=M> cell<=H> )
+islands: 0
+
+-----------------
+
+if: cardiovascular disease
+pos: JJ NN
+lf: cardiovascular disease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cardiovascular<=M> disease<=H> )
+islands: 0
+
+-----------------
+
+if: vision
+pos: NN
+lf: vision
+is a term candidate: 0
+
+-----------------
+
+if: Re-examination
+pos: NN
+lf: re-examination
+is a term candidate: 0
+
+-----------------
+
+if: exposure to a cocktail of proinflammatory cytokines
+pos: NN to DT NN of JJ NNS
+lf: exposure to a cocktail of INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: experimental strabismus surgery
+pos: JJ NN NN
+lf: experimental strabismus surgery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: AKI ; type
+pos: NP COLUMN NN
+lf: Aki ; type
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: BA concurrent
+pos: NP NN
+lf: BA concurrent
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( BA<=M> concurrent<=H> )
+islands: 0
+
+-----------------
+
+if: frequency of angina pectoris FC II
+pos: NN of NN NN NP NP
+lf: frequency of angina pectoris FC II
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: deleterious effects
+pos: JJ NNS
+lf: deleterious effect
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( deleterious<=M> effects<=H> )
+islands: 0
+
+-----------------
+
+if: 16S rRNA gene
+pos: JJ NN NN
+lf: INFunknownSUP INFunknownSUP gene
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: medical center
+pos: JJ NN
+lf: medical center
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( medical<=M> center<=H> )
+islands: 0
+
+-----------------
+
+if: IC
+pos: NP
+lf: IC
+is a term candidate: 0
+
+-----------------
+
+if: endothelium-dependent vasodilation of brachial artery
+pos: JJ NN of JJ NN
+lf: INFunknownSUP INFunknownSUP of brachial artery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: interstitial cystitis
+pos: JJ NN
+lf: interstitial cystitis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( interstitial<=M> cystitis<=H> )
+islands: 0
+
+-----------------
+
+if: FEV1 performance
+pos: JJ NN
+lf: INFunknownSUP performance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( FEV1<=M> performance<=H> )
+islands: 0
+
+-----------------
+
+if: Multivariate analysis
+pos: JJ NN
+lf: multivariate analysis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Multivariate<=M> analysis<=H> )
+islands: 0
+
+-----------------
+
+if: pathogenesis
+pos: NN
+lf: pathogenesis
+is a term candidate: 0
+
+-----------------
+
+if: antiproliferative agent vitamin D
+pos: JJ NN NN NP
+lf: INFunknownSUP agent vitamin D
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: potential pathogenetic factors
+pos: JJ JJ NNS
+lf: potential pathogenetic factor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( potential<=M> ( pathogenetic<=M> factors<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: clinical examinations
+pos: JJ NNS
+lf: clinical examination
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clinical<=M> examinations<=H> )
+islands: 0
+
+-----------------
+
+if: aging
+pos: NN
+lf: aging
+is a term candidate: 0
+
+-----------------
+
+if: AKI provoking cardiac events
+pos: NP JJ JJ NNS
+lf: Aki provoking cardiac event
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: whole
+pos: NN
+lf: whole
+is a term candidate: 0
+
+-----------------
+
+if: VEGF
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: fatal human infectious disease
+pos: JJ JJ JJ NN
+lf: fatal human infectious disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: detrusor
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: open-access article
+pos: NN NN
+lf: open-access article
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( open-access<=M> article<=H> )
+islands: 0
+
+-----------------
+
+if: further research
+pos: JJR NN
+lf: further research
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( further<=M> research<=H> )
+islands: 0
+
+-----------------
+
+if: fecal microbiota
+pos: JJ NN
+lf: fecal INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fecal<=M> microbiota<=H> )
+islands: 0
+
+-----------------
+
+if: CCBY-NC-ND
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: tendons
+pos: NNS
+lf: tendon
+is a term candidate: 0
+
+-----------------
+
+if: different ages.Several readouts
+pos: JJ JJ NNS
+lf: different INFunknownSUP readout
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( different<=M> ( ages.Several<=M> readouts<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: lack of availability to clinician scientists of a helminth
+pos: NN of NN to NN NNS of DT NN
+lf: lack of availability to clinician scientist of a helminth
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: intake of pioglitazone
+pos: NN of NN
+lf: intake of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( intake<=H> of<=P> pioglitazone<=M> )
+islands: 0
+
+-----------------
+
+if: pH
+pos: NN
+lf: pH
+is a term candidate: 0
+
+-----------------
+
+if: antigen processing
+pos: NN NN
+lf: antigen processing
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( antigen<=M> processing<=H> )
+islands: 0
+
+-----------------
+
+if: entire lamina propria
+pos: JJ NN NN
+lf: entire lamina INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cell wall
+pos: NN NN
+lf: cell wall
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cell<=M> wall<=H> )
+islands: 0
+
+-----------------
+
+if: myocardial fibrosis
+pos: JJ NN
+lf: myocardial fibrosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( myocardial<=M> fibrosis<=H> )
+islands: 0
+
+-----------------
+
+if: development of depressive symptoms
+pos: NN of JJ NNS
+lf: development of depressive symptom
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: mechanisms of action
+pos: NNS of NN
+lf: mechanism of action
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mechanisms<=H> of<=P> action<=M> )
+islands: 0
+
+-----------------
+
+if: response to heat-killed M. tuberculosis H37Ra treatment
+pos: NN to JJ NP NN NP NN
+lf: response to INFunknownSUP M. tuberculosis INFunknownSUP treatment
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: IL-4
+pos: NN
+lf: IL-4
+is a term candidate: 0
+
+-----------------
+
+if: PDGFbb
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: mode of action
+pos: NN of NN
+lf: mode of action
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mode<=H> of<=P> action<=M> )
+islands: 0
+
+-----------------
+
+if: reliable inflammatory markers
+pos: JJ JJ NNS
+lf: reliable inflammatory marker
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( reliable<=M> ( inflammatory<=M> markers<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: gastrostomy
+pos: NN
+lf: gastrostomy
+is a term candidate: 0
+
+-----------------
+
+if: metabolic-associated adipokine/cytokine serum assessment
+pos: JJ NN NN NN
+lf: INFunknownSUP INFunknownSUP serum assessment
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: non-white dialysis patients different biochemical parameters
+pos: JJ NN NNS JJ JJ NNS
+lf: non-white dialysis patient different biochemical parameter
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Pioglar
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: postoperative inflammation
+pos: JJ NN
+lf: postoperative inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( postoperative<=M> inflammation<=H> )
+islands: 0
+
+-----------------
+
+if: CD3-
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Gene expression
+pos: NN NN
+lf: gene expression
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Gene<=M> expression<=H> )
+islands: 0
+
+-----------------
+
+if: T.Severe Burn-Induced Inflammation
+pos: NP NP NP
+lf: INFunknownSUP INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: vasomotor disturbances
+pos: JJ NNS
+lf: vasomotor disturbance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vasomotor<=M> disturbances<=H> )
+islands: 0
+
+-----------------
+
+if: T-cell activation
+pos: NN NN
+lf: T-cell activation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( T-cell<=M> activation<=H> )
+islands: 0
+
+-----------------
+
+if: Ku80 ÎC6 overexpression
+pos: NP NN NN
+lf: INFunknownSUP INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: neutrophil counts
+pos: JJ NNS
+lf: neutrophil count
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neutrophil<=M> counts<=H> )
+islands: 0
+
+-----------------
+
+if: A.Crohn
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: kidney function
+pos: NN NN
+lf: kidney function
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kidney<=M> function<=H> )
+islands: 0
+
+-----------------
+
+if: target pathways
+pos: NN NNS
+lf: target pathway
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( target<=M> pathways<=H> )
+islands: 0
+
+-----------------
+
+if: aim of the research
+pos: NN of DT NN
+lf: aim of the research
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aim<=H> of<=P> the<=D> research<=M> )
+islands: 0
+
+-----------------
+
+if: respiratory rate
+pos: JJ NN
+lf: respiratory rate
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( respiratory<=M> rate<=H> )
+islands: 0
+
+-----------------
+
+if: growth factor-beta-1(TGFÎ²-1
+pos: NN NN
+lf: growth INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( growth<=M> factor-beta-1(TGFβ-1<=H> )
+islands: 0
+
+-----------------
+
+if: Mast cell density
+pos: NP NN NN
+lf: Mast cell density
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: future clinical trials
+pos: JJ JJ NNS
+lf: future clinical trial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( future<=M> ( clinical<=M> trials<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: chronotropic activation
+pos: JJ NN
+lf: INFunknownSUP activation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chronotropic<=M> activation<=H> )
+islands: 0
+
+-----------------
+
+if: activity assessment
+pos: NN NN
+lf: activity assessment
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activity<=M> assessment<=H> )
+islands: 0
+
+-----------------
+
+if: secondary disease effects
+pos: JJ NN NNS
+lf: secondary disease effect
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: anti-inflammatory IL-10 serum levels
+pos: JJ NP NN NNS
+lf: anti-inflammatory INFunknownSUP serum level
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: A.To
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Picrosirius red
+pos: NP NN
+lf: INFunknownSUP red
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Picrosirius<=M> red<=H> )
+islands: 0
+
+-----------------
+
+if: start of treatment
+pos: NN of NN
+lf: start of treatment
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( start<=H> of<=P> treatment<=M> )
+islands: 0
+
+-----------------
+
+if: A.Helminthic therapy
+pos: JJ NN
+lf: INFunknownSUP therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Helminthic<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: presence of choroidal neovascularization
+pos: NN of JJ NN
+lf: presence of INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: helminth
+pos: NN
+lf: helminth
+is a term candidate: 0
+
+-----------------
+
+if: particular C-type lectin receptors
+pos: JJ NP NN NNS
+lf: particular INFunknownSUP INFunknownSUP receptor
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: endothelium-dependent vasodilation of the brachial artery
+pos: JJ NN of DT JJ NN
+lf: INFunknownSUP INFunknownSUP of the brachial artery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: neutrophil viability
+pos: JJ NN
+lf: neutrophil viability
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neutrophil<=M> viability<=H> )
+islands: 0
+
+-----------------
+
+if: BA
+pos: NP
+lf: BA
+is a term candidate: 0
+
+-----------------
+
+if: anti-inflammatory cytokines
+pos: JJ NNS
+lf: anti-inflammatory INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( anti-inflammatory<=M> cytokines<=H> )
+islands: 0
+
+-----------------
+
+if: spinal cord stimulation
+pos: JJ NN NN
+lf: spinal cord stimulation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: pain-associated mood
+pos: JJ NN
+lf: INFunknownSUP mood
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pain-associated<=M> mood<=H> )
+islands: 0
+
+-----------------
+
+if: resistances
+pos: NNS
+lf: resistance
+is a term candidate: 0
+
+-----------------
+
+if: disease development
+pos: NN NN
+lf: disease development
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( disease<=M> development<=H> )
+islands: 0
+
+-----------------
+
+if: circulatory system
+pos: JJ NN
+lf: circulatory system
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( circulatory<=M> system<=H> )
+islands: 0
+
+-----------------
+
+if: degradation products kynurenine
+pos: NN NNS NN
+lf: degradation product INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: potential use
+pos: JJ NN
+lf: potential use
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( potential<=M> use<=H> )
+islands: 0
+
+-----------------
+
+if: chemokines
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Ku80 ÎC6
+pos: NP NN
+lf: INFunknownSUP INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Ku80<=M> ΔC6<=H> )
+islands: 0
+
+-----------------
+
+if: attention to hemodynamics
+pos: NN to NNS
+lf: attention to INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( attention<=H> to<=P> hemodynamics<=M> )
+islands: 0
+
+-----------------
+
+if: use of HDCs
+pos: NN of NP
+lf: use of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( use<=H> of<=P> HDCs<=M> )
+islands: 0
+
+-----------------
+
+if: individual variability
+pos: JJ NN
+lf: individual variability
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( individual<=M> variability<=H> )
+islands: 0
+
+-----------------
+
+if: Gene expression of IL-6
+pos: NN NN of NP
+lf: gene expression of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: angular cheilitis
+pos: JJ NN
+lf: angular INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( angular<=M> cheilitis<=H> )
+islands: 0
+
+-----------------
+
+if: IL-1Î± decreasing.ConclusionAging
+pos: NP NN
+lf: INFunknownSUP INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( IL-1α<=M> decreasing.ConclusionAging<=H> )
+islands: 0
+
+-----------------
+
+if: A.Total leukocyte count
+pos: JJ NN NN
+lf: INFunknownSUP INFunknownSUP count
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: production of CXCL8
+pos: NN of NP
+lf: production of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( production<=H> of<=P> CXCL8<=M> )
+islands: 0
+
+-----------------
+
+if: new diagnostic methods
+pos: JJ JJ NNS
+lf: new diagnostic method
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( new<=M> ( diagnostic<=M> methods<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: relevant subtypes
+pos: JJ NNS
+lf: relevant subtype
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( relevant<=M> subtypes<=H> )
+islands: 0
+
+-----------------
+
+if: group
+pos: NN
+lf: group
+is a term candidate: 0
+
+-----------------
+
+if: neurohormonal signals
+pos: JJ NNS
+lf: INFunknownSUP signal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neurohormonal<=M> signals<=H> )
+islands: 0
+
+-----------------
+
+if: standard therapy
+pos: JJ NN
+lf: standard therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( standard<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: inclusion of pioglitazone
+pos: NN of NN
+lf: inclusion of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inclusion<=H> of<=P> pioglitazone<=M> )
+islands: 0
+
+-----------------
+
+if: detrusor areas
+pos: NN NNS
+lf: INFunknownSUP area
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( detrusor<=M> areas<=H> )
+islands: 0
+
+-----------------
+
+if: focal choroidal excavation
+pos: JJ JJ NN
+lf: focal INFunknownSUP excavation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( focal<=M> ( choroidal<=M> excavation<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: T.In-stent restenosis-prone coronary plaque composition : A retrospective virtual histology-intravascular ultrasound study
+pos: NP NP JJ NN NN COLUMN DT JJ JJ JJ NN NN
+lf: INFunknownSUP INFunknownSUP coronary plaque composition : a retrospective virtual INFunknownSUP ultrasound study
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: toxins
+pos: NNS
+lf: toxin
+is a term candidate: 0
+
+-----------------
+
+if: diseases
+pos: NNS
+lf: disease
+is a term candidate: 0
+
+-----------------
+
+if: poor prognosis
+pos: JJ NN
+lf: poor prognosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( poor<=M> prognosis<=H> )
+islands: 0
+
+-----------------
+
+if: β=-0.3
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CXCL1-3 levels
+pos: NP NNS
+lf: INFunknownSUP level
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( CXCL1-3<=M> levels<=H> )
+islands: 0
+
+-----------------
+
+if: BDI-II
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: IL-5
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: TAMX
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: bone
+pos: NN
+lf: bone
+is a term candidate: 0
+
+-----------------
+
+if: genomic stability maintenance
+pos: JJ NN NN
+lf: INFunknownSUP stability maintenance
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: terms of diagnosis
+pos: NNS of NN
+lf: term of diagnosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( terms<=H> of<=P> diagnosis<=M> )
+islands: 0
+
+-----------------
+
+if: control
+pos: NN
+lf: control
+is a term candidate: 0
+
+-----------------
+
+if: Ku80/DNA-PKcs interaction
+pos: NP NN
+lf: INFunknownSUP interaction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Ku80/DNA-PKcs<=M> interaction<=H> )
+islands: 0
+
+-----------------
+
+if: data
+pos: NNS
+lf: datum
+is a term candidate: 0
+
+-----------------
+
+if: paper
+pos: NN
+lf: paper
+is a term candidate: 0
+
+-----------------
+
+if: day of the study
+pos: NN of DT NN
+lf: day of the study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( day<=H> of<=P> the<=D> study<=M> )
+islands: 0
+
+-----------------
+
+if: T1-40 Hz standard frequency stimulation
+pos: NP NP JJ NN NN
+lf: INFunknownSUP hz standard frequency stimulation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: postoperative adhesions
+pos: JJ NNS
+lf: postoperative adhesion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( postoperative<=M> adhesions<=H> )
+islands: 0
+
+-----------------
+
+if: control group
+pos: NN NN
+lf: control group
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( control<=M> group<=H> )
+islands: 0
+
+-----------------
+
+if: choroidal neovascularization reduction
+pos: JJ NN NN
+lf: INFunknownSUP INFunknownSUP reduction
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: site of inflammation
+pos: NN of NN
+lf: site of inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( site<=H> of<=P> inflammation<=M> )
+islands: 0
+
+-----------------
+
+if: CLRs
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: progression of chronic kidney disease
+pos: NN of JJ NN NN
+lf: progression of chronic kidney disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: European League
+pos: NP NP
+lf: European League
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( European<=M> League<=H> )
+islands: 0
+
+-----------------
+
+if: development of inflammation
+pos: NN of NN
+lf: development of inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( development<=H> of<=P> inflammation<=M> )
+islands: 0
+
+-----------------
+
+if: anti-scarring properties
+pos: JJ NNS
+lf: INFunknownSUP property
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( anti-scarring<=M> properties<=H> )
+islands: 0
+
+-----------------
+
+if: SSc
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: smooth muscle cells receptors
+pos: JJ NN NNS NNS
+lf: smooth muscle cell receptor
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: nitroglycerin
+pos: NN
+lf: nitroglycerin
+is a term candidate: 0
+
+-----------------
+
+if: changes
+pos: NNS
+lf: change
+is a term candidate: 0
+
+-----------------
+
+if: IL-15
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: % CI
+pos: NN NP
+lf: % INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( %<=M> CI<=H> )
+islands: 0
+
+-----------------
+
+if: positive indicators of RI
+pos: JJ NNS of NP
+lf: positive indicator of RI
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: parameters
+pos: NNS
+lf: parameter
+is a term candidate: 0
+
+-----------------
+
+if: IL-12
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: total protein
+pos: JJ NN
+lf: total protein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( total<=M> protein<=H> )
+islands: 0
+
+-----------------
+
+if: medical schools
+pos: JJ NNS
+lf: medical school
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( medical<=M> schools<=H> )
+islands: 0
+
+-----------------
+
+if: Col3a1
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: aim of the article
+pos: NN of DT NN
+lf: aim of the article
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aim<=H> of<=P> the<=D> article<=M> )
+islands: 0
+
+-----------------
+
+if: central nervous system-specific inflammation
+pos: JJ JJ NN NN
+lf: central nervous system-specific inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: reports
+pos: NNS
+lf: report
+is a term candidate: 0
+
+-----------------
+
+if: T.The Micronome of Mesenchymal Stromal Cells
+pos: NP NP of NP NP NP
+lf: INFunknownSUP INFunknownSUP of INFunknownSUP INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: CHD
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: caspase-3
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: A.Treatment of co-morbidities
+pos: NN of NNS
+lf: INFunknownSUP of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Treatment<=H> of<=P> co-morbidities<=M> )
+islands: 0
+
+-----------------
+
+if: recognition
+pos: NN
+lf: recognition
+is a term candidate: 0
+
+-----------------
+
+if: abundance of uncultured Ruminococcaceae
+pos: NN of JJ NP
+lf: abundance of INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: acute inflammatory response
+pos: JJ JJ NN
+lf: acute inflammatory response
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( acute<=M> ( inflammatory<=M> response<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: specific surface glycans
+pos: JJ NN NNS
+lf: specific surface INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: sepsis
+pos: NN
+lf: sepsis
+is a term candidate: 0
+
+-----------------
+
+if: induction of inflammation
+pos: NN of NN
+lf: induction of inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( induction<=H> of<=P> inflammation<=M> )
+islands: 0
+
+-----------------
+
+if: musculoskeletal system
+pos: JJ NN
+lf: musculoskeletal system
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( musculoskeletal<=M> system<=H> )
+islands: 0
+
+-----------------
+
+if: caspase-2 knockdown
+pos: JJ NN
+lf: INFunknownSUP knockdown
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( caspase-2<=M> knockdown<=H> )
+islands: 0
+
+-----------------
+
+if: reliable morphological indicators of chronic systemic inflammation
+pos: JJ JJ NNS of JJ JJ NN
+lf: reliable morphological indicator of chronic systemic inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: NHEJ-mediated DNA repair
+pos: JJ NN NN
+lf: INFunknownSUP DNA repair
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: months of burst SCS treatment
+pos: NNS of NN NP NN
+lf: month of burst INFunknownSUP treatment
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: immune system activation
+pos: JJ NN NN
+lf: immune system activation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: T.[Parathormone
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: back pain patients
+pos: JJ NN NNS
+lf: back pain patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: continued pain
+pos: JJ NN
+lf: continued pain
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( continued<=M> pain<=H> )
+islands: 0
+
+-----------------
+
+if: Significant differences
+pos: JJ NNS
+lf: significant difference
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Significant<=M> differences<=H> )
+islands: 0
+
+-----------------
+
+if: normal bladder specimens
+pos: JJ NN NNS
+lf: normal bladder specimen
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: levels of systolic blood pressure
+pos: NNS of JJ NN NN
+lf: level of systolic blood pressure
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: tryptophan
+pos: NN
+lf: tryptophan
+is a term candidate: 0
+
+-----------------
+
+if: OR
+pos: NP
+lf: Or
+is a term candidate: 0
+
+-----------------
+
+if: light
+pos: NN
+lf: light
+is a term candidate: 0
+
+-----------------
+
+if: knowledge
+pos: NN
+lf: knowledge
+is a term candidate: 0
+
+-----------------
+
+if: blood parameters
+pos: NN NNS
+lf: blood parameter
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blood<=M> parameters<=H> )
+islands: 0
+
+-----------------
+
+if: setting of CRS
+pos: NN of NP
+lf: setting of CRS
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( setting<=H> of<=P> CRS<=M> )
+islands: 0
+
+-----------------
+
+if: pattern focal choroidal excavation transformation
+pos: NN JJ JJ NN NN
+lf: pattern focal INFunknownSUP excavation transformation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: altered composition of the fecal microbiota
+pos: JJ NN of DT JJ NN
+lf: altered composition of the fecal INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0
+pos: NNS of DT NP NP NP NP NP NP NP
+lf: term of the Creative Commons INFunknownSUP INFunknownSUP INFunknownSUP License 4.0
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: non-Hunner type IC
+pos: NP NN NP
+lf: INFunknownSUP type IC
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Achilles tendons
+pos: NP NNS
+lf: Achilles tendon
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Achilles<=M> tendons<=H> )
+islands: 0
+
+-----------------
+
+if: episodes of remission
+pos: NNS of NN
+lf: episode of remission
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( episodes<=H> of<=P> remission<=M> )
+islands: 0
+
+-----------------
+
+if: warmth
+pos: NN
+lf: warmth
+is a term candidate: 0
+
+-----------------
+
+if: study group
+pos: NN NN
+lf: study group
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( study<=M> group<=H> )
+islands: 0
+
+-----------------
+
+if: MMP9
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: SCS therapy
+pos: NP NN
+lf: INFunknownSUP therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( SCS<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: Use of Hymenolepis diminuta Cysticercoids
+pos: NP of NP NP NP
+lf: Use of INFunknownSUP INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: ischemic heart disease
+pos: JJ NN NN
+lf: ischemic heart disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: CRPS
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: interaction
+pos: NN
+lf: interaction
+is a term candidate: 0
+
+-----------------
+
+if: sudomotor disturbances
+pos: NN NNS
+lf: INFunknownSUP disturbance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sudomotor<=M> disturbances<=H> )
+islands: 0
+
+-----------------
+
+if: fatal syndromes
+pos: JJ NNS
+lf: fatal syndrome
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( fatal<=M> syndromes<=H> )
+islands: 0
+
+-----------------
+
+if: clinical trials
+pos: JJ NNS
+lf: clinical trial
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clinical<=M> trials<=H> )
+islands: 0
+
+-----------------
+
+if: healthy adults
+pos: JJ NNS
+lf: healthy adult
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( healthy<=M> adults<=H> )
+islands: 0
+
+-----------------
+
+if: metabolic state
+pos: JJ NN
+lf: metabolic state
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( metabolic<=M> state<=H> )
+islands: 0
+
+-----------------
+
+if: T.[Dental perspective
+pos: JJ NN
+lf: INFunknownSUP perspective
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( T.[Dental<=M> perspective<=H> )
+islands: 0
+
+-----------------
+
+if: IC specimens
+pos: NP NNS
+lf: IC specimen
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( IC<=M> specimens<=H> )
+islands: 0
+
+-----------------
+
+if: odds ratio
+pos: NNS NN
+lf: odd ratio
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( odds<=M> ratio<=H> )
+islands: 0
+
+-----------------
+
+if: coronary heart
+pos: JJ NN
+lf: coronary heart
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( coronary<=M> heart<=H> )
+islands: 0
+
+-----------------
+
+if: poor prognosis : a review
+pos: JJ NN COLUMN DT NN
+lf: poor prognosis : a review
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: response to heat-killed Mycobacterium tuberculosis H37Ra
+pos: NN to JJ NN NN NP
+lf: response to INFunknownSUP mycobacterium tuberculosis INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: symptoms
+pos: NNS
+lf: symptom
+is a term candidate: 0
+
+-----------------
+
+if: HsCRP
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Inclusion of pioglitazone
+pos: NN of NN
+lf: inclusion of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Inclusion<=H> of<=P> pioglitazone<=M> )
+islands: 0
+
+-----------------
+
+if: Biomechanical analysis
+pos: JJ NN
+lf: biomechanical analysis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Biomechanical<=M> analysis<=H> )
+islands: 0
+
+-----------------
+
+if: course of disorder
+pos: NN of NN
+lf: course of disorder
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( course<=H> of<=P> disorder<=M> )
+islands: 0
+
+-----------------
+
+if: possible immunomodulatory effects of SCS
+pos: JJ JJ NNS of NP
+lf: possible INFunknownSUP effect of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: ED
+pos: NN
+lf: editor
+is a term candidate: 0
+
+-----------------
+
+if: miRNAs
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: baseline.This study
+pos: NN NN
+lf: INFunknownSUP study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( baseline.This<=M> study<=H> )
+islands: 0
+
+-----------------
+
+if: neutrophil recruitment
+pos: JJ NN
+lf: neutrophil recruitment
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neutrophil<=M> recruitment<=H> )
+islands: 0
+
+-----------------
+
+if: clinical course of focal choroidal excavation
+pos: JJ NN of JJ JJ NN
+lf: clinical course of focal INFunknownSUP excavation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: burn
+pos: NN
+lf: burn
+is a term candidate: 0
+
+-----------------
+
+if: results
+pos: NNS
+lf: result
+is a term candidate: 0
+
+-----------------
+
+if: certain diseases
+pos: JJ NNS
+lf: certain disease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( certain<=M> diseases<=H> )
+islands: 0
+
+-----------------
+
+if: function of caspase-2
+pos: NN of NN
+lf: function of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( function<=H> of<=P> caspase-2<=M> )
+islands: 0
+
+-----------------
+
+if: WT
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: idiophatic inflammatory process of the gastrointestinal tract
+pos: JJ JJ NN of DT JJ NN
+lf: INFunknownSUP inflammatory process of the gastrointestinal tract
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: caspases-2
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CXCL1
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: mycobacterial infection
+pos: JJ NN
+lf: INFunknownSUP infection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mycobacterial<=M> infection<=H> )
+islands: 0
+
+-----------------
+
+if: optical coherence tomography angiography
+pos: JJ NN NN NN
+lf: optical coherence tomography angiography
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: PRRs
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: contralateral extremity
+pos: JJ NN
+lf: INFunknownSUP extremity
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( contralateral<=M> extremity<=H> )
+islands: 0
+
+-----------------
+
+if: SCS
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: A.Amyotrophic lateral sclerosis
+pos: JJ JJ NN
+lf: INFunknownSUP lateral sclerosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Amyotrophic<=M> ( lateral<=M> sclerosis<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: population-wide restoration of the biota of the human body
+pos: JJ NN of DT NN of DT JJ NN
+lf: INFunknownSUP restoration of the biota of the human body
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: arterial pressure
+pos: JJ NN
+lf: arterial pressure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( arterial<=M> pressure<=H> )
+islands: 0
+
+-----------------
+
+if: non-/pre-obese chronic back pain patients
+pos: JJ JJ JJ NN NNS
+lf: INFunknownSUP chronic back pain patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: physicians of the future
+pos: NNS of DT NN
+lf: physician of the future
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( physicians<=H> of<=P> the<=D> future<=M> )
+islands: 0
+
+-----------------
+
+if: groups
+pos: NNS
+lf: group
+is a term candidate: 0
+
+-----------------
+
+if: meaningful differences
+pos: JJ NNS
+lf: meaningful difference
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( meaningful<=M> differences<=H> )
+islands: 0
+
+-----------------
+
+if: microRNAs
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: % confidence interval
+pos: NN NN NN
+lf: % confidence interval
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: etiology
+pos: NN
+lf: etiology
+is a term candidate: 0
+
+-----------------
+
+if: collagens I/III
+pos: NNS NP
+lf: collagen INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( collagens<=M> I/III<=H> )
+islands: 0
+
+-----------------
+
+if: intracellular calcium overload
+pos: JJ NN NN
+lf: intracellular calcium overload
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Mycobacterium tuberculosis
+pos: NN NN
+lf: mycobacterium tuberculosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Mycobacterium<=M> tuberculosis<=H> )
+islands: 0
+
+-----------------
+
+if: clinical features
+pos: JJ NNS
+lf: clinical feature
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clinical<=M> features<=H> )
+islands: 0
+
+-----------------
+
+if: age
+pos: NN
+lf: age
+is a term candidate: 0
+
+-----------------
+
+if: post-SCS changes of GH
+pos: NN NNS of NP
+lf: INFunknownSUP change of GH
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: sensory signs
+pos: JJ NNS
+lf: sensory sign
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( sensory<=M> signs<=H> )
+islands: 0
+
+-----------------
+
+if: different taxonomic levels
+pos: JJ JJ NNS
+lf: different taxonomic level
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( different<=M> ( taxonomic<=M> levels<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: acute heart failure
+pos: JJ NN NN
+lf: acute heart failure
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: P&lt
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: impairment
+pos: NN
+lf: impairment
+is a term candidate: 0
+
+-----------------
+
+if: oral mucosa
+pos: JJ NN
+lf: oral mucosa
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oral<=M> mucosa<=H> )
+islands: 0
+
+-----------------
+
+if: significant differences
+pos: JJ NNS
+lf: significant difference
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( significant<=M> differences<=H> )
+islands: 0
+
+-----------------
+
+if: past CRPS studies
+pos: JJ NP NNS
+lf: past INFunknownSUP study
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: p&lt ; 0.001).Thus
+pos: NP COLUMN NN
+lf: INFunknownSUP ; INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: study
+pos: NN
+lf: study
+is a term candidate: 0
+
+-----------------
+
+if: authors
+pos: NNS
+lf: author
+is a term candidate: 0
+
+-----------------
+
+if: mRNA
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: miR-146-3p
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CRPS patients
+pos: NP NNS
+lf: INFunknownSUP patient
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( CRPS<=M> patients<=H> )
+islands: 0
+
+-----------------
+
+if: area of intense research
+pos: NN of JJ NN
+lf: area of intense research
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: diagnosis of systemic sclerosis
+pos: NN of JJ NN
+lf: diagnosis of systemic sclerosis
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: mycobacteria
+pos: NNS
+lf: mycobacterium
+is a term candidate: 0
+
+-----------------
+
+if: relapses
+pos: NNS
+lf: relapse
+is a term candidate: 0
+
+-----------------
+
+if: hs-CRP
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: ISR
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: mast cell
+pos: NN NN
+lf: mast cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mast<=M> cell<=H> )
+islands: 0
+
+-----------------
+
+if: A.The mechanism of in-stent restenosis
+pos: JJ NN of JJ NN
+lf: INFunknownSUP mechanism of INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: T.Elevated leukocyte count
+pos: JJ NN NN
+lf: INFunknownSUP INFunknownSUP count
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: great interest
+pos: JJ NN
+lf: great interest
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( great<=M> interest<=H> )
+islands: 0
+
+-----------------
+
+if: T2-preferred frequency stimulation
+pos: JJ NN NN
+lf: INFunknownSUP frequency stimulation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: tumor necrosis factor- alpha
+pos: NN NN NN NN
+lf: tumor necrosis INFunknownSUP alpha
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: left eye
+pos: JJ NN
+lf: left eye
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( left<=M> eye<=H> )
+islands: 0
+
+-----------------
+
+if: function
+pos: NN
+lf: function
+is a term candidate: 0
+
+-----------------
+
+if: caspase-2
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CD20-
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: culprit lesion
+pos: NN NN
+lf: culprit lesion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( culprit<=M> lesion<=H> )
+islands: 0
+
+-----------------
+
+if: triglycerides
+pos: NNS
+lf: triglyceride
+is a term candidate: 0
+
+-----------------
+
+if: cytokine accumulation
+pos: NN NN
+lf: INFunknownSUP accumulation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cytokine<=M> accumulation<=H> )
+islands: 0
+
+-----------------
+
+if: lifestyle
+pos: NN
+lf: lifestyle
+is a term candidate: 0
+
+-----------------
+
+if: beginning of the large intestine
+pos: NN of DT JJ NN
+lf: beginning of the large intestine
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: useful predictors of long-term survival
+pos: JJ NNS of JJ NN
+lf: useful predictor of long-term survival
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: MSC-based therapy
+pos: JJ NN
+lf: INFunknownSUP therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( MSC-based<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: important factor
+pos: JJ NN
+lf: important factor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( important<=M> factor<=H> )
+islands: 0
+
+-----------------
+
+if: Tiffeneau index
+pos: NP NN
+lf: INFunknownSUP index
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Tiffeneau<=M> index<=H> )
+islands: 0
+
+-----------------
+
+if: Pearson correlation râ=â0.8 ; pâ=â0.002
+pos: NP NN NN COLUMN NN
+lf: Pearson correlation INFunknownSUP ; INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: A2AR-knockout mice
+pos: NP NNS
+lf: INFunknownSUP mouse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A2AR-knockout<=M> mice<=H> )
+islands: 0
+
+-----------------
+
+if: macrophage-mediated neutrophil recruitment
+pos: JJ JJ NN
+lf: INFunknownSUP neutrophil recruitment
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( macrophage-mediated<=M> ( neutrophil<=M> recruitment<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: mg/dL
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: air pouch
+pos: NN NN
+lf: air pouch
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( air<=M> pouch<=H> )
+islands: 0
+
+-----------------
+
+if: ghrelin
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: coronary heart disease
+pos: JJ NN NN
+lf: coronary heart disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: histological analysis
+pos: JJ NN
+lf: histological analysis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( histological<=M> analysis<=H> )
+islands: 0
+
+-----------------
+
+if: MSCs
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: wall thickening
+pos: NN NN
+lf: wall thickening
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( wall<=M> thickening<=H> )
+islands: 0
+
+-----------------
+
+if: bilateral superior rectus
+pos: JJ JJ NN
+lf: bilateral superior rectus
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( bilateral<=M> ( superior<=M> rectus<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: levels of IP-10
+pos: NNS of NP
+lf: level of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( levels<=H> of<=P> IP-10<=M> )
+islands: 0
+
+-----------------
+
+if: group.Our results
+pos: NN NNS
+lf: INFunknownSUP result
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( group.Our<=M> results<=H> )
+islands: 0
+
+-----------------
+
+if: CRPS affected extremity
+pos: NP JJ NN
+lf: INFunknownSUP affected extremity
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: universities
+pos: NNS
+lf: university
+is a term candidate: 0
+
+-----------------
+
+if: CRPS signs
+pos: NP NNS
+lf: INFunknownSUP sign
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( CRPS<=M> signs<=H> )
+islands: 0
+
+-----------------
+
+if: surface cobblestoning
+pos: NN NN
+lf: surface INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( surface<=M> cobblestoning<=H> )
+islands: 0
+
+-----------------
+
+if: manner
+pos: NN
+lf: manner
+is a term candidate: 0
+
+-----------------
+
+if: non-inflamed bladder
+pos: JJ NN
+lf: INFunknownSUP bladder
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( non-inflamed<=M> bladder<=H> )
+islands: 0
+
+-----------------
+
+if: higher age
+pos: JJR NN
+lf: high age
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( higher<=M> age<=H> )
+islands: 0
+
+-----------------
+
+if: individuals
+pos: NNS
+lf: individual
+is a term candidate: 0
+
+-----------------
+
+if: Foreskin
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: rat tendon
+pos: NN NN
+lf: rat tendon
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rat<=M> tendon<=H> )
+islands: 0
+
+-----------------
+
+if: % diameter of brachial artery
+pos: NN NN of JJ NN
+lf: % diameter of brachial artery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: light of the literature
+pos: NN of DT NN
+lf: light of the literature
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( light<=H> of<=P> the<=D> literature<=M> )
+islands: 0
+
+-----------------
+
+if: non-IC control specimens
+pos: JJ NN NNS
+lf: INFunknownSUP control specimen
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: n
+pos: NN
+lf: n
+is a term candidate: 0
+
+-----------------
+
+if: increase
+pos: NN
+lf: increase
+is a term candidate: 0
+
+-----------------
+
+if: Anti-Inflammatory Therapeutics
+pos: JJ NNS
+lf: anti-inflammatory therapeutics
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Anti-Inflammatory<=M> Therapeutics<=H> )
+islands: 0
+
+-----------------
+
+if: valuable reservoir of MSCs
+pos: JJ NN of NP
+lf: valuable reservoir of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: β=2.6
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: AM
+pos: NP
+lf: AM
+is a term candidate: 0
+
+-----------------
+
+if: production
+pos: NN
+lf: production
+is a term candidate: 0
+
+-----------------
+
+if: A2AR-KO mice
+pos: NP NNS
+lf: INFunknownSUP mouse
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A2AR-KO<=M> mice<=H> )
+islands: 0
+
+-----------------
+
+if: Achilles tendon
+pos: NP NN
+lf: Achilles tendon
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Achilles<=M> tendon<=H> )
+islands: 0
+
+-----------------
+
+if: viability
+pos: NN
+lf: viability
+is a term candidate: 0
+
+-----------------
+
+if: HC
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: complicated development of disease
+pos: JJ NN of NN
+lf: complicated development of disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: search
+pos: NN
+lf: search
+is a term candidate: 0
+
+-----------------
+
+if: SR
+pos: NN
+lf: SR
+is a term candidate: 0
+
+-----------------
+
+if: miRNet
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: methodology
+pos: NN
+lf: methodology
+is a term candidate: 0
+
+-----------------
+
+if: treatment of these diseases
+pos: NN of DT NNS
+lf: treatment of these disease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( treatment<=H> of<=P> these<=D> diseases<=M> )
+islands: 0
+
+-----------------
+
+if: clinical parameters.Mast cell density
+pos: JJ NN NN NN
+lf: clinical INFunknownSUP cell density
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: % total body surface area scald burn
+pos: NN JJ NN NN NN NN NN
+lf: % total body surface area scald burn
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: elevated leukocyte count
+pos: JJ NN NN
+lf: elevated INFunknownSUP count
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: IL-12b
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: unpredictable course of disease
+pos: JJ NN of NN
+lf: unpredictable course of disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: leukocyte count
+pos: NN NN
+lf: INFunknownSUP count
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( leukocyte<=M> count<=H> )
+islands: 0
+
+-----------------
+
+if: D726A mutation
+pos: NP NN
+lf: INFunknownSUP mutation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( D726A<=M> mutation<=H> )
+islands: 0
+
+-----------------
+
+if: PTH serum concentration
+pos: NP NN NN
+lf: INFunknownSUP serum concentration
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Histological analysis
+pos: JJ NN
+lf: histological analysis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Histological<=M> analysis<=H> )
+islands: 0
+
+-----------------
+
+if: negative influence
+pos: JJ NN
+lf: negative influence
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( negative<=M> influence<=H> )
+islands: 0
+
+-----------------
+
+if: Rat Model
+pos: NP NP
+lf: INFunknownSUP Model
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Rat<=M> Model<=H> )
+islands: 0
+
+-----------------
+
+if: measures design.After SCS
+pos: NNS NP NP
+lf: measure INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: diastolic blood pressure
+pos: JJ NN NN
+lf: diastolic blood pressure
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: inflammatory response
+pos: JJ NN
+lf: inflammatory response
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inflammatory<=M> response<=H> )
+islands: 0
+
+-----------------
+
+if: INFLAMMATORY CHOROIDAL NEOVASCULARIZATION ASSOCIATED WITH FOCAL CHOROIDAL EXCAVATION
+pos: NP NP NP NP NP NP NP NP
+lf: INFunknownSUP INFunknownSUP INFunknownSUP Associated INFunknownSUP INFunknownSUP INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: kynurenine pathway
+pos: NN NN
+lf: INFunknownSUP pathway
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kynurenine<=M> pathway<=H> )
+islands: 0
+
+-----------------
+
+if: basic FGF
+pos: JJ NN
+lf: basic INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( basic<=M> FGF<=H> )
+islands: 0
+
+-----------------
+
+if: tendon remodeling
+pos: NN NN
+lf: tendon remodeling
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tendon<=M> remodeling<=H> )
+islands: 0
+
+-----------------
+
+if: major determinant of these organisms' pathogenicity
+pos: JJ NN of DT NP NN
+lf: major determinant of these INFunknownSUP INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: hypercatabolism
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: non-white patients
+pos: JJ NNS
+lf: non-white patient
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( non-white<=M> patients<=H> )
+islands: 0
+
+-----------------
+
+if: chronic psychological stress
+pos: JJ JJ NN
+lf: chronic psychological stress
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chronic<=M> ( psychological<=M> stress<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: 9-month follow-up coronary angiography
+pos: NN NN JJ NN
+lf: INFunknownSUP follow-up coronary angiography
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: compliant criteria
+pos: JJ NNS
+lf: compliant criterion
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( compliant<=M> criteria<=H> )
+islands: 0
+
+-----------------
+
+if: expression of the inflammatory marker of hs-CRP
+pos: NN of DT JJ NN of NP
+lf: expression of the inflammatory marker of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: rabbits
+pos: NNS
+lf: rabbit
+is a term candidate: 0
+
+-----------------
+
+if: various diseases
+pos: JJ NNS
+lf: various disease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( various<=M> diseases<=H> )
+islands: 0
+
+-----------------
+
+if: years
+pos: NNS
+lf: year
+is a term candidate: 0
+
+-----------------
+
+if: significance of mast cell infiltration
+pos: NN of NN NN NN
+lf: significance of mast cell infiltration
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: PCR
+pos: NP
+lf: PCR
+is a term candidate: 0
+
+-----------------
+
+if: physiology
+pos: NN
+lf: physiology
+is a term candidate: 0
+
+-----------------
+
+if: non-specific clinical manifestation
+pos: JJ JJ NN
+lf: INFunknownSUP clinical manifestation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( non-specific<=M> ( clinical<=M> manifestation<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: prognosis
+pos: NN
+lf: prognosis
+is a term candidate: 0
+
+-----------------
+
+if: oxidative stress
+pos: JJ NN
+lf: oxidative stress
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oxidative<=M> stress<=H> )
+islands: 0
+
+-----------------
+
+if: Common clinical scenarios
+pos: JJ JJ NNS
+lf: common clinical scenario
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Common<=M> ( clinical<=M> scenarios<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: inflammatory reaction
+pos: JJ NN
+lf: inflammatory reaction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inflammatory<=M> reaction<=H> )
+islands: 0
+
+-----------------
+
+if: ongoing research
+pos: JJ NN
+lf: ongoing research
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ongoing<=M> research<=H> )
+islands: 0
+
+-----------------
+
+if: India
+pos: NP
+lf: India
+is a term candidate: 0
+
+-----------------
+
+if: monocyte counts
+pos: NN NNS
+lf: monocyte count
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( monocyte<=M> counts<=H> )
+islands: 0
+
+-----------------
+
+if: SSc diagnosis
+pos: NP NN
+lf: INFunknownSUP diagnosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( SSc<=M> diagnosis<=H> )
+islands: 0
+
+-----------------
+
+if: Western society
+pos: JJ NN
+lf: Western society
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Western<=M> society<=H> )
+islands: 0
+
+-----------------
+
+if: elastase
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: motor
+pos: NN
+lf: motor
+is a term candidate: 0
+
+-----------------
+
+if: chronic back pain patients
+pos: JJ JJ NN NNS
+lf: chronic back pain patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: A.We
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: rabbit model of strabismus surgery
+pos: NN NN of NN NN
+lf: rabbit model of strabismus surgery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: energy metabolism
+pos: NN NN
+lf: energy metabolism
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( energy<=M> metabolism<=H> )
+islands: 0
+
+-----------------
+
+if: important atherosclerotic process
+pos: JJ JJ NN
+lf: important atherosclerotic process
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( important<=M> ( atherosclerotic<=M> process<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: novel mechanisms
+pos: NN NNS
+lf: novel mechanism
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( novel<=M> mechanisms<=H> )
+islands: 0
+
+-----------------
+
+if: days
+pos: NNS
+lf: day
+is a term candidate: 0
+
+-----------------
+
+if: male/seven
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: findings
+pos: NNS
+lf: finding
+is a term candidate: 0
+
+-----------------
+
+if: severe burn
+pos: JJ NN
+lf: severe burn
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( severe<=M> burn<=H> )
+islands: 0
+
+-----------------
+
+if: biomechanical changes
+pos: JJ NNS
+lf: biomechanical change
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( biomechanical<=M> changes<=H> )
+islands: 0
+
+-----------------
+
+if: non-white dialysis patients
+pos: JJ NN NNS
+lf: non-white dialysis patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: comparable cytokine pattern
+pos: JJ NN NN
+lf: comparable INFunknownSUP pattern
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: result
+pos: NN
+lf: result
+is a term candidate: 0
+
+-----------------
+
+if: chronic systemic inflammation
+pos: JJ JJ NN
+lf: chronic systemic inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chronic<=M> ( systemic<=M> inflammation<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: helminths
+pos: NNS
+lf: helminth
+is a term candidate: 0
+
+-----------------
+
+if: innate immune response
+pos: JJ JJ NN
+lf: innate immune response
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( innate<=M> ( immune<=M> response<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: impact
+pos: NN
+lf: impact
+is a term candidate: 0
+
+-----------------
+
+if: IL-13
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: self-treatment
+pos: NN
+lf: self-treatment
+is a term candidate: 0
+
+-----------------
+
+if: pathophysiology
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: nonconforming focal choroidal excavation
+pos: JJ JJ JJ NN
+lf: INFunknownSUP focal INFunknownSUP excavation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: T.Age-related decline of the acute local inflammation response : a mitigating role
+pos: JJ NN of DT JJ JJ NN NN COLUMN DT JJ NN
+lf: INFunknownSUP decline of the acute local inflammation response : a mitigating role
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: internal organ complications
+pos: JJ NN NNS
+lf: internal organ complication
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: ISR.This study
+pos: NP NN
+lf: INFunknownSUP study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ISR.This<=M> study<=H> )
+islands: 0
+
+-----------------
+
+if: response to infection
+pos: NN to NN
+lf: response to infection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( response<=H> to<=P> infection<=M> )
+islands: 0
+
+-----------------
+
+if: Inflammatory involvement
+pos: JJ NN
+lf: inflammatory involvement
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Inflammatory<=M> involvement<=H> )
+islands: 0
+
+-----------------
+
+if: interleukin
+pos: NN
+lf: interleukin
+is a term candidate: 0
+
+-----------------
+
+if: atherosclerosis progression
+pos: NN NN
+lf: atherosclerosis progression
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( atherosclerosis<=M> progression<=H> )
+islands: 0
+
+-----------------
+
+if: percent necrotic core volume
+pos: NN JJ NN NN
+lf: percent necrotic core volume
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: full list
+pos: JJ NN
+lf: full list
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( full<=M> list<=H> )
+islands: 0
+
+-----------------
+
+if: journal
+pos: NN
+lf: journal
+is a term candidate: 0
+
+-----------------
+
+if: Bladder biopsy specimens
+pos: NN NN NNS
+lf: bladder biopsy specimen
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Tryptophan degradation
+pos: NN NN
+lf: tryptophan degradation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Tryptophan<=M> degradation<=H> )
+islands: 0
+
+-----------------
+
+if: RI
+pos: NP
+lf: RI
+is a term candidate: 0
+
+-----------------
+
+if: myocardial contractility
+pos: JJ NN
+lf: myocardial contractility
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( myocardial<=M> contractility<=H> )
+islands: 0
+
+-----------------
+
+if: IL-17
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: further classification criteria
+pos: JJR NN NNS
+lf: further classification criterion
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: treatment
+pos: NN
+lf: treatment
+is a term candidate: 0
+
+-----------------
+
+if: autoimmune/ inflammatory alternations
+pos: JJ JJ NNS
+lf: INFunknownSUP inflammatory alternation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( autoimmune/<=M> ( inflammatory<=M> alternations<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: analysis
+pos: NN
+lf: analysis
+is a term candidate: 0
+
+-----------------
+
+if: age-related conditions
+pos: JJ NNS
+lf: age-related condition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( age-related<=M> conditions<=H> )
+islands: 0
+
+-----------------
+
+if: T.Cleavage of Ku80
+pos: NP of NP
+lf: INFunknownSUP of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Recent findings
+pos: JJ NNS
+lf: Recent finding
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Recent<=M> findings<=H> )
+islands: 0
+
+-----------------
+
+if: inhibition of caspase-2
+pos: NN of NN
+lf: inhibition of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inhibition<=H> of<=P> caspase-2<=M> )
+islands: 0
+
+-----------------
+
+if: Pre-
+pos: NN
+lf: pre-
+is a term candidate: 0
+
+-----------------
+
+if: development of therapeutic approaches
+pos: NN of JJ NNS
+lf: development of therapeutic approach
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: ALS pathogenesis
+pos: JJ NN
+lf: INFunknownSUP pathogenesis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ALS<=M> pathogenesis<=H> )
+islands: 0
+
+-----------------
+
+if: Intake of pioglitazone
+pos: NN of NN
+lf: intake of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Intake<=H> of<=P> pioglitazone<=M> )
+islands: 0
+
+-----------------
+
+if: day
+pos: NN
+lf: day
+is a term candidate: 0
+
+-----------------
+
+if: CXCL8
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: mechanisms of heart
+pos: NNS of NN
+lf: mechanism of heart
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( mechanisms<=H> of<=P> heart<=M> )
+islands: 0
+
+-----------------
+
+if: sex
+pos: NN
+lf: sex
+is a term candidate: 0
+
+-----------------
+
+if: healthy controls : pre-SCS
+pos: JJ NNS COLUMN NNS
+lf: healthy control : INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: date
+pos: NN
+lf: date
+is a term candidate: 0
+
+-----------------
+
+if: ALS
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: oral steroids.Multimodal imaging
+pos: JJ JJ NN
+lf: oral INFunknownSUP imaging
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oral<=M> ( steroids.Multimodal<=M> imaging<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: weakened Ku80/DNA-PKcs interaction
+pos: JJ NP NN
+lf: weakened INFunknownSUP interaction
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: value
+pos: NN
+lf: value
+is a term candidate: 0
+
+-----------------
+
+if: field
+pos: NN
+lf: field
+is a term candidate: 0
+
+-----------------
+
+if: risk
+pos: NN
+lf: risk
+is a term candidate: 0
+
+-----------------
+
+if: inflammatory diseases
+pos: JJ NNS
+lf: inflammatory disease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inflammatory<=M> diseases<=H> )
+islands: 0
+
+-----------------
+
+if: pathophysiological pathways
+pos: JJ NNS
+lf: INFunknownSUP pathway
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pathophysiological<=M> pathways<=H> )
+islands: 0
+
+-----------------
+
+if: pattern recognition receptors
+pos: NN NN NNS
+lf: pattern recognition receptor
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: lymphoplasmacytic cells
+pos: JJ NNS
+lf: INFunknownSUP cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lymphoplasmacytic<=M> cells<=H> )
+islands: 0
+
+-----------------
+
+if: SCS.SCS
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: difficulty
+pos: NN
+lf: difficulty
+is a term candidate: 0
+
+-----------------
+
+if: lymphoplasmacytic cell density
+pos: JJ NN NN
+lf: INFunknownSUP cell density
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: inflammation
+pos: NN
+lf: inflammation
+is a term candidate: 0
+
+-----------------
+
+if: improvement of respiratory function
+pos: NN of JJ NN
+lf: improvement of respiratory function
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: diameter of brachial artery
+pos: NN of JJ NN
+lf: diameter of brachial artery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: real-time polymerase chain reaction
+pos: JJ NN NN NN
+lf: real-time polymerase chain reaction
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: decrease
+pos: NN
+lf: decrease
+is a term candidate: 0
+
+-----------------
+
+if: chronic heart-kidney cross talk
+pos: JJ NN NN NN
+lf: chronic INFunknownSUP cross talk
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: microbiome alterations
+pos: NN NNS
+lf: INFunknownSUP alteration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( microbiome<=M> alterations<=H> )
+islands: 0
+
+-----------------
+
+if: hormones
+pos: NNS
+lf: hormone
+is a term candidate: 0
+
+-----------------
+
+if: potential
+pos: NN
+lf: potential
+is a term candidate: 0
+
+-----------------
+
+if: Mast cell tryptase-
+pos: NP NN NN
+lf: Mast cell INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: fatal neurodegenerative motor neuron disease
+pos: JJ JJ NN NN NN
+lf: fatal INFunknownSUP motor neuron disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: specimens
+pos: NNS
+lf: specimen
+is a term candidate: 0
+
+-----------------
+
+if: kidney interactions
+pos: NN NNS
+lf: kidney interaction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( kidney<=M> interactions<=H> )
+islands: 0
+
+-----------------
+
+if: LP
+pos: NP
+lf: LP
+is a term candidate: 0
+
+-----------------
+
+if: association
+pos: NN
+lf: association
+is a term candidate: 0
+
+-----------------
+
+if: HF
+pos: NP
+lf: HF
+is a term candidate: 0
+
+-----------------
+
+if: clear need
+pos: JJ NN
+lf: clear need
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clear<=M> need<=H> )
+islands: 0
+
+-----------------
+
+if: attention
+pos: NN
+lf: attention
+is a term candidate: 0
+
+-----------------
+
+if: HC).Mean BMI
+pos: NP NP
+lf: INFunknownSUP BMI
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( HC).Mean<=M> BMI<=H> )
+islands: 0
+
+-----------------
+
+if: diabetes
+pos: NN
+lf: diabetes
+is a term candidate: 0
+
+-----------------
+
+if: IL-10
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: variability
+pos: NN
+lf: variability
+is a term candidate: 0
+
+-----------------
+
+if: lamina propria
+pos: NN NN
+lf: lamina INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lamina<=M> propria<=H> )
+islands: 0
+
+-----------------
+
+if: clinical efficacy
+pos: JJ NN
+lf: clinical efficacy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( clinical<=M> efficacy<=H> )
+islands: 0
+
+-----------------
+
+if: %
+pos: NN
+lf: %
+is a term candidate: 0
+
+-----------------
+
+if: course of standard therapies
+pos: NN of JJ NNS
+lf: course of standard therapy
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: post-SCS LP levels
+pos: NP NP NNS
+lf: INFunknownSUP LP level
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: IFN-γ
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: order
+pos: NN
+lf: order
+is a term candidate: 0
+
+-----------------
+
+if: β=1.0
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: adaptive immunity
+pos: JJ NN
+lf: adaptive immunity
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( adaptive<=M> immunity<=H> )
+islands: 0
+
+-----------------
+
+if: T.Anti-inflammatory
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: pain
+pos: NN
+lf: pain
+is a term candidate: 0
+
+-----------------
+
+if: CHD
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: surgical specialists
+pos: JJ NNS
+lf: surgical specialist
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( surgical<=M> specialists<=H> )
+islands: 0
+
+-----------------
+
+if: abundance of the bacterial taxa
+pos: NN of DT JJ NNS
+lf: abundance of the bacterial taxon
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: patients
+pos: NNS
+lf: patient
+is a term candidate: 0
+
+-----------------
+
+if: normal bladder
+pos: JJ NN
+lf: normal bladder
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( normal<=M> bladder<=H> )
+islands: 0
+
+-----------------
+
+if: IL)-12a
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: nutrition
+pos: NN
+lf: nutrition
+is a term candidate: 0
+
+-----------------
+
+if: binds
+pos: NNS
+lf: bind
+is a term candidate: 0
+
+-----------------
+
+if: non-IC cystitis
+pos: JJ NN
+lf: INFunknownSUP cystitis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( non-IC<=M> cystitis<=H> )
+islands: 0
+
+-----------------
+
+if: white
+pos: NN
+lf: white
+is a term candidate: 0
+
+-----------------
+
+if: heart failure
+pos: NN NN
+lf: heart failure
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( heart<=M> failure<=H> )
+islands: 0
+
+-----------------
+
+if: type
+pos: NN
+lf: type
+is a term candidate: 0
+
+-----------------
+
+if: special immunological profile
+pos: JJ JJ NN
+lf: special immunological profile
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( special<=M> ( immunological<=M> profile<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: extent of fibrosis
+pos: NN of NN
+lf: extent of fibrosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( extent<=H> of<=P> fibrosis<=M> )
+islands: 0
+
+-----------------
+
+if: defective migration
+pos: JJ NN
+lf: defective migration
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( defective<=M> migration<=H> )
+islands: 0
+
+-----------------
+
+if: percutaneous coronary intervention
+pos: JJ JJ NN
+lf: percutaneous coronary intervention
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( percutaneous<=M> ( coronary<=M> intervention<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: pressures
+pos: NNS
+lf: pressure
+is a term candidate: 0
+
+-----------------
+
+if: Non-Obese Chronic Back Patients Responsive to Burst Spinal Cord Stimulation
+pos: NP NP NP NPS NP to NP NP NP NP
+lf: INFunknownSUP INFunknownSUP Back Patients INFunknownSUP to INFunknownSUP INFunknownSUP Cord INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: tendinopathy
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: selection of patients
+pos: NN of NNS
+lf: selection of patient
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( selection<=H> of<=P> patients<=M> )
+islands: 0
+
+-----------------
+
+if: 22âÂ±â0.81 kg/m(2
+pos: JJ NN
+lf: INFunknownSUP INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( 22 ± 0.81<=M> kg/m(2<=H> )
+islands: 0
+
+-----------------
+
+if: virtual histology-intravascular ultrasound
+pos: JJ JJ NN
+lf: virtual INFunknownSUP ultrasound
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( virtual<=M> ( histology-intravascular<=M> ultrasound<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: muscle
+pos: NN
+lf: muscle
+is a term candidate: 0
+
+-----------------
+
+if: environmental factors
+pos: JJ NNS
+lf: environmental factor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( environmental<=M> factors<=H> )
+islands: 0
+
+-----------------
+
+if: relevant issue of modern therapy
+pos: JJ NN of JJ NN
+lf: relevant issue of modern therapy
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: disease
+pos: NN
+lf: disease
+is a term candidate: 0
+
+-----------------
+
+if: fact
+pos: NN
+lf: fact
+is a term candidate: 0
+
+-----------------
+
+if: comprehensive therapy
+pos: JJ NN
+lf: comprehensive therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( comprehensive<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: stiffness
+pos: NN
+lf: stiffness
+is a term candidate: 0
+
+-----------------
+
+if: helminthic therapy
+pos: JJ NN
+lf: helminthic therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( helminthic<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: calcium
+pos: NN
+lf: calcium
+is a term candidate: 0
+
+-----------------
+
+if: stronger prognostic ability
+pos: JJR JJ NN
+lf: strong prognostic ability
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: patients of the study group
+pos: NNS of DT NN NN
+lf: patient of the study group
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: miR-199b
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CLEC9A-Fc fusion protein
+pos: NP NN NN
+lf: INFunknownSUP fusion protein
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: pro-
+pos: NN
+lf: pro-
+is a term candidate: 0
+
+-----------------
+
+if: Mycobacteria
+pos: NNS
+lf: mycobacterium
+is a term candidate: 0
+
+-----------------
+
+if: Immunomodulation
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: DNGR-1
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: diversity
+pos: NN
+lf: diversity
+is a term candidate: 0
+
+-----------------
+
+if: muscle loss
+pos: NN NN
+lf: muscle loss
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( muscle<=M> loss<=H> )
+islands: 0
+
+-----------------
+
+if: aim of this study
+pos: NN of DT NN
+lf: aim of this study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( aim<=H> of<=P> this<=D> study<=M> )
+islands: 0
+
+-----------------
+
+if: burst spinal cord stimulation
+pos: NN JJ NN NN
+lf: burst spinal cord stimulation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cardiovascular diseases.At baseline
+pos: JJ NN NN
+lf: cardiovascular INFunknownSUP baseline
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: host receptors
+pos: NN NNS
+lf: host receptor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( host<=M> receptors<=H> )
+islands: 0
+
+-----------------
+
+if: burn site
+pos: NN NN
+lf: burn site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( burn<=M> site<=H> )
+islands: 0
+
+-----------------
+
+if: potential protective impact
+pos: JJ JJ NN
+lf: potential protective impact
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( potential<=M> ( protective<=M> impact<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: pathogenesis of disorder
+pos: NN of NN
+lf: pathogenesis of disorder
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pathogenesis<=H> of<=P> disorder<=M> )
+islands: 0
+
+-----------------
+
+if: novel CLR
+pos: JJ NP
+lf: novel INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( novel<=M> CLR<=H> )
+islands: 0
+
+-----------------
+
+if: fluids
+pos: NNS
+lf: fluid
+is a term candidate: 0
+
+-----------------
+
+if: formation of a Ku70/Ku80/DNA-PKcs complex
+pos: NN of DT NP NN
+lf: formation of a INFunknownSUP complex
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: frequency of angina FC I
+pos: NN of NN NP NP
+lf: frequency of angina FC I
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: -296-3p
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: antiarrhytmic properties
+pos: JJ NNS
+lf: INFunknownSUP property
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( antiarrhytmic<=M> properties<=H> )
+islands: 0
+
+-----------------
+
+if: people
+pos: NNS
+lf: people
+is a term candidate: 0
+
+-----------------
+
+if: flows
+pos: NNS
+lf: flow
+is a term candidate: 0
+
+-----------------
+
+if: SR resection
+pos: NN NN
+lf: SR resection
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( SR<=M> resection<=H> )
+islands: 0
+
+-----------------
+
+if: perfusion
+pos: NN
+lf: perfusion
+is a term candidate: 0
+
+-----------------
+
+if: digital quantification technique.Bladder biopsy specimens
+pos: JJ NN NN NN NNS
+lf: digital quantification INFunknownSUP biopsy specimen
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: course of standard therapy
+pos: NN of JJ NN
+lf: course of standard therapy
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: elderly people
+pos: JJ NNS
+lf: elderly people
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( elderly<=M> people<=H> )
+islands: 0
+
+-----------------
+
+if: choroidal neovascularization
+pos: JJ NN
+lf: INFunknownSUP INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( choroidal<=M> neovascularization<=H> )
+islands: 0
+
+-----------------
+
+if: coronary plaque composition
+pos: JJ NN NN
+lf: coronary plaque composition
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: angina
+pos: NN
+lf: angina
+is a term candidate: 0
+
+-----------------
+
+if: health outcomes
+pos: NN NNS
+lf: health outcome
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( health<=M> outcomes<=H> )
+islands: 0
+
+-----------------
+
+if: diameter of the brachial artery
+pos: NN of DT JJ NN
+lf: diameter of the brachial artery
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cryopreserved rabbit AM
+pos: JJ NN NP
+lf: INFunknownSUP rabbit AM
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: association of inflammation
+pos: NN of NN
+lf: association of inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( association<=H> of<=P> inflammation<=M> )
+islands: 0
+
+-----------------
+
+if: time
+pos: NN
+lf: time
+is a term candidate: 0
+
+-----------------
+
+if: routine medical check-ups
+pos: JJ JJ NNS
+lf: routine medical check-up
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( routine<=M> ( medical<=M> check-ups<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: cryopreserved rabbit
+pos: JJ NNS
+lf: INFunknownSUP rabbit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cryopreserved<=M> rabbit<=H> )
+islands: 0
+
+-----------------
+
+if: substantial alteration of the gut microbiota composition
+pos: JJ NN of DT JJ NN NN
+lf: substantial alteration of the gut INFunknownSUP composition
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: functional changes
+pos: JJ NNS
+lf: functional change
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( functional<=M> changes<=H> )
+islands: 0
+
+-----------------
+
+if: heart
+pos: NN
+lf: heart
+is a term candidate: 0
+
+-----------------
+
+if: M. tuberculosis
+pos: NP NN
+lf: M. tuberculosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( M.<=M> tuberculosis<=H> )
+islands: 0
+
+-----------------
+
+if: aim
+pos: NN
+lf: aim
+is a term candidate: 0
+
+-----------------
+
+if: MMP13
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: groups.Depressive symptoms
+pos: JJ NNS
+lf: INFunknownSUP symptom
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( groups.Depressive<=M> symptoms<=H> )
+islands: 0
+
+-----------------
+
+if: activation
+pos: NN
+lf: activation
+is a term candidate: 0
+
+-----------------
+
+if: Optimal vitamin D serum concentration
+pos: JJ NN NP NN NN
+lf: optimal vitamin D serum concentration
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: similar degree of background inflammation
+pos: JJ NN of NN NN
+lf: similar degree of background inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: anti-angiogenetic activity
+pos: JJ NN
+lf: INFunknownSUP activity
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( anti-angiogenetic<=M> activity<=H> )
+islands: 0
+
+-----------------
+
+if: local levels of cytokines
+pos: JJ NNS of NNS
+lf: local level of INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: subclinical disease
+pos: JJ NN
+lf: subclinical disease
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( subclinical<=M> disease<=H> )
+islands: 0
+
+-----------------
+
+if: gender-matched healthy persons
+pos: JJ JJ NNS
+lf: INFunknownSUP healthy person
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( gender-matched<=M> ( healthy<=M> persons<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: multisystem disorder of the connective tissue
+pos: NN NN of DT JJ NN
+lf: INFunknownSUP disorder of the connective tissue
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: debate.The adenosine A2A receptor
+pos: NN NN NP NN
+lf: INFunknownSUP adenosine INFunknownSUP receptor
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: new therapeutic possibilities
+pos: JJ JJ NNS
+lf: new therapeutic possibility
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( new<=M> ( therapeutic<=M> possibilities<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: parathormone
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: research
+pos: NN
+lf: research
+is a term candidate: 0
+
+-----------------
+
+if: immunotherapeutic cells
+pos: JJ NNS
+lf: INFunknownSUP cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( immunotherapeutic<=M> cells<=H> )
+islands: 0
+
+-----------------
+
+if: hospitals
+pos: NNS
+lf: hospital
+is a term candidate: 0
+
+-----------------
+
+if: heart failure - theoretical influence
+pos: NN NN COLUMN JJ NN
+lf: heart failure - theoretical influence
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: lymphoplasmacytic cell densities
+pos: JJ NN NNS
+lf: INFunknownSUP cell density
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: clinical presentation of the disease
+pos: JJ NN of DT NN
+lf: clinical presentation of the disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: DSB sites
+pos: NP NNS
+lf: INFunknownSUP site
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( DSB<=M> sites<=H> )
+islands: 0
+
+-----------------
+
+if: depletion
+pos: NN
+lf: depletion
+is a term candidate: 0
+
+-----------------
+
+if: sleep
+pos: NN
+lf: sleep
+is a term candidate: 0
+
+-----------------
+
+if: DNA-PKcs
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: higher restenosis rates.The study population
+pos: JJR NN NN NN NN
+lf: high INFunknownSUP INFunknownSUP study population
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Bone mass
+pos: NN NN
+lf: bone mass
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Bone<=M> mass<=H> )
+islands: 0
+
+-----------------
+
+if: D726
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: T.A Call to Action to Develop Integrated Curricula
+pos: NP NP to NP to NP NP NP
+lf: INFunknownSUP Call to Action to INFunknownSUP Integrated INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: remodeling
+pos: NN
+lf: remodeling
+is a term candidate: 0
+
+-----------------
+
+if: vitamin d
+pos: NN NN
+lf: vitamin d
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( vitamin<=M> d<=H> )
+islands: 0
+
+-----------------
+
+if: CVD
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: relevant functional properties
+pos: JJ JJ NNS
+lf: relevant functional property
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( relevant<=M> ( functional<=M> properties<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: bloodflow
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: intensity of mast cell infiltration
+pos: NN of NN NN NN
+lf: intensity of mast cell infiltration
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: myocardium
+pos: NN
+lf: myocardium
+is a term candidate: 0
+
+-----------------
+
+if: p = 0.035
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Forty male Sprague-Dawley rats
+pos: NN JJ NP NNS
+lf: forty male INFunknownSUP rat
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: tobacco-induced inflammatory changes
+pos: JJ JJ NNS
+lf: INFunknownSUP inflammatory change
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tobacco-induced<=M> ( inflammatory<=M> changes<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: socio-medical studies
+pos: JJ NNS
+lf: INFunknownSUP study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( socio-medical<=M> studies<=H> )
+islands: 0
+
+-----------------
+
+if: cause
+pos: NN
+lf: cause
+is a term candidate: 0
+
+-----------------
+
+if: transplantation
+pos: NN
+lf: transplantation
+is a term candidate: 0
+
+-----------------
+
+if: trauma
+pos: NN
+lf: trauma
+is a term candidate: 0
+
+-----------------
+
+if: metamorphopsia
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: etiologies
+pos: NNS
+lf: etiology
+is a term candidate: 0
+
+-----------------
+
+if: numerous studies
+pos: JJ NNS
+lf: numerous study
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( numerous<=M> studies<=H> )
+islands: 0
+
+-----------------
+
+if: hypothesis of a link
+pos: NN of DT NN
+lf: hypothesis of a link
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hypothesis<=H> of<=P> a<=D> link<=M> )
+islands: 0
+
+-----------------
+
+if: Crohn
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CLEC9A-knocked down cells
+pos: JJ JJ NNS
+lf: INFunknownSUP down cell
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( CLEC9A-knocked<=M> ( down<=M> cells<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: cardiorenal medicine
+pos: JJ NN
+lf: INFunknownSUP medicine
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cardiorenal<=M> medicine<=H> )
+islands: 0
+
+-----------------
+
+if: appropriate therapeutic effect
+pos: JJ JJ NN
+lf: appropriate therapeutic effect
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( appropriate<=M> ( therapeutic<=M> effect<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: C-reactive protein
+pos: JJ NN
+lf: INFunknownSUP protein
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( C-reactive<=M> protein<=H> )
+islands: 0
+
+-----------------
+
+if: exudates
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: microbiome
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: p&lt
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: inflammatory markers
+pos: JJ NNS
+lf: inflammatory marker
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( inflammatory<=M> markers<=H> )
+islands: 0
+
+-----------------
+
+if: A.Tuberculosis
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: TNF-α
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Vascular complications
+pos: JJ NNS
+lf: vascular complication
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Vascular<=M> complications<=H> )
+islands: 0
+
+-----------------
+
+if: interstitial fluid of artificial skin blisters
+pos: JJ NN of JJ NN NNS
+lf: interstitial fluid of artificial skin blister
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: noninvasive ventilation
+pos: JJ NN
+lf: noninvasive ventilation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( noninvasive<=M> ventilation<=H> )
+islands: 0
+
+-----------------
+
+if: much attention
+pos: JJ NN
+lf: much attention
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( much<=M> attention<=H> )
+islands: 0
+
+-----------------
+
+if: adenosine A2A receptor
+pos: NN NP NN
+lf: adenosine INFunknownSUP receptor
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: endothelium
+pos: NN
+lf: endothelium
+is a term candidate: 0
+
+-----------------
+
+if: mg
+pos: NN
+lf: mg
+is a term candidate: 0
+
+-----------------
+
+if: Interestingly
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CLEC9A
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: burn rats.We
+pos: NN NNS
+lf: burn INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( burn<=M> rats.We<=H> )
+islands: 0
+
+-----------------
+
+if: growth factors
+pos: NN NNS
+lf: growth factor
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( growth<=M> factors<=H> )
+islands: 0
+
+-----------------
+
+if: Patients
+pos: NPS
+lf: Patients
+is a term candidate: 0
+
+-----------------
+
+if: Ranbaxy
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: oral steroids
+pos: JJ NNS
+lf: oral steroid
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( oral<=M> steroids<=H> )
+islands: 0
+
+-----------------
+
+if: A.Vitamin D
+pos: NP NP
+lf: INFunknownSUP D
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Vitamin<=M> D<=H> )
+islands: 0
+
+-----------------
+
+if: comparable detail
+pos: JJ NN
+lf: comparable detail
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( comparable<=M> detail<=H> )
+islands: 0
+
+-----------------
+
+if: endothelium protective effect of long-term pioglitazone intake
+pos: NN JJ NN of JJ NN NN
+lf: endothelium protective effect of long-term INFunknownSUP intake
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: tryptophan degradation
+pos: NN NN
+lf: tryptophan degradation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( tryptophan<=M> degradation<=H> )
+islands: 0
+
+-----------------
+
+if: criteria
+pos: NNS
+lf: criterion
+is a term candidate: 0
+
+-----------------
+
+if: non-homologous end joining-mediated DNA repair
+pos: JJ NN JJ NN NN
+lf: INFunknownSUP end INFunknownSUP DNA repair
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: certain groups of population
+pos: JJ NNS of NN
+lf: certain group of population
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: factors
+pos: NNS
+lf: factor
+is a term candidate: 0
+
+-----------------
+
+if: bronchial asthma concurrent
+pos: JJ NN NN
+lf: bronchial asthma concurrent
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: result of a combination of vascular damage inflammation
+pos: NN of DT NN of JJ NN NN
+lf: result of a combination of vascular damage inflammation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: T.CLINICAL COURSE
+pos: NP NP
+lf: INFunknownSUP Course
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( T.CLINICAL<=M> COURSE<=H> )
+islands: 0
+
+-----------------
+
+if: myosine expression
+pos: NN NN
+lf: INFunknownSUP expression
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( myosine<=M> expression<=H> )
+islands: 0
+
+-----------------
+
+if: A.Systemic sclerosis
+pos: JJ NN
+lf: INFunknownSUP sclerosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( A.Systemic<=M> sclerosis<=H> )
+islands: 0
+
+-----------------
+
+if: skill
+pos: NN
+lf: skill
+is a term candidate: 0
+
+-----------------
+
+if: non-specific chronic cystitis
+pos: JJ JJ NN
+lf: INFunknownSUP chronic cystitis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( non-specific<=M> ( chronic<=M> cystitis<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: negative impact
+pos: JJ NN
+lf: negative impact
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( negative<=M> impact<=H> )
+islands: 0
+
+-----------------
+
+if: neutrophil functions
+pos: JJ NNS
+lf: neutrophil function
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neutrophil<=M> functions<=H> )
+islands: 0
+
+-----------------
+
+if: complex therapy
+pos: JJ NN
+lf: complex therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( complex<=M> therapy<=H> )
+islands: 0
+
+-----------------
+
+if: controls
+pos: NNS
+lf: control
+is a term candidate: 0
+
+-----------------
+
+if: Sham-treated animals
+pos: JJ NNS
+lf: INFunknownSUP animal
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( Sham-treated<=M> animals<=H> )
+islands: 0
+
+-----------------
+
+if: body mass index
+pos: NN NN NN
+lf: body mass index
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: III
+pos: NP
+lf: III
+is a term candidate: 0
+
+-----------------
+
+if: development conditions
+pos: NN NNS
+lf: development condition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( development<=M> conditions<=H> )
+islands: 0
+
+-----------------
+
+if: Oral manifestation of this disease
+pos: JJ NN of DT NN
+lf: oral manifestation of this disease
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: activation of SYK
+pos: NN of NP
+lf: activation of INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( activation<=H> of<=P> SYK<=M> )
+islands: 0
+
+-----------------
+
+if: ISR.Patients
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: operational taxonomic units
+pos: JJ JJ NNS
+lf: operational taxonomic unit
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( operational<=M> ( taxonomic<=M> units<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: p = 0.18
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: pharmaceutical intervention
+pos: JJ NN
+lf: pharmaceutical intervention
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pharmaceutical<=M> intervention<=H> )
+islands: 0
+
+-----------------
+
+if: airflow obstruction
+pos: NN NN
+lf: airflow obstruction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( airflow<=M> obstruction<=H> )
+islands: 0
+
+-----------------
+
+if: Complex Regional Pain Syndrome : A Possible Target
+pos: NP NP NP NP COLUMN DT JJ NP
+lf: INFunknownSUP Regional Pain INFunknownSUP : a possible Target
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: pg/mL
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: depressive symptoms
+pos: JJ NNS
+lf: depressive symptom
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( depressive<=M> symptoms<=H> )
+islands: 0
+
+-----------------
+
+if: non-white chronic dialysis patients
+pos: JJ JJ NN NNS
+lf: non-white chronic dialysis patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: chronic HF patients
+pos: JJ NP NNS
+lf: chronic HF patient
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cardiovascular system
+pos: JJ NN
+lf: cardiovascular system
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cardiovascular<=M> system<=H> )
+islands: 0
+
+-----------------
+
+if: physicians
+pos: NNS
+lf: physician
+is a term candidate: 0
+
+-----------------
+
+if: DSBs
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: cellular Therapy
+pos: JJ NN
+lf: cellular therapy
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( cellular<=M> Therapy<=H> )
+islands: 0
+
+-----------------
+
+if: Caspase-2-mediated Ku80 cleavage
+pos: NP NP NN
+lf: INFunknownSUP INFunknownSUP cleavage
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: bacteria
+pos: NNS
+lf: bacterium
+is a term candidate: 0
+
+-----------------
+
+if: endothelial dysfunction
+pos: JJ NN
+lf: endothelial dysfunction
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( endothelial<=M> dysfunction<=H> )
+islands: 0
+
+-----------------
+
+if: proper diagnosis
+pos: JJ NN
+lf: proper diagnosis
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( proper<=M> diagnosis<=H> )
+islands: 0
+
+-----------------
+
+if: key regulators
+pos: JJ NNS
+lf: key regulator
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( key<=M> regulators<=H> )
+islands: 0
+
+-----------------
+
+if: lung inflammation
+pos: NN NN
+lf: lung inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( lung<=M> inflammation<=H> )
+islands: 0
+
+-----------------
+
+if: hormonal milieu
+pos: JJ NN
+lf: hormonal milieu
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( hormonal<=M> milieu<=H> )
+islands: 0
+
+-----------------
+
+if: genetic inheritance
+pos: JJ NN
+lf: genetic inheritance
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( genetic<=M> inheritance<=H> )
+islands: 0
+
+-----------------
+
+if: maximum blood flow velocity
+pos: JJ NN NN NN
+lf: maximum blood flow velocity
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: H&amp ; E
+pos: NP COLUMN NP
+lf: INFunknownSUP ; E
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: pain intensity
+pos: NN NN
+lf: pain intensity
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( pain<=M> intensity<=H> )
+islands: 0
+
+-----------------
+
+if: dystonia
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: disease course
+pos: NN NN
+lf: disease course
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( disease<=M> course<=H> )
+islands: 0
+
+-----------------
+
+if: Factors
+pos: NNS
+lf: factor
+is a term candidate: 0
+
+-----------------
+
+if: involvement of the immune system
+pos: NN of DT JJ NN
+lf: involvement of the immune system
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: mast cell densities
+pos: NN NN NNS
+lf: mast cell density
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: peripheral tissue oxygenation
+pos: JJ NN NN
+lf: peripheral tissue oxygenation
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: limited SSc
+pos: JJ NP
+lf: limited INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( limited<=M> SSc<=H> )
+islands: 0
+
+-----------------
+
+if: case of choroidal inflammation.Case report.A 41-year-old man
+pos: NN of JJ NN NN JJ NN
+lf: case of INFunknownSUP INFunknownSUP INFunknownSUP 41-year-old man
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: International Society
+pos: NP NP
+lf: International Society
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( International<=M> Society<=H> )
+islands: 0
+
+-----------------
+
+if: blood samples
+pos: NN NNS
+lf: blood sample
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( blood<=M> samples<=H> )
+islands: 0
+
+-----------------
+
+if: normal leukocyte counts
+pos: JJ NN NNS
+lf: normal INFunknownSUP count
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: neuroinflammation assessment
+pos: NN NN
+lf: INFunknownSUP assessment
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( neuroinflammation<=M> assessment<=H> )
+islands: 0
+
+-----------------
+
+if: IL-2
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: baseline coronary plaque composition
+pos: JJ JJ NN NN
+lf: baseline coronary plaque composition
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: background of standard therapy
+pos: NN of JJ NN
+lf: background of standard therapy
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Rheumatism/American College of Rheumatology - EULAR/ACR classification criteria
+pos: NP NP of NP COLUMN NP NN NNS
+lf: INFunknownSUP College of INFunknownSUP - INFunknownSUP classification criterion
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: KO
+pos: NP
+lf: KO
+is a term candidate: 0
+
+-----------------
+
+if: young WT mice
+pos: JJ NP NNS
+lf: young INFunknownSUP mouse
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: MANOVA
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: choroidal neovascularization involution
+pos: JJ NN NN
+lf: INFunknownSUP INFunknownSUP involution
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: right eye
+pos: JJ NN
+lf: right eye
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( right<=M> eye<=H> )
+islands: 0
+
+-----------------
+
+if: candidiasis
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: NHEJ)-mediated repair of DNA double-strand breaks
+pos: JJ NN of NP NN NNS
+lf: INFunknownSUP repair of DNA INFunknownSUP break
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: GH
+pos: NP
+lf: GH
+is a term candidate: 0
+
+-----------------
+
+if: presentation pathway
+pos: NN NN
+lf: presentation pathway
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( presentation<=M> pathway<=H> )
+islands: 0
+
+-----------------
+
+if: months
+pos: NNS
+lf: month
+is a term candidate: 0
+
+-----------------
+
+if: adhesion marker sVCAM-1
+pos: NN NN NN
+lf: adhesion marker INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: HDCs
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: VH-IVUS
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: CKD
+pos: NP
+lf: CKD
+is a term candidate: 0
+
+-----------------
+
+if: rat tapeworm
+pos: NN NN
+lf: rat tapeworm
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( rat<=M> tapeworm<=H> )
+islands: 0
+
+-----------------
+
+if: expression of inflammatory cytokines
+pos: NN of JJ NNS
+lf: expression of inflammatory INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Eotaxin
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: pathogens
+pos: NNS
+lf: pathogen
+is a term candidate: 0
+
+-----------------
+
+if: regard
+pos: NN
+lf: regard
+is a term candidate: 0
+
+-----------------
+
+if: T.Differences
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: protective role
+pos: JJ NN
+lf: protective role
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( protective<=M> role<=H> )
+islands: 0
+
+-----------------
+
+if: ulcerations
+pos: NNS
+lf: ulceration
+is a term candidate: 0
+
+-----------------
+
+if: way
+pos: NN
+lf: way
+is a term candidate: 0
+
+-----------------
+
+if: H37Ra
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: links
+pos: NNS
+lf: link
+is a term candidate: 0
+
+-----------------
+
+if: -589-5p
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: Pathway enrichment analysis
+pos: NP NN NN
+lf: INFunknownSUP enrichment analysis
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: potential therapy targets
+pos: JJ NN NNS
+lf: potential therapy target
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: organized collagen fibers
+pos: JJ NN NNS
+lf: organized collagen fiber
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cysticercoid developmental stage of Hymenolepis diminuta ; HDC
+pos: NN JJ NN of NP NP COLUMN NP
+lf: cysticercoid developmental stage of INFunknownSUP INFunknownSUP ; INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: cryopreserved AM allograft
+pos: JJ NP NN
+lf: INFunknownSUP AM INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: TNFα
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: chronic heart failure
+pos: JJ NN NN
+lf: chronic heart failure
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: older adults
+pos: JJR NNS
+lf: old adult
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( older<=M> adults<=H> )
+islands: 0
+
+-----------------
+
+if: levels
+pos: NNS
+lf: level
+is a term candidate: 0
+
+-----------------
+
+if: months.It
+pos: NN
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: leukocytes
+pos: NNS
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: age-/gender-matched healthy controls
+pos: JJ JJ NNS
+lf: INFunknownSUP healthy control
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( age-/gender-matched<=M> ( healthy<=M> controls<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: core curriculum
+pos: JJ NN
+lf: core curriculum
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( core<=M> curriculum<=H> )
+islands: 0
+
+-----------------
+
+if: ultimate force of tendons
+pos: JJ NN of NNS
+lf: ultimate force of tendon
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: comparison
+pos: NN
+lf: comparison
+is a term candidate: 0
+
+-----------------
+
+if: p &lt
+pos: NN NN
+lf: p INFunknownSUP
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( p<=M> &lt<=H> )
+islands: 0
+
+-----------------
+
+if: classification of cardiorenal syndrome
+pos: NN of JJ NN
+lf: classification of INFunknownSUP syndrome
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: ALS patients
+pos: JJ NNS
+lf: INFunknownSUP patient
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( ALS<=M> patients<=H> )
+islands: 0
+
+-----------------
+
+if: Ku80
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: rate
+pos: NN
+lf: rate
+is a term candidate: 0
+
+-----------------
+
+if: chronic systemic conditions
+pos: JJ JJ NNS
+lf: chronic systemic condition
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( chronic<=M> ( systemic<=M> conditions<=H> )<=H> )
+islands: 0
+
+-----------------
+
+if: fibrosis
+pos: NN
+lf: fibrosis
+is a term candidate: 0
+
+-----------------
+
+if: acute kidney injury
+pos: JJ NN NN
+lf: acute kidney injury
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: part of the digestive system
+pos: NN of DT JJ NN
+lf: part of the digestive system
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: resolution of inflammation
+pos: NN of NN
+lf: resolution of inflammation
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( resolution<=H> of<=P> inflammation<=M> )
+islands: 0
+
+-----------------
+
+if: profile of the relative expression of inflammatory mediators
+pos: NN of DT JJ NN of JJ NNS
+lf: profile of the relative expression of inflammatory mediator
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: great deal of heterogeneity
+pos: JJ NN of NN
+lf: great deal of heterogeneity
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: disorder
+pos: NN
+lf: disorder
+is a term candidate: 0
+
+-----------------
+
+if: early stages
+pos: JJ NNS
+lf: early stage
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( early<=M> stages<=H> )
+islands: 0
+
+-----------------
+
+if: Results
+pos: NNS
+lf: result
+is a term candidate: 0
+
+-----------------
+
+if: inflammatory cytokines activity
+pos: JJ NNS NN
+lf: inflammatory INFunknownSUP activity
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: CRPS patients.The primary outcome parameters
+pos: NP JJ JJ NN NNS
+lf: INFunknownSUP INFunknownSUP primary outcome parameter
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: significant associations
+pos: JJ NNS
+lf: significant association
+is a term candidate: 1
+parsing method: PATTERN_MATCHING
+forest:  number of trees: 1
+	T1: ( significant<=M> associations<=H> )
+islands: 0
+
+-----------------
+
+if: expression of anti-inflammatory cytokines
+pos: NN of JJ NNS
+lf: expression of anti-inflammatory INFunknownSUP
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: A2AR
+pos: NP
+lf: INFunknownSUP
+is a term candidate: 0
+
+-----------------
+
+if: mast cell count
+pos: NN NN NN
+lf: mast cell count
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: picture
+pos: NN
+lf: picture
+is a term candidate: 0
+
+-----------------
+
+if: transient etoposide treatment
+pos: JJ NP NN
+lf: transient etoposide treatment
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: Secondary outcome parameters
+pos: JJ NN NNS
+lf: secondary outcome parameter
+is a term candidate: 0
+islands: 0
+
+-----------------
+
+if: smooth muscle cells
+pos: JJ NN NNS
+lf: smooth muscle cell
+is a term candidate: 0
+islands: 0
+
+-----------------
+
