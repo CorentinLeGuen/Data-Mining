@@ -87,17 +87,17 @@ public class Mapper {
         }
 
         BufferedWriter writer = new BufferedWriter(new FileWriter(f));
-
+        writer.write('?');
         for(String term : terms) {
-            writer.write(term + "\t");
+            writer.write( term.replace(' ', '_') + ",");
         }
         writer.write("\n");
         Set<String> pmids = occurences.keySet();
         for(String pmid : pmids) {
-            writer.write(pmid + "\t");
+            writer.write(pmid + ",");
             List<Boolean> occurence = occurences.get(pmid);
             for (Boolean o : occurence) {
-                writer.write(o.toString() + "\t");
+                writer.write(o.toString() + ",");
             }
             writer.write("\n");
         }
