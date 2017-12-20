@@ -87,7 +87,7 @@ public class Mapper {
         }
 
         BufferedWriter writer = new BufferedWriter(new FileWriter(f));
-        writer.write("id,");
+        writer.write("pmid,");
         int count = 0;
         String header = "";
         int nbocc = 0;
@@ -108,7 +108,7 @@ public class Mapper {
         Set<String> pmids = occurences.keySet();
         for(String pmid : pmids) {
             //System.out.println("pmid: " + (pmid.length()));
-            writer.write((pmid != null && pmid.length() != 0 ? pmid : "?")  + ",");
+            writer.write((pmid != null && pmid.length() != 0 ? "PMID" + pmid : "?")  + ",");
             List<Boolean> occurence = occurences.get(pmid);
             count = 0;
             for (Boolean o : occurence) {
