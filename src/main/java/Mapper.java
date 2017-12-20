@@ -92,8 +92,8 @@ public class Mapper {
         String header = "";
         int nbocc = 0;
         for(String term : terms) {
-            String termToWrite = term;
-            if(header.contains(term)) {
+            String termToWrite = term.replaceAll("[^\\w^\\s]", "Q");
+            if(header.contains(termToWrite)) {
                 termToWrite = termToWrite + "_" + nbocc;
                 ++nbocc;
             }
