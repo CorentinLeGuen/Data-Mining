@@ -89,13 +89,20 @@ public class Mapper {
         BufferedWriter writer = new BufferedWriter(new FileWriter(f));
         writer.write("id,");
         int count = 0;
+        String header = "";
+        int nbocc = 0;
         for(String term : terms) {
-            //terms.
-            writer.write( term.replace(' ', '_'));
+            String termToWrite = term;
+            if(header.contains(term)) {
+                termToWrite = termToWrite + "_" + nbocc;
+                ++nbocc;
+            }
+            writer.write(termToWrite.replace(' ', '_'));
             count += 1;
             if (count != terms.size()) {
                 writer.write( ",");
             }
+            header += termToWrite;
         }
         writer.write("\n");
         Set<String> pmids = occurences.keySet();
