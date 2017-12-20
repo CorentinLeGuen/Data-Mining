@@ -70,7 +70,7 @@ public class Mapper {
         while (m.find()) {
             List<Boolean> occurence = new ArrayList<Boolean>();
             String text = m.group(2);
-            System.out.println(m.group(1));
+
             for(int i = 0; i < terms.size(); ++i) {
                 occurence.add(i, text.contains(terms.get(i)));
             }
@@ -87,17 +87,29 @@ public class Mapper {
         }
 
         BufferedWriter writer = new BufferedWriter(new FileWriter(f));
-        writer.write('?');
+        writer.write("id,");
+        int count = 0;
         for(String term : terms) {
-            writer.write( term.replace(' ', '_') + ",");
+            //terms.
+            writer.write( term.replace(' ', '_'));
+            count += 1;
+            if (count != terms.size()) {
+                writer.write( ",");
+            }
         }
         writer.write("\n");
         Set<String> pmids = occurences.keySet();
         for(String pmid : pmids) {
-            writer.write(pmid + ",");
+            //System.out.println("pmid: " + (pmid.length()));
+            writer.write((pmid != null && pmid.length() != 0 ? pmid : "?")  + ",");
             List<Boolean> occurence = occurences.get(pmid);
+            count = 0;
             for (Boolean o : occurence) {
-                writer.write(o.toString() + ",");
+                writer.write(o ? "YES" : "NO");
+                count += 1;
+                if (count != occurence.size()) {
+                    writer.write( ",");
+                }
             }
             writer.write("\n");
         }
