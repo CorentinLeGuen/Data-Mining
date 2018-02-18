@@ -1,0 +1,57 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[a4paper]{geometry}
+\usepackage{multicol}
+\usepackage{listings}
+\usepackage{tabto}
+
+\title{Projet de Fouille de Données}
+\author{par Jordan Baudin, Corentin LeGuen et Geoffrey Spaur}
+\date{19 février 2018}
+\pagestyle{fancy}
+\lhead{Projet de Fouille de Données \\ \textbf{M2GIL} - Jordan Baudin, Corentin LeGuen et Geoffrey Spaur}
+\rhead{\includegraphics[scale=0.5]{logo_univ_rouen.png}}
+\setlength{\headsep}{1cm}
+\begin{document}
+
+\maketitle
+\newpage
+\tableofcontents{}
+\newpage
+\section{Présentation}
+  \paragraph{}
+  Ce projet a pour but d'extraire des connaissances à partir d'un annuaire de connaissances sous forme ontologique,
+  qui pourra être utilisé ultérieurement afin d'annoter des connaissances, afin de contribuer à l'indexation et la recherche
+  de documents.
+  
+ \newpage
+\section{Extraction des données}
+\paragraph{}
+  Nous avions à traiter des données de type PubMedArticle, 
+  extraits depuis le site : \href{https://www.ncbi.nlm.nih.gov/pubmed}{PubMed.gov}.
+  De ces articles, nous avons extraits les titres et les abstracts, que nous avons associé par couple, grâce à du code Java produit par nous-même.
+  On obtient alors un fichier txt dans lesquel chaque paire de lignes correspondent à un article,
+  avec son titre préfixé par "T." et son abstract préfixé par "A.".
+
+\section{Traitement des données}
+\paragraph{}
+  De ces fichiers d'où sont extraits les titres et abstracts, nous avons effectué une recherche de token unique,
+  grâce à TreeTagger, nous donnant un nouveau fichier qui taggera chacun des termes selon le système de tags de TreeTagger,
+  qui est configuré pour traiter des termes en anglais et qui les simplifiera en retirant la conjugaison appliquée aux termes,
+  ainsi que le pluriel. Ainsi, des termes seront annotés comme inconnus par TreeTagger, parfois, ils seront simplement copié
+  et encore d'autres fois modifié au niveau orthographique ou de la casse.
+
+
+
+\newpage
+\section{Conclusion}
+  \paragraph{} TODO
+   
+\end{document}
